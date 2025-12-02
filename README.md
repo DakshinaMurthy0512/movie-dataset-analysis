@@ -1,4 +1,4 @@
-# movie-dataset-analysis
+# Movie-dataset-analysis
 Data Analytics Project using Python, MySQL, Power BI, Excel.
 The Movie Dataset used in this project contains information about 1,000 global movies, covering various attributes related to production, performance, ratings, and streaming availability.
 This dataset is used for Python preprocessing, SQL analytics, and Power BI visualizations.
