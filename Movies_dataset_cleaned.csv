@@ -1,0 +1,1001 @@
+Movie_ID,Title,Genre,Release_Year,Language,Country,Runtime_Min,Budget_Million,BoxOffice_Million,IMDb_Rating,Votes,Streaming_Platform,Director,Actor,RottenTomatoes_Score,Movie_Age,Profit_Million,Profit_Percentage,Success_Category
+9795bbc2-455d-4ee2-9592-3400d1ec7eb2,KGF Chapter 2,Action,1987,Hindi,Canada,122,25.79,1150.03,7.0,1519401,Amazon Prime,Rajamouli,Yash,59,38,1124.24,4359.208995734781,Average
+83538bbf-2c4e-40d2-8aa5-ea31529cc7fc,The Shawshank Redemption,Fantasy,2005,English,India,118,189.1,1014.41,5.3,4407456,HBO Max,Steven Spielberg,Tom Cruise,99,20,825.31,436.4410364886304,Flop
+dde21b6c-5da1-49fa-a8df-a6ff2e81a445,Titanic,Comedy,2006,Telugu,India,161,79.44,1353.96,9.2,3786157,Amazon Prime,Mani Ratnam,Shah Rukh Khan,13,19,1274.52,1604.3806646525682,Hit
+de3caa14-3167-4df7-82fa-68637aa89059,Joker,Adventure,1970,Hindi,UK,141,265.17,1132.24,6.3,4093500,Disney+,Rajamouli,Robert Downey Jr.,34,55,867.0699999999999,326.98646151525435,Average
+5279cdbe-2057-436b-83d6-bb4a3c4b3c9c,Barbie,Fantasy,1985,Hindi,India,108,60.29,94.01,7.0,2557466,HBO Max,Rajamouli,Leonardo DiCaprio,35,40,33.720000000000006,55.92967324597778,Average
+3cebef1f-0740-48f2-aabd-645bed793c49,The Avengers,Comedy,2001,Telugu,Canada,190,220.59,1669.55,5.1,1363973,Netflix,Anurag Kashyap,Yash,22,24,1448.96,656.8566118137721,Flop
+e6818489-2e17-4c96-8a02-bbfd9377c003,The Matrix,Action,1974,Hindi,USA,180,19.1,1998.1,8.0,974774,Disney+,Christopher Nolan,Robert Downey Jr.,34,51,1979.0,10361.256544502616,Hit
+824a2bd8-870d-48dd-a1dd-4deffdf8dbc2,Barbie,Action,2020,Tamil,UK,165,212.76,569.59,6.4,2392825,Netflix,Steven Spielberg,Yash,87,5,356.83000000000004,167.71479601428842,Average
+19a66f94-37a5-4a53-84a9-b3bad36c1117,Gladiator,Action,2010,Telugu,India,122,186.85,1977.37,5.7,2275380,Amazon Prime,Steven Spielberg,Shah Rukh Khan,100,15,1790.52,958.2659887610383,Flop
+bd1c077e-320f-4c99-ba98-565673c9828c,Inception,Fantasy,1986,Telugu,USA,115,55.06,1552.77,9.4,3059703,HBO Max,James Cameron,Leonardo DiCaprio,61,39,1497.71,2720.1416636396657,Hit
+b6c7f48a-63cd-4455-9572-d474fef5725c,Baahubali: The Conclusion,Drama,1995,Telugu,UK,104,28.94,2400.93,9.1,4800009,Disney+,Mani Ratnam,Rajinikanth,80,30,2371.99,8196.233586731167,Hit
+1de57446-3578-4240-8e2b-bd6fcb6e0ee8,Barbie,Romance,1982,Hindi,India,172,221.85,419.06,9.1,3074242,Disney+,Mani Ratnam,Tom Cruise,42,43,197.21,88.89339643903539,Hit
+4d422aa5-cfa5-44dd-bd3b-5edcff15f103,Pulp Fiction,Drama,1987,Hindi,Canada,180,255.88,2202.23,9.0,1464177,Hulu,Rajamouli,Tom Cruise,16,38,1946.35,760.6495232140065,Hit
+b7494f89-16fa-4dc6-8d69-3bbf5422f58f,Fight Club,Thriller,1974,Hindi,India,119,278.54,1401.41,5.1,694703,Disney+,Christopher Nolan,Shah Rukh Khan,11,51,1122.8700000000001,403.12701945860556,Flop
+b69d4538-beb4-4fc9-a266-f7fb2d33825f,The Shawshank Redemption,Drama,1996,Tamil,USA,184,151.34,2076.65,8.9,911560,HBO Max,Christopher Nolan,Prabhas,30,29,1925.3100000000002,1272.1752345711643,Hit
+8247d652-d124-4860-af5b-ed3edfab67af,Inception,Fantasy,2002,Hindi,USA,89,13.53,1012.39,9.0,1709274,Hulu,Mani Ratnam,Yash,83,23,998.86,7382.557280118256,Hit
+c1c6d15b-f57b-452c-bc96-e03a669e7656,3 Idiots,Adventure,2002,English,Canada,101,198.86,1640.41,6.2,3343891,HBO Max,Steven Spielberg,Robert Downey Jr.,44,23,1441.5500000000002,724.9069697274465,Average
+2bf8125c-1130-4bbb-a647-ecf23078c407,Dangal,Comedy,2020,Telugu,USA,83,40.93,2184.91,7.4,4840637,Netflix,Anurag Kashyap,Tom Cruise,91,5,2143.98,5238.162716833619,Average
+7428325f-b506-4eaa-9e63-b840cdd082ae,The Lion King,Comedy,1979,Tamil,USA,113,1.62,219.76,6.8,4463203,HBO Max,Mani Ratnam,Shah Rukh Khan,25,46,218.14,13465.43209876543,Average
+8c61dff2-603f-436d-8f31-8908ac3d84cb,Forrest Gump,Action,1978,Hindi,India,105,209.43,834.0,7.2,1131851,Amazon Prime,Mani Ratnam,Robert Downey Jr.,66,47,624.5699999999999,298.2237501790574,Average
+961e5d20-db5b-4d63-96b5-78d5fc143bdb,Jurassic Park,Fantasy,1995,Tamil,India,100,238.73,107.44,6.6,3631654,HBO Max,Mani Ratnam,Rajinikanth,82,30,-131.29,-54.99518284254178,Average
+48e8b285-d8fc-4923-af02-ae86baccd6e0,3 Idiots,Drama,2003,Tamil,India,185,263.33,1507.42,6.8,2652820,HBO Max,Steven Spielberg,Prabhas,55,22,1244.0900000000001,472.4452208255801,Average
+d2e8c9a3-de26-4bca-bbe9-95d6e377f914,The Batman,Comedy,1995,Tamil,UK,116,279.29,339.4,8.0,1543941,Amazon Prime,Steven Spielberg,Tom Cruise,72,30,60.10999999999996,21.522431880840685,Hit
+091e3c6c-c180-4941-8a96-ed3c6b3b29c6,KGF Chapter 2,Action,1985,Telugu,India,136,241.8,137.37,9.7,2314851,Hulu,Mani Ratnam,Robert Downey Jr.,18,40,-104.43,-43.188585607940446,Hit
+594418f1-ac0b-4c06-9275-307ae3d55b17,Fight Club,Horror,2020,Telugu,USA,87,155.81,2392.18,8.8,3700498,HBO Max,Mani Ratnam,Leonardo DiCaprio,91,5,2236.37,1435.3186573390667,Hit
+6a6fd3aa-b096-4186-9fb8-d0db6e720963,The Avengers,Comedy,2014,Tamil,USA,92,120.76,1501.21,5.1,3662869,Netflix,Christopher Nolan,Rajinikanth,64,11,1380.45,1143.1351440874462,Flop
+be9d02b7-7a55-40ba-a996-4c8f6180eb6b,Interstellar,Adventure,1976,Tamil,UK,83,233.37,688.66,5.1,4148365,HBO Max,Rajamouli,Yash,60,49,455.28999999999996,195.09362814414877,Flop
+5a17d07e-fb96-4620-8442-dfd7f926595f,Oppenheimer,Fantasy,2019,English,USA,169,194.24,1582.35,6.8,4759183,Hulu,James Cameron,Yash,34,6,1388.11,714.6365321252058,Average
+7c1a3ac2-82eb-472e-aa39-5ea72e03428f,The Shawshank Redemption,Adventure,1993,Hindi,USA,168,242.16,2018.62,5.8,2779632,Disney+,Mani Ratnam,Shah Rukh Khan,78,32,1776.4599999999998,733.5893624050213,Flop
+df45fdd5-7187-458a-ad6d-bf0e8f68880d,The Batman,Adventure,1996,Tamil,India,90,70.21,886.5,6.3,3587494,Netflix,Steven Spielberg,Yash,73,29,816.29,1162.640649480131,Average
+b2aa62ef-b880-4497-8823-2a8ee4f1eb5b,Jurassic Park,Drama,2007,English,UK,113,59.55,1096.91,8.2,2644198,Hulu,Steven Spielberg,Tom Cruise,51,18,1037.3600000000001,1741.9983207388755,Hit
+3b73e4cb-2566-4992-8892-5b02aeadabd8,Pulp Fiction,Action,1997,Telugu,UK,161,8.71,681.64,7.4,4715721,Hulu,James Cameron,Leonardo DiCaprio,11,28,672.93,7725.947187141216,Average
+4c20e85a-382b-46a7-9b12-c9a777b45451,Pulp Fiction,Adventure,2004,Hindi,India,105,211.7,1775.94,9.0,3339199,Amazon Prime,Rajamouli,Rajinikanth,19,21,1564.24,738.8946622579123,Hit
+7bb17ac6-b89f-4fb7-88ec-09bbec14495b,Forrest Gump,Thriller,1995,Tamil,UK,116,281.77,159.5,5.2,155340,Amazon Prime,Rajamouli,Yash,30,30,-122.26999999999998,-43.39354792916208,Flop
+f13c62a9-1e1c-4d10-a3ad-5efcbd25f0fa,Oppenheimer,Fantasy,2012,Tamil,Canada,174,43.33,962.44,7.0,2571311,Amazon Prime,Anurag Kashyap,Rajinikanth,34,13,919.11,2121.186245095777,Average
+2f816af0-f6ad-47f3-b9ce-f1b068d5f392,The Batman,Romance,1974,Hindi,India,117,17.31,1585.45,9.3,2928298,Amazon Prime,James Cameron,Tom Cruise,100,51,1568.14,9059.156556903525,Hit
+cdf5286e-8e15-48d0-a4b4-eebd623a281e,Baahubali: The Conclusion,Horror,2002,Telugu,India,140,294.68,2074.46,6.6,1176742,Hulu,Anurag Kashyap,Robert Downey Jr.,16,23,1779.78,603.9704085787973,Average
+a1680649-a98b-4c3f-9b89-716afcb7ea84,Baahubali: The Conclusion,Comedy,1972,Hindi,UK,103,104.18,247.15,6.6,177952,Disney+,Steven Spielberg,Yash,76,53,142.97,137.23363409483585,Average
+fea9c587-e772-4764-bd06-dcb1d333abd7,Avatar,Sci-Fi,2014,Tamil,Canada,120,38.23,1456.95,9.3,4865924,Amazon Prime,James Cameron,Leonardo DiCaprio,22,11,1418.72,3711.01229400994,Hit
+6f009f52-0f71-4a58-a125-6e08f99d6d53,Pulp Fiction,Drama,1979,Hindi,India,88,295.23,2330.94,5.6,3922198,Hulu,Steven Spielberg,Robert Downey Jr.,59,46,2035.71,689.5335839853673,Flop
+74f22c0a-ff46-4037-a063-0f057ba6ad99,Baahubali: The Conclusion,Comedy,2009,Telugu,Canada,162,104.39,2023.86,8.3,1802723,Netflix,Anurag Kashyap,Tom Cruise,92,16,1919.4699999999998,1838.748922310566,Hit
+c27cec04-e783-497a-84a5-8442bd7c8814,The Matrix,Romance,1978,Telugu,USA,137,31.46,1939.35,6.9,3883646,Amazon Prime,Anurag Kashyap,Prabhas,12,47,1907.8899999999999,6064.4945963127775,Average
+8283ec03-384b-4fde-a6e9-c3c16f893bfc,Avatar,Sci-Fi,2006,Tamil,India,178,77.59,892.48,8.7,1957134,Hulu,Anurag Kashyap,Robert Downey Jr.,40,19,814.89,1050.2513210465265,Hit
+914ccb17-d3ef-4cb3-b77a-451e660de88b,Forrest Gump,Action,2024,Telugu,USA,112,95.29,1254.66,9.5,853712,Hulu,Mani Ratnam,Rajinikanth,81,1,1159.3700000000001,1216.6754119005143,Hit
+fb0da5e2-e313-4cd6-95be-dc2ccb371054,Barbie,Romance,1987,English,USA,152,21.93,512.88,6.7,4997483,Amazon Prime,Mani Ratnam,Yash,65,38,490.95,2238.7140902872775,Average
+48f8ff7f-d2c6-4c74-9a8e-f1ead63660da,Inception,Thriller,1970,Hindi,India,139,172.42,2220.19,5.7,2262743,Hulu,Rajamouli,Shah Rukh Khan,59,55,2047.77,1187.6638441016125,Flop
+32f84162-b02b-4cb6-88ea-f41e63e8911a,Barbie,Drama,1987,Hindi,UK,81,239.82,1684.82,8.1,2498542,HBO Max,Rajamouli,Leonardo DiCaprio,12,38,1445.0,602.5352347594029,Hit
+ba874adf-1e32-4bb6-8312-0522e1c10d4f,The Avengers,Drama,2005,Telugu,Canada,163,250.99,1902.19,7.8,1256233,HBO Max,Rajamouli,Tom Cruise,48,20,1651.2,657.8748157297103,Average
+58f508a8-d087-4778-bf68-38a417b0dcfb,The Batman,Action,1975,Tamil,Canada,185,113.69,2465.74,8.4,659912,Hulu,Steven Spielberg,Tom Cruise,26,50,2352.0499999999997,2068.8275134136684,Hit
+a360bce3-309e-4dcb-9a27-f3c6de012cb8,Avatar,Adventure,1989,Tamil,India,178,161.25,874.26,7.7,3513990,Amazon Prime,Rajamouli,Robert Downey Jr.,36,36,713.01,442.17674418604645,Average
+0ecb9b82-dd88-406c-9693-fc722ec7134c,Jurassic Park,Comedy,1990,Hindi,USA,180,185.89,1336.07,8.9,4439011,Amazon Prime,Rajamouli,Tom Cruise,92,35,1150.1799999999998,618.7422669320566,Hit
+98623f1b-f935-42c3-85e3-28d7390bbd10,Pulp Fiction,Romance,2021,Tamil,India,159,91.83,1090.92,9.1,4994150,Netflix,Rajamouli,Prabhas,28,4,999.09,1087.9777850375694,Hit
+5c8b458e-0512-4cd8-87c7-7f453ec277bb,The Lion King,Drama,2022,Telugu,Canada,141,150.74,571.35,6.3,608052,HBO Max,Christopher Nolan,Leonardo DiCaprio,44,3,420.61,279.0301180841183,Average
+2b34af2f-f4e7-41f4-a0c0-808135bf63d6,The Dark Knight,Romance,1994,Telugu,USA,180,234.54,712.89,7.3,2449098,Netflix,James Cameron,Robert Downey Jr.,29,31,478.35,203.95241749808136,Average
+881d1ccf-2eaa-4b24-a5a9-ce67b1d1663e,Inception,Romance,1975,Telugu,UK,189,284.56,1068.85,9.5,4137912,Hulu,Christopher Nolan,Robert Downey Jr.,53,50,784.29,275.6149845375316,Hit
+68d9f465-8776-4434-9df3-1a502b321d1a,Forrest Gump,Action,2022,Hindi,India,182,270.11,1793.91,8.5,594448,Disney+,Christopher Nolan,Rajinikanth,89,3,1523.8000000000002,564.1405353374552,Hit
+62904a46-b2d9-4677-8506-d8993b839b97,Baahubali: The Conclusion,Romance,1983,Hindi,UK,110,108.32,895.02,7.5,1744030,Hulu,Rajamouli,Tom Cruise,56,42,786.7,726.2740029542099,Average
+e6f24913-4a07-4b48-8ffa-96b428f86ac9,Forrest Gump,Adventure,1996,English,India,155,254.5,917.89,6.0,1662215,HBO Max,Steven Spielberg,Rajinikanth,72,29,663.39,260.66404715127703,Average
+6f415bc0-ffc3-4da0-a67a-3953c9eefcf7,Joker,Thriller,1987,English,India,126,150.79,1581.87,6.8,488433,HBO Max,Mani Ratnam,Shah Rukh Khan,40,38,1431.08,949.0549771204987,Average
+bb18ba6d-385e-4a05-912a-c71157b57b99,Titanic,Fantasy,1993,Hindi,UK,167,131.67,549.59,7.7,3447101,Disney+,Steven Spielberg,Robert Downey Jr.,61,32,417.9200000000001,317.3995595048228,Average
+d038aec3-cee6-472e-86ca-02fe65f44ce1,Joker,Action,2008,English,USA,126,269.81,601.09,8.0,2608816,Hulu,Rajamouli,Shah Rukh Khan,38,17,331.28000000000003,122.7826989362885,Hit
+06c5360e-be54-427c-a089-63a5741f751a,Pulp Fiction,Thriller,2008,Hindi,Canada,117,290.74,2163.26,7.7,264407,Hulu,Steven Spielberg,Rajinikanth,78,17,1872.5200000000002,644.0531058677857,Average
+12034e8f-208a-4e89-9008-a46b736eb6d3,Barbie,Romance,1980,Telugu,India,186,86.81,1891.42,8.1,3562819,Hulu,Anurag Kashyap,Robert Downey Jr.,98,45,1804.6100000000001,2078.8042852205967,Hit
+c69e7680-5a3d-4424-890d-687d0e692b3a,Joker,Adventure,1998,Telugu,USA,117,39.72,2334.29,5.6,1482320,Hulu,Mani Ratnam,Rajinikanth,69,27,2294.57,5776.863041289024,Flop
+cd771879-8275-4569-8242-ff9fedafd092,The Shawshank Redemption,Fantasy,2004,Tamil,UK,166,99.24,519.05,9.7,874784,Disney+,Anurag Kashyap,Robert Downey Jr.,41,21,419.80999999999995,423.02498992341793,Hit
+9c09d0ad-1e9a-40b0-8b73-d0c66ba48625,Avatar,Sci-Fi,2000,Hindi,India,188,146.07,533.93,6.4,2374644,Netflix,James Cameron,Leonardo DiCaprio,99,25,387.85999999999996,265.53022523447663,Average
+39af52eb-7ed6-49b0-925e-30ef3065a590,Interstellar,Drama,1990,Telugu,UK,169,155.95,703.2,6.4,968196,Netflix,James Cameron,Tom Cruise,62,35,547.25,350.9137544084643,Average
+ee81a095-b73e-47cd-ad07-35693034736d,Barbie,Action,2022,English,India,132,19.48,1529.08,5.5,1374670,Hulu,Christopher Nolan,Rajinikanth,66,3,1509.6,7749.486652977412,Flop
+2348f6ec-5e57-4c05-88ee-9cd3a308e620,3 Idiots,Action,2017,Tamil,USA,88,243.95,2195.23,8.6,742926,Netflix,James Cameron,Shah Rukh Khan,92,8,1951.28,799.8688255790121,Hit
+a802d16a-7808-430b-8377-1ba93657f34c,The Shawshank Redemption,Drama,1999,Hindi,UK,81,78.51,2046.61,6.1,2089757,HBO Max,Christopher Nolan,Robert Downey Jr.,22,26,1968.1,2506.814418545408,Average
+39a214dd-e116-44a1-9467-ca30d09f2fde,The Avengers,Adventure,2021,Telugu,USA,85,5.36,1536.62,8.4,644762,Amazon Prime,Anurag Kashyap,Leonardo DiCaprio,50,4,1531.26,28568.28358208955,Hit
+daa775a4-ad14-4f8b-844c-d32b0dfdbf54,The Dark Knight,Comedy,2003,Tamil,Canada,136,291.66,2151.37,9.7,744714,Hulu,James Cameron,Rajinikanth,19,22,1859.7099999999998,637.6294315298634,Hit
+8ae4a278-8ea3-4cae-8e96-81f4c259987b,The Avengers,Romance,2024,English,Canada,179,205.95,2132.32,5.8,3315254,Disney+,Mani Ratnam,Prabhas,28,1,1926.3700000000001,935.3580966253948,Flop
+8dcc5df7-8644-424e-89bb-41b427fd6b90,Avengers: Endgame,Sci-Fi,2008,Tamil,Canada,80,66.6,700.4,7.0,3691002,Hulu,Steven Spielberg,Leonardo DiCaprio,94,17,633.8,951.6516516516516,Average
+2c2258b7-2581-43f5-9d9c-b75d7d835034,Forrest Gump,Adventure,1977,Tamil,UK,185,152.41,1273.94,9.6,725502,Hulu,Mani Ratnam,Rajinikanth,60,48,1121.53,735.8637884653238,Hit
+6fd8f03c-a8e1-4cf6-b9bb-268f1b0e9a6c,Avatar,Horror,1981,Hindi,India,168,58.91,1769.99,7.6,3558885,Disney+,Anurag Kashyap,Prabhas,76,44,1711.08,2904.5662875572907,Average
+a8f9f48a-6b45-4361-af8c-b77ef31e5d33,KGF Chapter 2,Fantasy,2016,Telugu,USA,162,161.12,608.14,7.0,1573036,Disney+,Anurag Kashyap,Shah Rukh Khan,53,9,447.02,277.44538232373384,Average
+0b16934d-ae99-43d4-ba96-a6d6e5102164,Jurassic Park,Horror,2008,Tamil,Canada,86,90.45,797.96,6.4,183974,Hulu,Anurag Kashyap,Yash,37,17,707.51,782.2111663902708,Average
+45987d14-404a-4319-83af-7713c3a4aa2d,Jurassic Park,Comedy,2024,Hindi,UK,172,26.4,1909.51,6.1,594110,Hulu,Christopher Nolan,Shah Rukh Khan,79,1,1883.11,7132.992424242424,Average
+58979934-e055-4efa-b0a0-4464796ff221,The Avengers,Fantasy,2005,Tamil,India,92,113.28,393.91,7.7,4302512,Amazon Prime,Christopher Nolan,Rajinikanth,78,20,280.63,247.73128531073448,Average
+9b62cda4-2843-47f3-b2c2-773375f552a8,Dangal,Action,1975,Tamil,India,167,173.42,2068.12,6.6,1315943,Hulu,Steven Spielberg,Tom Cruise,15,50,1894.6999999999998,1092.5498789067005,Average
+277454c0-a2be-459f-9976-989611605fde,The Avengers,Adventure,1996,Telugu,USA,129,106.61,1988.64,5.4,2317319,Hulu,James Cameron,Rajinikanth,98,29,1882.0300000000002,1765.3409623862678,Flop
+7a917594-67f9-49d4-a9d4-6e47d1e0749f,Baahubali: The Beginning,Romance,1996,Telugu,Canada,174,1.75,113.32,8.0,2573679,Netflix,James Cameron,Rajinikanth,45,29,111.57,6375.428571428571,Hit
+b428d342-91b8-4a55-a33e-d4c9034dd432,Interstellar,Romance,1980,Hindi,India,144,147.91,1653.98,6.0,1543301,Netflix,Christopher Nolan,Prabhas,49,45,1506.07,1018.2340612534649,Average
+d99bb373-1a8e-4316-a1b6-45faa8169926,Forrest Gump,Action,1998,Tamil,USA,113,172.47,914.88,7.6,4907309,Hulu,Steven Spielberg,Yash,70,27,742.41,430.45747086449813,Average
+94f37c45-4337-460d-b083-cad96ac20c2e,Gladiator,Fantasy,2007,Hindi,UK,103,122.8,1487.39,8.1,2382847,HBO Max,Mani Ratnam,Rajinikanth,81,18,1364.5900000000001,1111.2296416938111,Hit
+b75e3742-81ee-4c25-9f22-550b8e48f0ca,The Dark Knight,Comedy,1972,English,UK,116,162.2,747.99,8.3,1649146,Netflix,James Cameron,Prabhas,31,53,585.79,361.1528976572133,Hit
+c61aa02e-790e-4618-a07a-3d18820f2096,KGF Chapter 2,Action,2015,Tamil,India,164,234.82,2213.08,6.0,2946181,Hulu,James Cameron,Leonardo DiCaprio,73,10,1978.26,842.4580529767481,Average
+509e06ef-7554-4171-8540-eb06fab8f781,Oppenheimer,Sci-Fi,2010,Hindi,India,134,235.78,2252.48,9.5,1057985,Hulu,Anurag Kashyap,Robert Downey Jr.,75,15,2016.7,855.3312409873611,Hit
+50189b40-8946-4dab-9d10-9fa7fc6c87f0,Fight Club,Romance,1976,Tamil,Canada,82,146.03,2274.53,7.2,4441589,Disney+,Mani Ratnam,Yash,30,49,2128.5,1457.5772101622954,Average
+d88eaf7e-f89d-4c93-80e8-502b1ce8ba62,Barbie,Horror,2008,Tamil,USA,128,232.4,227.63,7.5,525200,Hulu,Christopher Nolan,Leonardo DiCaprio,59,17,-4.77000000000001,-2.052495697074015,Average
+48096618-5f8e-4ba8-b622-d7fb7c469fef,3 Idiots,Adventure,1991,Hindi,UK,144,286.34,402.59,5.0,94117,Netflix,Steven Spielberg,Yash,83,34,116.25,40.59858908989314,Flop
+fc19c55b-3de5-433d-b16d-d311ef78a8ca,The Batman,Sci-Fi,1997,Tamil,Canada,190,31.05,469.26,7.8,4365078,Hulu,Mani Ratnam,Rajinikanth,27,28,438.21,1411.3043478260868,Average
+d8284805-7864-4b28-a091-a4e373781f94,The Lion King,Drama,2000,English,India,190,41.38,723.3,9.4,2204748,HBO Max,Mani Ratnam,Tom Cruise,56,25,681.92,1647.9458675688736,Hit
+b8bbe4d7-385b-4ad8-aac8-c2e825b7a027,The Shawshank Redemption,Sci-Fi,2000,Tamil,USA,139,164.73,759.78,7.8,3580277,Disney+,Christopher Nolan,Yash,71,25,595.05,361.2274631214715,Average
+be4d2f76-d4a2-4eb6-91e0-8dec1aaa0a7e,Baahubali: The Beginning,Fantasy,2012,Tamil,Canada,151,206.62,876.43,5.4,3845806,Disney+,James Cameron,Prabhas,41,13,669.81,324.17481366760234,Flop
+643780be-4379-46d7-8b9e-fc3d8992071d,The Dark Knight,Drama,2003,English,Canada,169,229.18,1594.17,6.0,4393480,Hulu,Mani Ratnam,Rajinikanth,72,22,1364.99,595.5973470634435,Average
+d448c614-5df3-45d0-866e-486ae7f61cc3,Oppenheimer,Drama,2013,Hindi,UK,176,188.14,2146.65,8.2,4141142,HBO Max,Mani Ratnam,Tom Cruise,99,12,1958.5100000000002,1040.985436377166,Hit
+d66e2c7a-c46e-4399-b817-66d05db94f6e,The Lion King,Adventure,1977,Tamil,USA,139,62.49,1025.81,8.0,1438449,Disney+,Anurag Kashyap,Robert Downey Jr.,19,48,963.3199999999999,1541.5586493839014,Hit
+8370d754-46c8-4b9f-ae93-9c2f0a25993e,The Batman,Horror,2003,Telugu,Canada,172,195.12,2058.97,6.1,1197519,Netflix,Anurag Kashyap,Leonardo DiCaprio,58,22,1863.85,955.2326773267731,Average
+d58f2983-95b8-4a86-8c9e-f4dcad885a50,The Lion King,Horror,1993,Tamil,Canada,172,271.26,1821.02,5.7,2237024,Netflix,Rajamouli,Yash,18,32,1549.76,571.3190297131903,Flop
+ac37fed6-2e03-4f36-8895-e69d80debef0,Baahubali: The Beginning,Romance,1986,English,UK,99,296.58,1577.04,8.4,1549873,HBO Max,Christopher Nolan,Robert Downey Jr.,33,39,1280.46,431.74185717175806,Hit
+4e0007ec-d23c-41d7-915a-98c33c7bb750,Jurassic Park,Romance,1999,Hindi,Canada,87,28.68,825.38,8.9,3761038,Amazon Prime,James Cameron,Robert Downey Jr.,78,26,796.7,2777.8940027894005,Hit
+a442a935-e005-4316-8515-5a768bf3f77f,Dangal,Adventure,2006,Telugu,UK,122,72.32,1661.73,5.6,474139,Amazon Prime,Steven Spielberg,Rajinikanth,20,19,1589.41,2197.7461283185844,Flop
+50a5605c-f8e8-4517-b1b3-741b83a37c13,The Avengers,Drama,1995,Hindi,USA,104,179.47,178.09,7.5,683812,Netflix,Christopher Nolan,Leonardo DiCaprio,15,30,-1.3799999999999955,-0.7689307405137323,Average
+5dab001d-f1ce-4ffa-a71f-4ccedde7f04e,3 Idiots,Fantasy,1974,English,USA,114,279.43,818.36,5.2,304498,HBO Max,Mani Ratnam,Rajinikanth,74,51,538.9300000000001,192.86762337615863,Flop
+d1ed10d0-55c2-4e32-a314-dfae55cdd8ea,KGF Chapter 2,Action,2017,Telugu,USA,146,18.66,447.49,5.5,985735,Disney+,James Cameron,Prabhas,91,8,428.83,2298.1243301178993,Flop
+6e3554d5-d67e-404d-92f8-31ac37f2834c,RRR,Thriller,2012,Tamil,UK,176,298.84,1200.01,5.6,4606190,Hulu,Steven Spielberg,Shah Rukh Khan,63,13,901.1700000000001,301.5560165975104,Flop
+f57e0588-f874-4455-9650-2fd595671224,Barbie,Sci-Fi,2012,Telugu,USA,84,97.07,565.96,6.8,1151379,Amazon Prime,Rajamouli,Yash,83,13,468.89000000000004,483.0431647264861,Average
+c9fb1cbb-cd16-40b8-84ea-f41a1263b4f6,Titanic,Adventure,1992,Tamil,Canada,126,150.48,822.8,8.8,2431622,Amazon Prime,Steven Spielberg,Leonardo DiCaprio,79,33,672.3199999999999,446.7836257309942,Hit
+3cec62a3-0399-4bed-9eed-3d9102f233a0,The Lion King,Romance,2005,Hindi,India,133,86.84,154.39,5.3,2528052,HBO Max,Mani Ratnam,Prabhas,70,20,67.54999999999998,77.78673422385995,Flop
+8ca9fa19-2172-418c-8e12-f241309b88cc,The Lion King,Horror,1992,Hindi,UK,153,134.72,297.12,8.3,207446,Hulu,James Cameron,Shah Rukh Khan,88,33,162.4,120.54631828978624,Hit
+b32990e0-e64e-46b4-93a1-0769095a6fff,Titanic,Fantasy,2002,Tamil,Canada,121,146.62,1052.75,7.7,3203933,Netflix,Mani Ratnam,Robert Downey Jr.,90,23,906.13,618.0125494475515,Average
+3a846c17-b274-4502-927b-379ddee2684f,Avengers: Endgame,Romance,2008,English,Canada,187,269.63,504.87,8.1,1587050,Amazon Prime,Christopher Nolan,Leonardo DiCaprio,70,17,235.24,87.24548455290584,Hit
+8fec38dd-062d-4a18-b2ae-4338cdac23b6,Baahubali: The Beginning,Romance,1973,Tamil,India,169,37.23,1076.66,6.4,2805614,HBO Max,Mani Ratnam,Shah Rukh Khan,35,52,1039.43,2791.9151222132696,Average
+a5400bfc-ccf5-4e10-b945-2911fdc382ef,Pulp Fiction,Action,1996,Tamil,India,153,152.12,513.6,7.0,2451665,Netflix,Anurag Kashyap,Shah Rukh Khan,95,29,361.48,237.6281882724165,Average
+cffebb4a-cc11-4e80-babc-6f1db482d781,Joker,Horror,1982,English,Canada,185,175.06,69.97,8.0,4336095,Amazon Prime,Steven Spielberg,Tom Cruise,29,43,-105.09,-60.03084656689135,Hit
+a1f5e340-f3ec-4ade-9ef1-5717b220d311,KGF Chapter 2,Horror,2012,Telugu,USA,139,65.95,1096.47,7.7,2643631,Hulu,Rajamouli,Rajinikanth,14,13,1030.52,1562.5777103866565,Average
+0a2dfddb-e2bd-4686-8d50-0d958b953c52,Fight Club,Romance,1974,English,India,102,268.25,997.73,7.1,797032,Netflix,James Cameron,Tom Cruise,99,51,729.48,271.94035414725073,Average
+c0911d42-9f13-4885-8cfd-24222d87366f,Dangal,Action,2008,Hindi,Canada,189,25.32,1524.21,8.4,3292139,Disney+,James Cameron,Yash,97,17,1498.89,5919.78672985782,Hit
+fc0dae73-4c66-4984-bf85-f3cdc9199a0d,3 Idiots,Adventure,1994,Telugu,UK,81,24.58,2140.44,6.2,1184059,Amazon Prime,Christopher Nolan,Robert Downey Jr.,85,31,2115.86,8608.05532953621,Average
+c135f437-6440-4e55-ab91-97e2c376997c,Avengers: Endgame,Action,2019,Tamil,USA,171,162.49,990.56,6.0,3117649,Netflix,Christopher Nolan,Prabhas,21,6,828.0699999999999,509.61289925533873,Average
+85d7e2de-2bec-4df0-ba30-f13bc4faf1fa,Gladiator,Sci-Fi,2014,Hindi,India,181,93.16,899.83,5.2,995661,Hulu,James Cameron,Rajinikanth,78,11,806.6700000000001,865.8973808501504,Flop
+d2d62a6a-438f-4699-9a1c-ddc4fbe55d36,The Avengers,Comedy,1976,Telugu,USA,164,116.91,1762.48,5.6,1941653,Amazon Prime,Mani Ratnam,Shah Rukh Khan,58,49,1645.57,1407.5528184073219,Flop
+bf97aa59-2dfb-4cfc-a13e-10497d6eb29f,Pulp Fiction,Thriller,2020,Tamil,Canada,97,2.33,942.78,8.6,737008,HBO Max,Mani Ratnam,Prabhas,15,5,940.4499999999999,40362.66094420601,Hit
+9f338316-ea2d-4727-8baa-1a3473b3d851,Gladiator,Fantasy,2011,Telugu,USA,180,248.19,1629.19,5.9,4241000,Hulu,Mani Ratnam,Rajinikanth,98,14,1381.0,556.4285426487771,Flop
+c41354e4-3e5f-4f66-af47-8523493938fb,Joker,Comedy,2011,Tamil,UK,140,253.17,259.3,7.3,573681,Amazon Prime,James Cameron,Tom Cruise,92,14,6.130000000000024,2.421297942094254,Average
+a47bfeee-c5eb-49f5-86c3-b7672ac2c151,The Batman,Sci-Fi,1979,Telugu,USA,172,16.15,852.17,7.0,3642091,Disney+,James Cameron,Tom Cruise,47,46,836.02,5176.594427244582,Average
+105b460c-fad1-4543-8ffe-1651a9d2c63f,The Dark Knight,Comedy,1995,Telugu,Canada,115,10.28,1175.76,8.1,3986993,HBO Max,Rajamouli,Leonardo DiCaprio,50,30,1165.48,11337.354085603114,Hit
+7f6ece89-11b3-4a0d-9c75-24838b5ba43b,RRR,Action,1985,Telugu,USA,128,131.83,1178.94,6.5,3674592,HBO Max,James Cameron,Yash,12,40,1047.1100000000001,794.2880983084275,Average
+2e4785b7-ac06-4b35-93b7-69117b254a4c,The Lion King,Action,2009,English,India,122,53.47,1800.11,6.2,564703,Disney+,Mani Ratnam,Prabhas,32,16,1746.6399999999999,3266.5793903123244,Average
+80644a97-bb62-42af-9f06-35de7b4357f7,Oppenheimer,Action,1986,Hindi,Canada,143,17.06,1125.43,5.2,4870082,Netflix,Rajamouli,Prabhas,61,39,1108.3700000000001,6496.893317702228,Flop
+288f7625-68a0-4b42-b833-202d5a1a8cae,Barbie,Horror,2019,Telugu,USA,101,206.61,724.98,9.5,4892833,HBO Max,Steven Spielberg,Rajinikanth,79,6,518.37,250.89298678669957,Hit
+43a22204-8183-415e-8bbc-0ada1ea1acd4,Baahubali: The Conclusion,Comedy,2004,Telugu,Canada,107,74.88,578.39,8.1,156026,HBO Max,Anurag Kashyap,Robert Downey Jr.,22,21,503.51,672.4225427350427,Hit
+431866be-0983-451d-9bb7-7a635ff6e1c9,Pulp Fiction,Horror,2022,Tamil,India,186,245.33,1600.01,9.7,588148,Amazon Prime,Mani Ratnam,Yash,40,3,1354.68,552.1868503648147,Hit
+23c25b61-bbc1-4afc-b9dd-279db5b925d5,3 Idiots,Horror,1970,English,USA,94,130.53,1100.38,6.7,3967628,HBO Max,Anurag Kashyap,Leonardo DiCaprio,54,55,969.8500000000001,743.00926989964,Average
+10f419d2-9c65-4738-b974-25bc1872b2e2,The Dark Knight,Drama,1992,Telugu,Canada,102,267.32,1411.2,5.3,3607379,Netflix,James Cameron,Yash,70,33,1143.88,427.9066287595392,Flop
+25636386-6b9b-4487-92df-0d17093d2d1f,Pulp Fiction,Action,2013,Tamil,Canada,189,102.36,622.32,6.0,1856204,Disney+,Steven Spielberg,Yash,89,12,519.96,507.97186400937863,Average
+32300813-ed19-4fce-9577-eca7fc43bdf9,Titanic,Thriller,1995,English,UK,188,106.41,695.62,5.0,3420271,Disney+,Rajamouli,Robert Downey Jr.,71,30,589.21,553.7167559439903,Flop
+55dc6928-951d-422b-8a62-3996d15d9fb3,The Matrix,Horror,1993,Telugu,India,145,219.01,598.43,6.0,3605950,Amazon Prime,Steven Spielberg,Rajinikanth,27,32,379.41999999999996,173.24323090269849,Average
+80794132-3fca-44c4-a2c6-8fdd6fc65dea,Baahubali: The Beginning,Action,1970,English,India,118,198.32,19.02,6.9,4629491,Netflix,Mani Ratnam,Leonardo DiCaprio,30,55,-179.29999999999998,-90.4094392900363,Average
+b9cd3873-4259-4ce7-b6a4-bea8391d221d,Joker,Fantasy,1979,Telugu,India,114,177.99,1880.19,5.7,113166,Amazon Prime,James Cameron,Tom Cruise,12,46,1702.2,956.3458621270858,Flop
+a2eae3ac-87f0-423f-adc9-0c49605bc123,Jurassic Park,Drama,1998,Telugu,USA,136,44.23,2279.56,6.2,4953198,HBO Max,James Cameron,Rajinikanth,48,27,2235.33,5053.877458738413,Average
+5d00f928-684d-49f0-8431-157f9b9069bf,Avatar,Adventure,1995,Telugu,Canada,141,123.96,1661.34,9.3,916673,Amazon Prime,James Cameron,Leonardo DiCaprio,17,30,1537.3799999999999,1240.2226524685382,Hit
+46d0c70c-7ab8-49c4-a2e0-abe769050efa,3 Idiots,Romance,2019,Tamil,UK,180,143.48,1281.07,5.5,562773,Netflix,Rajamouli,Shah Rukh Khan,61,6,1137.59,792.8561471982158,Flop
+b35e025c-9492-4c59-b100-7d6cf1e8716d,Forrest Gump,Drama,1981,English,UK,88,38.79,863.6,7.3,2571712,HBO Max,Christopher Nolan,Yash,98,44,824.8100000000001,2126.346996648621,Average
+486f6cec-5fcc-42b6-9dfe-12b92627fc84,The Lion King,Drama,2000,Telugu,USA,119,84.86,1508.48,5.4,1098736,Netflix,Steven Spielberg,Tom Cruise,53,25,1423.6200000000001,1677.6101814753713,Flop
+dad0a403-6092-4d50-aa1d-590b1a1ca793,Interstellar,Drama,2003,Tamil,Canada,127,182.54,1804.75,6.5,4616337,Disney+,Steven Spielberg,Prabhas,54,22,1622.21,888.6874109784158,Average
+f064a551-fee0-486a-a9dd-d763da3dee6f,Avatar,Sci-Fi,2023,Telugu,UK,83,8.19,986.46,6.7,3592128,Disney+,Rajamouli,Shah Rukh Khan,26,2,978.27,11944.688644688646,Average
+d4876239-e73c-47a1-9873-593f04674876,Gladiator,Thriller,2013,Telugu,USA,147,162.21,1218.07,5.5,568388,Netflix,Steven Spielberg,Tom Cruise,68,12,1055.86,650.921644781456,Flop
+6f8f3c08-b438-47cf-9525-7176a028f068,The Dark Knight,Sci-Fi,1979,Tamil,India,177,213.55,133.86,9.6,1686342,Netflix,James Cameron,Prabhas,85,46,-79.69,-37.316787637555606,Hit
+5dff3575-acd5-4da2-b392-56db05920a95,Titanic,Thriller,1985,Tamil,Canada,109,283.33,2257.9,7.4,4810524,HBO Max,Steven Spielberg,Tom Cruise,69,40,1974.5700000000002,696.9152578265628,Average
+15491290-b2ca-42a1-8b72-c425176f2755,Jurassic Park,Fantasy,1999,English,Canada,156,101.82,1300.81,7.4,2791932,Netflix,Anurag Kashyap,Yash,62,26,1198.99,1177.5584364564918,Average
+fef7365e-68e8-4dd6-9319-2ce0ad289e9c,Titanic,Comedy,1979,Hindi,UK,175,50.15,2245.27,9.5,3372244,Hulu,Mani Ratnam,Yash,34,46,2195.12,4377.108673978066,Hit
+ed974729-fd08-48de-9a95-f48ee055578a,Joker,Sci-Fi,2023,Hindi,India,181,19.54,1705.23,6.1,2904887,Hulu,Mani Ratnam,Tom Cruise,51,2,1685.69,8626.867963152508,Average
+1541e10f-79d8-4202-8982-8b40ca97f441,RRR,Romance,2003,Tamil,India,128,120.9,1182.28,6.0,4819713,Amazon Prime,James Cameron,Shah Rukh Khan,12,22,1061.3799999999999,877.8990901571544,Average
+97087aab-ed6a-4b50-b200-4d45755b657d,3 Idiots,Thriller,2012,Hindi,UK,140,219.93,1889.25,6.6,3807409,Netflix,Anurag Kashyap,Tom Cruise,54,13,1669.32,759.023325603601,Average
+04b4d291-e1e8-43b1-9531-ac55dec453c3,The Matrix,Sci-Fi,1994,Hindi,UK,154,228.06,2066.49,6.3,3349076,Netflix,James Cameron,Shah Rukh Khan,57,31,1838.4299999999998,806.1168113654301,Average
+3223bab2-8e48-4d4e-a0d9-9f91bc2d4194,Inception,Sci-Fi,1989,Telugu,UK,147,73.67,1607.25,6.6,888497,HBO Max,Steven Spielberg,Robert Downey Jr.,17,36,1533.58,2081.6886113750506,Average
+60290361-9629-461f-836c-978259596c3a,KGF Chapter 2,Horror,2014,Hindi,UK,163,86.68,1022.15,9.4,3841169,HBO Max,Anurag Kashyap,Rajinikanth,43,11,935.47,1079.222427318874,Hit
+8678c8f9-c888-4e8f-999b-49b1a636c342,Joker,Horror,2016,Hindi,India,152,185.21,807.93,8.9,1202250,Netflix,Anurag Kashyap,Rajinikanth,71,9,622.7199999999999,336.2237460180335,Hit
+c6864edb-55b5-4fdd-8443-600be38a979c,Fight Club,Action,1976,Tamil,UK,158,91.25,1839.7,9.1,4203902,Disney+,Christopher Nolan,Shah Rukh Khan,13,49,1748.45,1916.109589041096,Hit
+6e208d77-27be-42eb-aa16-d4675aef7fdd,The Batman,Comedy,2007,Tamil,UK,82,93.2,2340.59,7.1,2563562,Disney+,Christopher Nolan,Shah Rukh Khan,82,18,2247.3900000000003,2411.3626609442063,Average
+9e2a60c9-8b58-4f7b-a3fb-f2e85782e338,The Dark Knight,Horror,2000,Telugu,USA,150,63.49,1894.06,7.0,2747805,HBO Max,Christopher Nolan,Tom Cruise,82,25,1830.57,2883.2414553472986,Average
+9b3d5340-75f8-4176-a179-94dac57715eb,Interstellar,Adventure,1995,Tamil,USA,124,231.89,1362.9,8.3,2629503,Disney+,Mani Ratnam,Prabhas,58,30,1131.0100000000002,487.7355642761655,Hit
+8a5a8e0e-4664-4e14-b886-4b9c836e2cd9,Avatar,Thriller,1990,English,USA,92,2.27,255.69,7.2,4720084,Amazon Prime,James Cameron,Prabhas,39,35,253.42,11163.876651982377,Average
+3383ff97-55ba-496e-9c7e-2098209142a3,Titanic,Adventure,2005,Hindi,Canada,177,203.61,2444.37,9.4,3998164,Netflix,Mani Ratnam,Prabhas,83,20,2240.7599999999998,1100.5156917636657,Hit
+f9c01046-4670-4a42-aaf9-eb9ace374853,Oppenheimer,Horror,1977,English,USA,101,25.62,1493.75,6.1,2509677,Amazon Prime,Anurag Kashyap,Prabhas,76,48,1468.13,5730.405932864949,Average
+a8c0eef8-e4de-43cc-90ed-23b6eb42fde7,Forrest Gump,Adventure,2007,Hindi,Canada,95,86.52,2058.92,6.6,4354342,Disney+,Rajamouli,Prabhas,54,18,1972.4,2279.704114655571,Average
+6aee2b98-ab73-415c-ae99-e12b7ef50d05,3 Idiots,Horror,2018,English,Canada,139,51.65,1118.25,8.9,994327,Hulu,Mani Ratnam,Rajinikanth,11,7,1066.6,2065.0532429816067,Hit
+ee306719-62cb-449f-9a4c-3373008d550a,The Matrix,Action,1992,Hindi,UK,139,44.38,183.39,5.1,791520,HBO Max,Mani Ratnam,Prabhas,69,33,139.01,313.2266786840919,Flop
+51730c28-3877-4691-bc6a-9c2da948aab6,The Lion King,Comedy,2005,Tamil,UK,99,296.3,787.08,7.4,3432425,Netflix,James Cameron,Robert Downey Jr.,83,20,490.78000000000003,165.63617954775566,Average
+dd4d4e16-98f9-40d7-994a-7d9d521a88a1,Dangal,Adventure,1993,Tamil,India,100,192.97,1526.36,7.9,2707639,Disney+,James Cameron,Yash,10,32,1333.3899999999999,690.9830543607815,Average
+8a8f2453-cdf5-475f-9410-999529d5ff88,Oppenheimer,Action,1985,Hindi,Canada,80,182.89,2181.31,9.6,2420941,Amazon Prime,Mani Ratnam,Prabhas,56,40,1998.42,1092.6895948384276,Hit
+93150edf-78ee-4348-84b9-2ea0e114b088,Barbie,Drama,1989,English,Canada,92,183.56,563.07,5.2,3725116,HBO Max,Anurag Kashyap,Shah Rukh Khan,42,36,379.51000000000005,206.7498365657006,Flop
+f836c953-b070-4d80-b93b-3a8a41f636cc,Oppenheimer,Action,2014,Hindi,UK,162,173.52,169.53,5.3,721871,Hulu,Rajamouli,Robert Downey Jr.,64,11,-3.990000000000009,-2.2994467496542237,Flop
+ab11f84d-e96f-4d93-b9fc-bf98e8e7384a,Forrest Gump,Drama,1982,Tamil,Canada,106,207.4,2046.77,5.7,442777,Hulu,Mani Ratnam,Robert Downey Jr.,62,43,1839.37,886.8707810993249,Flop
+57fd9158-cb9c-4e20-af14-df5b8d9f661c,The Avengers,Sci-Fi,1985,Tamil,USA,166,33.02,193.12,8.7,2062599,Amazon Prime,Anurag Kashyap,Prabhas,21,40,160.1,484.8576620230163,Hit
+548ac33e-e475-4d46-bbf3-2170aa2bdb66,RRR,Horror,1976,Telugu,USA,122,142.27,211.49,8.3,942628,Amazon Prime,James Cameron,Tom Cruise,26,49,69.22,48.653967807689604,Hit
+a60192a0-e679-47ef-9374-c81405ae1a17,KGF Chapter 2,Sci-Fi,1977,English,UK,121,88.71,1947.18,8.1,287554,Amazon Prime,Christopher Nolan,Leonardo DiCaprio,47,48,1858.47,2094.9949272911736,Hit
+0bcdceb9-8e0b-4c9f-97b2-bfb073a8ff4f,The Batman,Thriller,1974,Tamil,Canada,148,48.35,2139.35,9.4,1924212,Netflix,Mani Ratnam,Leonardo DiCaprio,62,51,2091.0,4324.715615305066,Hit
+9ceada69-0bce-4e74-afe9-4570720e2804,Baahubali: The Conclusion,Comedy,1989,Hindi,USA,97,99.88,1663.23,8.9,2303891,Netflix,James Cameron,Leonardo DiCaprio,43,36,1563.35,1565.2282739287145,Hit
+9f39caac-9588-4aee-afe2-39b9006b0327,The Batman,Sci-Fi,1994,Tamil,UK,126,137.26,233.59,7.3,4729934,Hulu,Mani Ratnam,Robert Downey Jr.,72,31,96.33000000000001,70.18067900335132,Average
+ea6f2e00-dd09-4c92-9079-55a5668b717a,The Matrix,Fantasy,1999,Telugu,Canada,137,16.43,568.61,5.1,805900,Netflix,Mani Ratnam,Tom Cruise,72,26,552.1800000000001,3360.8034083992698,Flop
+91913839-f074-41b9-9567-259ea46c97a6,Joker,Sci-Fi,1975,Tamil,India,162,57.43,2320.03,9.6,4996918,Hulu,Mani Ratnam,Robert Downey Jr.,29,50,2262.6000000000004,3939.7527424690934,Hit
+247ff6fd-0649-4797-bb50-c122f28c7713,Barbie,Thriller,1982,Hindi,India,103,87.25,433.01,7.6,2269521,HBO Max,Anurag Kashyap,Shah Rukh Khan,24,43,345.76,396.28653295128936,Average
+b121dec2-b87f-4bd7-973e-eb7048723684,The Lion King,Adventure,1993,Telugu,India,128,65.96,1925.1,6.6,3346426,Amazon Prime,James Cameron,Tom Cruise,55,32,1859.1399999999999,2818.5870224378414,Average
+2016e2e5-e209-4dec-8f08-f60b07d19511,RRR,Horror,2019,English,UK,104,30.43,2367.66,9.0,2851874,HBO Max,Christopher Nolan,Rajinikanth,64,6,2337.23,7680.676963522839,Hit
+28b0d868-1b36-4d1f-bbd0-aaa01166d929,Barbie,Action,1983,Tamil,India,113,95.45,1462.22,9.7,3579430,Hulu,Steven Spielberg,Rajinikanth,77,42,1366.77,1431.9224724986902,Hit
+5f17df04-22af-4bba-8665-b342513b5834,KGF Chapter 2,Sci-Fi,2010,Tamil,USA,188,210.66,1264.56,9.5,2990808,Netflix,James Cameron,Shah Rukh Khan,50,15,1053.8999999999999,500.28481913984615,Hit
+f0b9e049-1a77-4808-9f1d-0aeabdc06b34,Baahubali: The Beginning,Horror,1995,English,USA,144,147.79,711.5,8.5,4089444,HBO Max,Anurag Kashyap,Prabhas,61,30,563.71,381.42634819676573,Hit
+bfdd610e-f838-4649-b2c3-aa8832c43bb5,The Batman,Thriller,1996,Tamil,UK,122,209.4,1551.12,9.0,680078,Netflix,James Cameron,Shah Rukh Khan,74,29,1341.7199999999998,640.7449856733523,Hit
+4c6a90aa-d916-40c1-81a4-4dd1f35c1572,KGF Chapter 2,Fantasy,2003,English,India,93,236.4,451.08,7.6,413782,Hulu,Christopher Nolan,Prabhas,73,22,214.67999999999998,90.81218274111674,Average
+74082d38-051d-4122-98cc-f77f8719fadf,Pulp Fiction,Drama,2020,Telugu,UK,136,75.87,128.94,8.3,2994517,Hulu,James Cameron,Shah Rukh Khan,62,5,53.06999999999999,69.94859628311583,Hit
+79ea38f7-ff14-4884-a997-e3513e717e15,Barbie,Thriller,1984,Telugu,UK,100,22.44,1719.78,5.1,4202221,HBO Max,Rajamouli,Tom Cruise,22,41,1697.34,7563.903743315506,Flop
+0c8017f8-74de-4e25-aac6-8d22ff205711,Interstellar,Adventure,2001,Telugu,USA,128,66.67,1226.69,9.8,4016177,Hulu,Steven Spielberg,Robert Downey Jr.,11,24,1160.02,1739.9430028498575,Hit
+44d5a7d3-5b06-430c-90b9-2ee0ccf3bc5f,The Shawshank Redemption,Action,2001,Telugu,UK,133,278.3,1619.21,9.2,338380,Disney+,Anurag Kashyap,Yash,93,24,1340.91,481.8217750628817,Hit
+d2e3f00b-376d-45a3-85ed-f0ff07b941a7,Oppenheimer,Action,1974,Tamil,Canada,182,90.52,1925.04,7.1,279581,Hulu,Steven Spielberg,Shah Rukh Khan,89,51,1834.52,2026.646045072912,Average
+82c8e189-65f9-4d34-8dc5-26c58b58e77c,Interstellar,Drama,1979,Telugu,Canada,187,184.62,1023.86,9.6,3044583,Disney+,Rajamouli,Yash,63,46,839.24,454.5769689091106,Hit
+ca708443-026b-40cb-9a38-ec447255cbca,Interstellar,Romance,1992,Telugu,India,167,14.06,938.45,6.4,4116111,Netflix,Mani Ratnam,Tom Cruise,82,33,924.3900000000001,6574.608819345662,Average
+a5c02814-1a74-4a2b-87d1-e6344439c667,Titanic,Sci-Fi,2016,Hindi,UK,82,190.63,1089.0,6.6,1930936,Hulu,Rajamouli,Robert Downey Jr.,72,9,898.37,471.263704558569,Average
+080d1dcc-ad46-4470-86fb-b8cf5f67ac94,RRR,Action,2002,Telugu,Canada,91,121.77,1685.34,7.8,3524986,Disney+,Steven Spielberg,Tom Cruise,41,23,1563.57,1284.0354767184035,Average
+059370e5-e144-4294-8dc9-35225c94d273,The Avengers,Adventure,1982,Telugu,UK,147,234.37,1403.88,9.3,3724780,Amazon Prime,Steven Spielberg,Tom Cruise,87,43,1169.5100000000002,499.00157870034565,Hit
+1326f867-4e7d-4594-ae41-0b909db07459,3 Idiots,Horror,2012,Tamil,UK,151,72.4,1771.28,5.3,3730149,Netflix,Steven Spielberg,Yash,30,13,1698.8799999999999,2346.5193370165744,Flop
+564718bc-42c2-470f-80ed-1e2bd5a97934,The Godfather,Fantasy,2007,Tamil,UK,187,4.4,2144.89,5.6,2798003,Amazon Prime,Steven Spielberg,Yash,62,18,2140.49,48647.49999999999,Flop
+1216a412-3356-412b-94e0-05d28e6035cc,The Shawshank Redemption,Action,2006,Hindi,UK,90,269.67,1260.22,7.4,4841866,Disney+,Anurag Kashyap,Yash,21,19,990.55,367.319316201283,Average
+7f233765-aa4b-412b-9453-d0cf52c12efa,The Batman,Romance,1975,English,Canada,168,283.67,2215.14,6.7,4143351,Netflix,Mani Ratnam,Yash,83,50,1931.4699999999998,680.8862410547466,Average
+dbe95196-f685-47c1-9817-7d2be7611c39,The Avengers,Sci-Fi,1980,Tamil,India,189,185.59,1044.38,8.4,2603051,Disney+,Anurag Kashyap,Shah Rukh Khan,77,45,858.7900000000001,462.7350611563123,Hit
+d5857699-4b06-403e-aa24-3567f0a9dfda,Inception,Horror,2019,Telugu,India,144,40.67,1461.94,9.6,2835542,Amazon Prime,Christopher Nolan,Shah Rukh Khan,21,6,1421.27,3494.639783624293,Hit
+72d35918-a8ad-47ab-85dc-3c4ac6054f55,RRR,Sci-Fi,1989,Telugu,UK,97,11.76,2266.11,8.6,3869216,Disney+,Christopher Nolan,Leonardo DiCaprio,73,36,2254.35,19169.642857142855,Hit
+1281ab12-0f39-4939-9f24-90c7e266c5f7,The Matrix,Action,1991,Telugu,Canada,86,31.28,1879.41,6.8,841832,Disney+,Mani Ratnam,Prabhas,24,34,1848.13,5908.343989769821,Average
+8481a179-b8fa-48e2-923f-692a87013de1,The Matrix,Sci-Fi,1985,English,India,172,167.82,1095.56,8.4,19799,HBO Max,Christopher Nolan,Shah Rukh Khan,18,40,927.74,552.8184960076272,Hit
+5dfeeeef-8123-45bb-a53e-dfab4937fc91,3 Idiots,Sci-Fi,1986,Hindi,Canada,171,64.92,1524.13,6.0,3078324,Disney+,Rajamouli,Prabhas,57,39,1459.21,2247.7048675292667,Average
+c71fd29d-7371-47fc-878d-13ad05b839c9,Interstellar,Action,2016,Tamil,USA,190,99.28,1752.15,8.3,4047627,Netflix,Anurag Kashyap,Tom Cruise,19,9,1652.8700000000001,1664.8569701853344,Hit
+64d6b695-63e0-4932-a114-d9935a6f3e28,Oppenheimer,Adventure,2021,Hindi,India,109,176.39,1019.0,6.5,1476850,Disney+,Anurag Kashyap,Yash,67,4,842.61,477.69714836441983,Average
+8655e938-bb23-406f-ae08-bf4520eb481c,Barbie,Adventure,1996,Hindi,UK,158,132.07,783.37,7.0,3770744,Hulu,Rajamouli,Leonardo DiCaprio,14,29,651.3,493.1475732566064,Average
+8d339f58-c842-481a-b3ad-4a4c76439c33,The Dark Knight,Comedy,2005,Tamil,Canada,90,279.76,975.33,7.2,1976782,Hulu,Steven Spielberg,Rajinikanth,22,20,695.57,248.63096940234487,Average
+9d105f86-ffe0-4279-a908-578cec200507,Gladiator,Fantasy,1979,Telugu,India,81,121.12,353.29,9.0,2396006,Amazon Prime,Mani Ratnam,Yash,90,46,232.17000000000002,191.6859313077939,Hit
+1cffeeeb-8f8e-4c02-994c-92e431a784c2,Forrest Gump,Fantasy,2003,Telugu,USA,161,125.21,278.96,6.5,4635245,Amazon Prime,Steven Spielberg,Robert Downey Jr.,83,22,153.75,122.79370657295743,Average
+4e09ec2e-ccf7-4a89-a321-2e1bb15e31d4,The Lion King,Romance,1971,Telugu,Canada,183,194.08,727.57,8.2,1482602,Hulu,James Cameron,Tom Cruise,13,54,533.49,274.88149216817806,Hit
+8f128a67-f1ed-4c0b-a4ac-1de9f9a0d96c,Forrest Gump,Adventure,2008,Telugu,India,134,290.79,120.7,6.6,1576836,HBO Max,Mani Ratnam,Shah Rukh Khan,90,17,-170.09000000000003,-58.49238281921663,Average
+3a6ab6bd-6268-4358-a4d5-06b52eb03988,Baahubali: The Beginning,Sci-Fi,1984,Telugu,USA,133,72.83,227.02,9.4,2632692,Amazon Prime,Rajamouli,Prabhas,62,41,154.19,211.71220650830702,Hit
+856cfe0c-ff71-430c-a84e-d60d2094a67a,Barbie,Horror,1971,English,USA,177,92.52,585.23,5.2,3222438,Disney+,James Cameron,Tom Cruise,38,54,492.71000000000004,532.5443147427584,Flop
+ea85174a-f88d-4aa2-96a0-9866f3c116ff,Interstellar,Thriller,2014,Telugu,UK,115,215.37,1425.34,5.8,950243,Netflix,James Cameron,Leonardo DiCaprio,57,11,1209.9699999999998,561.8099085295072,Flop
+7052fde8-1058-4fac-97de-4796c3c2c9b1,Avatar,Comedy,1981,English,Canada,82,255.53,1036.44,7.3,2918383,Amazon Prime,Christopher Nolan,Tom Cruise,25,44,780.9100000000001,305.6040386647361,Average
+9c266615-5e34-476e-a83f-48a009dec725,The Avengers,Action,1999,English,USA,151,198.09,44.32,9.0,1193605,HBO Max,James Cameron,Tom Cruise,56,26,-153.77,-77.6263314654955,Hit
+0de56527-2039-48b4-9153-11cb3720d7d2,3 Idiots,Thriller,1983,English,India,89,183.55,1983.84,9.4,4986973,Disney+,Anurag Kashyap,Robert Downey Jr.,86,42,1800.29,980.8172160174339,Hit
+eae9614a-0a32-496c-93ca-0bd8072bac23,The Dark Knight,Horror,1995,Tamil,India,86,1.81,2269.46,9.3,1630935,Amazon Prime,Mani Ratnam,Yash,50,30,2267.65,125284.53038674034,Hit
+e66ee975-f5d8-4824-a778-89584a047ba6,Interstellar,Horror,1975,English,USA,188,43.48,1744.26,6.6,4156000,Disney+,James Cameron,Shah Rukh Khan,45,50,1700.78,3911.6375344986204,Average
+7d979486-75f1-4260-b04a-0f8f677e1abf,The Matrix,Romance,2002,Telugu,India,85,281.91,872.97,7.4,661732,HBO Max,James Cameron,Prabhas,51,23,591.06,209.66265829520054,Average
+402200be-b50d-427a-9b7f-f2d5b8e47371,Avatar,Thriller,2006,Tamil,Canada,171,138.69,2336.94,8.0,3888089,Disney+,Anurag Kashyap,Leonardo DiCaprio,41,19,2198.25,1585.0097339390009,Hit
+de05d810-9bec-4353-8d4a-320d86e365e5,Avengers: Endgame,Romance,1982,Hindi,Canada,99,207.51,2424.93,9.2,2917205,Netflix,Rajamouli,Leonardo DiCaprio,70,43,2217.42,1068.584646523059,Hit
+c5d65f8a-82e5-4318-8109-262325473f15,Titanic,Comedy,2021,Tamil,India,129,145.24,1020.19,8.4,3343985,Hulu,Anurag Kashyap,Yash,97,4,874.95,602.4166896171853,Hit
+60616c71-6be7-4894-b368-e864e796e210,Fight Club,Sci-Fi,1973,Tamil,USA,154,166.09,844.11,8.3,573546,Disney+,Rajamouli,Robert Downey Jr.,10,52,678.02,408.22445661990486,Hit
+6428e3a9-063b-488b-9254-eac12ad1f89a,Joker,Adventure,1994,English,UK,125,17.87,960.22,9.6,1191443,Amazon Prime,Mani Ratnam,Shah Rukh Khan,43,31,942.35,5273.363178511472,Hit
+38c421c3-ed68-477d-a8e7-d6de3cad86bb,Baahubali: The Beginning,Horror,1970,Hindi,India,153,271.89,834.9,7.2,4926888,Amazon Prime,Mani Ratnam,Yash,71,55,563.01,207.07271322961495,Average
+d43b4b57-ccb8-4696-a98b-bb4c4e94eff1,Baahubali: The Beginning,Fantasy,1983,English,Canada,145,95.77,708.84,6.8,1992762,Disney+,James Cameron,Rajinikanth,10,42,613.07,640.1482719014306,Average
+fabb25d3-173f-495a-b180-b112d4a3a078,Interstellar,Drama,2020,Hindi,USA,159,235.67,1773.28,9.8,3257091,HBO Max,James Cameron,Shah Rukh Khan,27,5,1537.61,652.4419739466202,Hit
+57b603b0-03ab-421a-a5da-e495afe2b948,Pulp Fiction,Fantasy,2018,English,India,112,148.32,972.01,9.7,4604964,HBO Max,James Cameron,Yash,42,7,823.69,555.346548004315,Hit
+9bcc7585-5d31-4f69-b988-3216cc76f6cf,Interstellar,Romance,1980,Tamil,USA,95,251.65,121.56,8.5,2479826,HBO Max,Anurag Kashyap,Prabhas,33,45,-130.09,-51.69481422610769,Hit
+e7122a21-a3aa-4c9d-8115-cd210ede36aa,The Avengers,Romance,2018,English,India,156,281.96,1641.95,8.5,2492445,Amazon Prime,Anurag Kashyap,Shah Rukh Khan,18,7,1359.99,482.33437367002415,Hit
+1e9ba59c-a001-4eaa-ae3f-33300b7691fe,The Batman,Thriller,2010,Telugu,Canada,84,70.66,1132.6,5.6,2646065,Hulu,James Cameron,Robert Downey Jr.,18,15,1061.9399999999998,1502.8870648174354,Flop
+0f5c2e54-66ad-43ab-a98a-9d1a08144779,Interstellar,Fantasy,1979,English,India,177,153.74,2287.8,9.5,4491045,Netflix,Rajamouli,Shah Rukh Khan,64,46,2134.0600000000004,1388.0967867828804,Hit
+c5b548c3-25ae-4146-a9bd-f91d8c7034ae,Gladiator,Fantasy,2023,Hindi,India,162,154.16,415.27,6.3,2725954,HBO Max,Christopher Nolan,Shah Rukh Khan,34,2,261.11,169.3759730150493,Average
+e49a5697-c52f-411c-8ae8-872b7fd01611,The Shawshank Redemption,Thriller,2010,Hindi,UK,96,271.02,525.02,6.9,3845619,HBO Max,Christopher Nolan,Leonardo DiCaprio,58,15,254.0,93.72002066268172,Average
+3a6e28d6-b48f-44bc-87dd-e8e8b2fe621f,Barbie,Fantasy,1991,Tamil,India,180,45.02,182.13,8.9,1741981,Hulu,Christopher Nolan,Yash,64,34,137.10999999999999,304.55353176366054,Hit
+33f1353f-9dc2-4a48-9272-2d8c0b9160f0,The Avengers,Sci-Fi,2001,Telugu,USA,185,74.29,2441.79,7.8,1421961,Disney+,Mani Ratnam,Robert Downey Jr.,97,24,2367.5,3186.835374882218,Average
+fa4fca1e-9b66-4ae3-870b-8aee8d03af84,KGF Chapter 2,Adventure,1983,English,UK,101,204.3,1788.61,6.0,3976030,Amazon Prime,Mani Ratnam,Yash,44,42,1584.31,775.4821341164953,Average
+adc86928-8dad-4a85-8359-96724eea67ba,Forrest Gump,Adventure,1977,Telugu,Canada,167,104.14,154.61,7.6,199798,HBO Max,James Cameron,Yash,45,48,50.47000000000001,48.46360668331094,Average
+91592b1b-dba6-4b31-bc37-f42c42fa3ba9,The Shawshank Redemption,Thriller,2006,English,UK,163,6.8,1187.27,8.4,927814,Disney+,James Cameron,Rajinikanth,100,19,1180.47,17359.85294117647,Hit
+851953d9-634f-496e-b4ca-2814d5551ad0,The Batman,Drama,1972,Telugu,UK,83,132.96,1624.76,9.2,3954182,Hulu,Mani Ratnam,Leonardo DiCaprio,79,53,1491.8,1121.991576413959,Hit
+f9d72f4d-4410-4861-b346-5416f526ed14,Baahubali: The Beginning,Adventure,2012,Hindi,USA,186,142.66,840.05,5.3,2112581,Disney+,Rajamouli,Tom Cruise,89,13,697.39,488.84760970138797,Flop
+26745bc4-42ca-4079-8b15-9c3351b9dca2,3 Idiots,Sci-Fi,1983,Tamil,UK,180,120.69,1434.19,7.8,1641094,Amazon Prime,Anurag Kashyap,Tom Cruise,20,42,1313.5,1088.3254619272516,Average
+9f50536d-30ea-4b7e-b19d-11ea80f53d96,Baahubali: The Beginning,Drama,1978,English,USA,185,162.92,1993.9,6.6,4303280,Netflix,Mani Ratnam,Leonardo DiCaprio,98,47,1830.98,1123.8521973974957,Average
+2357c204-b344-4a99-a6c1-a7be43fadde5,RRR,Romance,2000,Hindi,Canada,148,17.65,1047.25,9.4,2890335,Disney+,Mani Ratnam,Rajinikanth,25,25,1029.6,5833.42776203966,Hit
+4ecbe02f-084d-4958-b3ce-c7c99007974c,Oppenheimer,Action,2017,Telugu,USA,98,130.86,445.78,7.4,2569530,Amazon Prime,Mani Ratnam,Yash,51,8,314.91999999999996,240.6541341892098,Average
+ebca2f5a-83b1-4046-8039-948bd707d1df,The Batman,Horror,2010,Hindi,USA,122,269.75,930.01,5.7,2223209,Amazon Prime,Anurag Kashyap,Robert Downey Jr.,90,15,660.26,244.7673772011121,Flop
+e2b89063-9933-4131-979f-c38827a89142,Oppenheimer,Drama,1995,Telugu,India,129,263.92,1030.03,8.2,575788,Hulu,James Cameron,Shah Rukh Khan,33,30,766.1099999999999,290.28114580175804,Hit
+d9f4a06d-96e1-4f2f-8578-467bcf442554,KGF Chapter 2,Adventure,1996,Telugu,UK,107,217.18,1546.45,7.6,1468878,Amazon Prime,Steven Spielberg,Yash,56,29,1329.27,612.059121466065,Average
+3b012cb8-290a-467d-a940-9e7b7515678b,Avatar,Fantasy,1970,English,Canada,127,4.91,808.47,9.0,1243717,Hulu,Christopher Nolan,Prabhas,83,55,803.5600000000001,16365.784114052954,Hit
+7da457f3-0af7-4794-87c4-a609aee2c6e9,The Lion King,Sci-Fi,2008,Hindi,USA,129,129.48,310.03,8.0,3423576,Hulu,Anurag Kashyap,Robert Downey Jr.,11,17,180.54999999999998,139.44238492431262,Hit
+444e0990-c2cb-4223-a6b0-99452df3a133,Gladiator,Adventure,1984,Hindi,UK,133,48.16,1061.14,6.3,3320311,Disney+,Christopher Nolan,Rajinikanth,15,41,1012.9800000000001,2103.3637873754155,Average
+c780ac14-d0bb-49b9-89e2-1619f5fcffe2,3 Idiots,Sci-Fi,1999,Tamil,India,81,106.5,35.33,7.1,187670,Netflix,Anurag Kashyap,Rajinikanth,42,26,-71.17,-66.82629107981221,Average
+65e1783d-648b-4a76-beb7-01c2a7a0a050,Barbie,Thriller,2009,Tamil,USA,188,242.21,2439.82,9.3,3068280,HBO Max,Christopher Nolan,Tom Cruise,41,16,2197.61,907.3159654844969,Hit
+ca9f7dae-3360-48b4-bd33-7fa50ee6139f,The Batman,Adventure,1977,English,Canada,131,82.65,2221.35,7.6,937650,Amazon Prime,Mani Ratnam,Tom Cruise,71,48,2138.7,2587.658802177858,Average
+690903fc-cd56-4aa4-bdac-b5b21daab4de,RRR,Sci-Fi,1993,Telugu,India,108,10.07,211.73,8.8,2346786,Hulu,Mani Ratnam,Yash,33,32,201.66,2002.5819265143991,Hit
+61895784-3b84-41d1-b9f5-241068cb85e2,Oppenheimer,Action,2014,Telugu,USA,173,226.63,1026.93,8.9,2359298,Amazon Prime,Anurag Kashyap,Yash,92,11,800.3000000000001,353.1306534880643,Hit
+0f2e662e-cbfe-4a9e-b39b-a329edbe11a5,Interstellar,Adventure,1971,Hindi,USA,119,232.93,1188.82,9.7,15220,Disney+,Christopher Nolan,Robert Downey Jr.,85,54,955.8899999999999,410.37650796376585,Hit
+18d2138e-e52b-4f72-a904-c63b82f6d505,The Godfather,Adventure,2002,Tamil,India,173,273.84,1718.77,7.4,2258756,Netflix,James Cameron,Shah Rukh Khan,78,23,1444.93,527.6548349401111,Average
+a1c1e7ab-6055-4475-b2e5-61bcfc83e589,The Dark Knight,Thriller,1998,Hindi,USA,142,100.32,1073.64,8.0,2177374,Amazon Prime,Rajamouli,Leonardo DiCaprio,48,27,973.3200000000002,970.2153110047849,Hit
+977607c5-0662-453a-b6b5-71663f0dec31,Titanic,Sci-Fi,1985,English,USA,122,259.07,1205.83,7.0,743350,Netflix,Steven Spielberg,Leonardo DiCaprio,38,40,946.76,365.44563245454896,Average
+8d0c86ad-7014-4496-aecb-be3c09d33bf0,Joker,Thriller,1974,Tamil,India,144,293.18,1788.45,6.6,1857068,Amazon Prime,Christopher Nolan,Robert Downey Jr.,37,51,1495.27,510.01773654410255,Average
+24b823b5-02f1-4411-b1e0-0fd80a09f754,Joker,Fantasy,1973,Hindi,Canada,125,148.82,1152.26,6.9,3937450,HBO Max,Christopher Nolan,Robert Downey Jr.,73,52,1003.44,674.2642117994894,Average
+f2ba76e4-8180-4acc-8e6b-02ae3c4f8290,Gladiator,Adventure,1991,Telugu,USA,190,258.39,219.53,8.2,1520226,Netflix,Christopher Nolan,Prabhas,18,34,-38.859999999999985,-15.039281705948367,Hit
+907bdc9d-915d-4473-8385-20cf7f3e3d9f,Barbie,Adventure,1990,Telugu,USA,156,84.5,1496.33,5.4,710848,Netflix,Christopher Nolan,Robert Downey Jr.,86,35,1411.83,1670.8047337278106,Flop
+e4bc0b62-8e87-4ccd-8bd2-ae0782042743,The Shawshank Redemption,Romance,1999,English,UK,100,292.79,237.91,9.6,3036022,HBO Max,Mani Ratnam,Leonardo DiCaprio,88,26,-54.880000000000024,-18.74380955633731,Hit
+fc6802e2-1021-4be6-87fb-5cd24e63646b,Inception,Fantasy,2005,Telugu,India,111,165.95,228.98,6.6,2770393,Netflix,Christopher Nolan,Prabhas,47,20,63.03,37.98131967460079,Average
+e8ff5d4b-cd08-4168-9964-35b3eb3d3b43,Barbie,Thriller,2016,Hindi,UK,102,160.63,1211.63,6.1,843033,Netflix,Mani Ratnam,Shah Rukh Khan,93,9,1051.0,654.2986988731868,Average
+a4c9edfb-7625-4023-922c-bdbcbc907009,Avengers: Endgame,Horror,2003,Telugu,USA,165,160.99,2245.4,5.0,3700512,HBO Max,Anurag Kashyap,Leonardo DiCaprio,48,22,2084.41,1294.7450152183364,Flop
+5ac330a6-3323-4d32-b1f0-0f66f70e0755,Interstellar,Adventure,2011,Hindi,UK,186,170.08,127.15,5.1,872249,Disney+,Anurag Kashyap,Leonardo DiCaprio,77,14,-42.93000000000001,-25.241063029162746,Flop
+55fd9ac4-218c-4d6e-9b90-073951143e04,Joker,Sci-Fi,1983,Tamil,India,118,147.6,542.53,8.9,1461113,Netflix,Anurag Kashyap,Rajinikanth,42,42,394.92999999999995,267.56775067750675,Hit
+8921f8fc-c3ad-4b63-858a-61d795c8fded,Fight Club,Action,2008,Tamil,USA,147,255.31,1123.45,6.0,2800382,HBO Max,Rajamouli,Rajinikanth,27,17,868.1400000000001,340.03368454036274,Average
+df760026-1ed7-46f7-a76e-5fa453f18b3c,The Godfather,Drama,1971,Telugu,India,185,133.96,1183.07,8.2,1979802,Netflix,Steven Spielberg,Yash,21,54,1049.11,783.1516870707673,Hit
+d36972e5-5831-4b68-9dcd-c0cd7ade9186,Titanic,Sci-Fi,2018,Telugu,UK,157,258.5,966.69,6.3,339751,Disney+,Christopher Nolan,Shah Rukh Khan,58,7,708.19,273.96131528046425,Average
+38dd53ea-c66c-4b6c-a56a-8e01926d6fb3,Interstellar,Romance,1984,English,UK,159,155.05,433.04,9.7,2683735,Hulu,Anurag Kashyap,Yash,61,41,277.99,179.29055143502094,Hit
+7243ebcb-e6aa-47e4-bcf3-ccfd768a7937,Forrest Gump,Romance,1991,English,Canada,131,241.86,759.76,6.4,2471586,Hulu,Christopher Nolan,Tom Cruise,100,34,517.9,214.1321425618126,Average
+ff517eab-0d1a-4b0c-b07c-7df16de1f9b5,The Lion King,Thriller,1980,Telugu,UK,127,136.52,2395.7,8.8,3224476,Hulu,James Cameron,Yash,68,45,2259.18,1654.8344564898912,Hit
+3bf95c4d-71a5-4ac0-ac9a-0181573eb622,KGF Chapter 2,Sci-Fi,2009,Tamil,Canada,164,33.79,669.97,8.6,3609629,HBO Max,Christopher Nolan,Prabhas,37,16,636.1800000000001,1882.7463746670617,Hit
+ef04252c-e155-42b7-9086-0245f7544fef,Baahubali: The Beginning,Horror,2020,English,Canada,155,79.31,361.26,5.8,3506862,HBO Max,Anurag Kashyap,Prabhas,82,5,281.95,355.5037195813894,Flop
+cd221991-5e8b-4b9c-b612-20ea5a528d72,Oppenheimer,Adventure,1998,English,USA,173,67.9,780.18,8.5,9767,Disney+,Steven Spielberg,Prabhas,56,27,712.28,1049.0132547864505,Hit
+7a81fced-21f7-4911-9747-128f9f962b48,The Dark Knight,Romance,2023,Telugu,Canada,159,37.83,965.64,7.2,1871148,Amazon Prime,Rajamouli,Yash,76,2,927.81,2452.5773195876286,Average
+ae6ea1a9-d1f3-43f8-8c86-9b9fce00b060,The Lion King,Adventure,1980,Hindi,USA,109,185.81,70.9,8.7,4170544,HBO Max,Christopher Nolan,Prabhas,60,45,-114.91,-61.8427425865131,Hit
+41b94bd2-ecea-40fd-b40f-252f5a48afe8,The Matrix,Sci-Fi,1988,Hindi,UK,113,147.85,1833.98,5.3,821483,Disney+,James Cameron,Robert Downey Jr.,39,37,1686.13,1140.432871153196,Flop
+9b84800a-a749-4091-a5ed-47255786c6c9,Baahubali: The Beginning,Comedy,1995,Tamil,USA,110,85.28,1686.13,7.5,4259795,Hulu,James Cameron,Robert Downey Jr.,31,30,1600.8500000000001,1877.1693245778615,Average
+da6d1ec5-33bd-412e-9f75-66a5c79a917a,Oppenheimer,Adventure,2002,Tamil,India,87,119.37,789.53,8.9,2886186,Disney+,Anurag Kashyap,Prabhas,90,23,670.16,561.4140906425399,Hit
+cca9e893-90f1-453f-970a-3517119df4a8,Baahubali: The Beginning,Fantasy,1970,Hindi,USA,173,284.2,2005.67,8.8,1007196,Amazon Prime,Christopher Nolan,Yash,44,55,1721.47,605.7248416608023,Hit
+a06375a5-459e-412d-a916-07dd01a59c84,Baahubali: The Beginning,Comedy,2008,Hindi,India,168,153.56,2057.11,7.3,4186881,HBO Max,Steven Spielberg,Robert Downey Jr.,61,17,1903.5500000000002,1239.6131805157595,Average
+ace713c7-7461-4bca-a926-71a310ff3416,Oppenheimer,Romance,1998,English,USA,96,163.51,561.5,7.2,131191,Netflix,Steven Spielberg,Prabhas,53,27,397.99,243.4040731453734,Average
+7293cade-4a46-40e4-b474-bae14386623c,Jurassic Park,Fantasy,2013,English,UK,122,220.25,62.59,7.2,2188536,Amazon Prime,Anurag Kashyap,Yash,97,12,-157.66,-71.58229284903518,Average
+7937e08a-2825-4a16-96e0-836feb00f1d0,Forrest Gump,Adventure,2017,Tamil,Canada,143,150.26,417.54,8.0,1297365,HBO Max,Anurag Kashyap,Shah Rukh Khan,68,8,267.28000000000003,177.87834420338083,Hit
+fa24ad9e-8029-4ffb-8f2a-531f70b0d0d2,The Batman,Drama,2009,English,USA,85,270.37,2221.41,7.3,3668991,Hulu,Anurag Kashyap,Tom Cruise,79,16,1951.04,721.6185227650997,Average
+4cf7c009-db5e-40e3-8126-7e7be3bd5c2a,Avengers: Endgame,Romance,2017,Telugu,UK,94,233.81,34.48,9.4,2186191,HBO Max,Mani Ratnam,Tom Cruise,75,8,-199.33,-85.25298319148027,Hit
+3577a198-b7cc-4cfc-bdbd-6c97b763011a,Avatar,Action,1976,Tamil,India,182,7.65,1992.25,7.1,2664175,Netflix,Rajamouli,Yash,42,49,1984.6,25942.483660130718,Average
+058e7cd7-a53e-4a38-b053-235829ef2d6e,Dangal,Drama,1975,Telugu,USA,172,191.64,631.27,8.8,3960871,HBO Max,Anurag Kashyap,Rajinikanth,40,50,439.63,229.40409100396576,Hit
+55603351-6f96-4e43-b3dc-a801806ea335,Baahubali: The Conclusion,Fantasy,1973,English,USA,105,168.55,2488.71,9.8,3892867,HBO Max,James Cameron,Tom Cruise,99,52,2320.16,1376.5410857312368,Hit
+78bb2938-bfce-4fe6-bd0a-93d815d207ca,3 Idiots,Romance,1974,Tamil,India,99,24.01,2421.2,9.4,691588,Disney+,Rajamouli,Rajinikanth,79,51,2397.1899999999996,9984.131611828403,Hit
+d8d69e64-5d70-4672-9586-9779e915244f,Dangal,Fantasy,1977,English,USA,173,49.08,718.02,5.8,3976129,Hulu,Anurag Kashyap,Tom Cruise,12,48,668.9399999999999,1362.9584352078239,Flop
+f17a800d-16ac-4d8a-9658-9f4f2fbdf5bc,The Batman,Adventure,1988,English,UK,92,108.03,176.43,8.0,567533,Amazon Prime,Christopher Nolan,Tom Cruise,16,37,68.4,63.31574562621495,Hit
+e86e0291-691f-4940-8855-9e478ae6f3fc,Jurassic Park,Drama,2023,Hindi,USA,143,270.19,1905.61,5.3,4375168,Netflix,Mani Ratnam,Robert Downey Jr.,93,2,1635.4199999999998,605.2851696953994,Flop
+cfcd16c2-c3e4-4a78-98bd-c7738a29f89b,The Shawshank Redemption,Fantasy,2009,English,UK,111,282.52,2493.81,5.2,3575364,Hulu,James Cameron,Shah Rukh Khan,17,16,2211.29,782.7021095851621,Flop
+f5082c7a-1b9f-4f42-95a6-bf45b3c1b56b,Inception,Fantasy,2005,Telugu,Canada,164,170.34,654.2,9.6,2623846,Amazon Prime,Christopher Nolan,Rajinikanth,14,20,483.86,284.0554185746155,Hit
+5c881c83-212b-41e9-b15a-2b4a4cbff061,Dangal,Sci-Fi,1998,Tamil,India,120,123.0,2237.68,5.4,4717752,Hulu,Christopher Nolan,Yash,90,27,2114.68,1719.2520325203252,Flop
+0d2afc26-aede-4e7f-bb78-6b1fdd09a604,The Dark Knight,Action,2019,Hindi,Canada,172,120.63,1978.26,8.2,1691610,Netflix,James Cameron,Tom Cruise,97,6,1857.63,1539.940313354887,Hit
+ab14afb1-1ce6-4c66-9b1e-abf64dc49f5f,The Shawshank Redemption,Thriller,2024,English,USA,103,252.65,2203.29,7.0,4261997,Amazon Prime,Anurag Kashyap,Tom Cruise,89,1,1950.6399999999999,772.0720364140114,Average
+c038ed94-cc2c-4e0f-bbae-29d6e6d1f09a,Jurassic Park,Comedy,1974,Telugu,UK,114,60.05,1615.76,5.9,4667784,Hulu,Steven Spielberg,Prabhas,79,51,1555.71,2590.691090757702,Flop
+7b434955-74bd-4220-b760-21fd611099e0,The Godfather,Fantasy,2014,Tamil,UK,178,4.5,2101.38,5.7,3116496,HBO Max,James Cameron,Shah Rukh Khan,26,11,2096.88,46597.333333333336,Flop
+5660dd25-2d80-47c1-976f-a2a70242ee34,Jurassic Park,Drama,1988,Tamil,Canada,126,285.68,614.88,6.2,3313543,Hulu,Anurag Kashyap,Yash,64,37,329.2,115.23382805936713,Average
+440224d7-4e60-452e-8ad4-0d743b8d187e,KGF Chapter 2,Drama,2018,Tamil,India,173,171.07,971.21,5.0,1356770,Amazon Prime,James Cameron,Tom Cruise,90,7,800.1400000000001,467.7266616005145,Flop
+e5f96354-96d9-4431-af26-eb49dfaa91ff,The Lion King,Action,2007,English,Canada,154,119.56,777.82,6.1,4791542,Disney+,Christopher Nolan,Leonardo DiCaprio,91,18,658.26,550.5687520910003,Average
+75cfeac9-428e-442f-bf93-e8910ac4382f,Oppenheimer,Sci-Fi,2020,Telugu,USA,186,134.8,1263.65,7.0,2151331,HBO Max,Mani Ratnam,Prabhas,47,5,1128.8500000000001,837.4258160237389,Average
+5461dccf-a43b-4e71-9901-10eefe5f61b8,The Batman,Drama,1990,Hindi,USA,128,289.35,1579.94,7.6,2803361,Hulu,Rajamouli,Robert Downey Jr.,38,35,1290.5900000000001,446.03075859685504,Average
+606ae456-7dd8-41fe-917f-3c0ed54ee147,Oppenheimer,Sci-Fi,1989,Hindi,UK,165,287.44,374.76,5.8,635140,Hulu,Steven Spielberg,Tom Cruise,40,36,87.32,30.378513776788196,Flop
+d447d0bb-9bbb-4e09-b0bb-44e35d17b037,Avatar,Adventure,1988,Telugu,USA,160,77.73,457.56,7.2,4384702,Netflix,James Cameron,Robert Downey Jr.,91,37,379.83,488.6530297182555,Average
+66991df2-da6b-476f-9394-38623203b6be,Pulp Fiction,Thriller,1975,Hindi,UK,124,13.86,2016.95,6.3,1466302,Amazon Prime,Rajamouli,Shah Rukh Khan,73,50,2003.0900000000001,14452.308802308804,Average
+ab1dc149-a088-4d80-95ed-e67eb28ae876,Dangal,Action,2022,Tamil,USA,174,1.17,304.72,6.2,4320811,Netflix,Rajamouli,Robert Downey Jr.,82,3,303.55,25944.444444444445,Average
+64707e27-9cba-4e0e-9b26-5358ad9b59cb,Pulp Fiction,Romance,2003,Hindi,India,102,207.79,1685.56,5.9,1688721,Hulu,Anurag Kashyap,Yash,71,22,1477.77,711.1843688339188,Flop
+c2cf9241-e28d-4c2b-8bcd-629c976dc671,The Avengers,Comedy,2012,Tamil,Canada,100,268.61,2220.27,7.2,2083413,Netflix,James Cameron,Rajinikanth,25,13,1951.6599999999999,726.5775659878633,Average
+f3319769-fd05-4ad1-879a-8284fc903d40,Forrest Gump,Action,1998,English,India,81,191.43,176.87,7.1,1311846,Amazon Prime,Mani Ratnam,Tom Cruise,54,27,-14.560000000000002,-7.605913388706055,Average
+28898afb-e1a4-4541-b341-0d8c1ca2b7d8,Pulp Fiction,Romance,1995,Telugu,India,124,99.87,2214.42,7.6,2261309,Hulu,James Cameron,Tom Cruise,52,30,2114.55,2117.3024932412136,Average
+b71e9ca2-8bb8-40b3-a02e-f35bd60af455,The Shawshank Redemption,Horror,2010,English,India,84,1.26,281.23,9.2,3940798,Amazon Prime,Rajamouli,Rajinikanth,71,15,279.97,22219.841269841272,Hit
+920882f4-bd2d-4a71-8b5b-3aaa92d265de,Joker,Fantasy,1990,Hindi,India,107,87.19,1018.48,6.6,2009057,Hulu,Steven Spielberg,Robert Downey Jr.,70,35,931.29,1068.1156095882554,Average
+8aae7ee2-10d2-4aba-8df9-be76723e9ab4,The Dark Knight,Sci-Fi,1973,Hindi,USA,117,211.78,612.8,5.7,2335731,Disney+,James Cameron,Prabhas,71,52,401.02,189.3568797809047,Flop
+1bf20349-02f8-4ab0-a9b2-8201a79369f1,The Dark Knight,Drama,2014,Hindi,Canada,170,221.05,1995.87,5.5,270247,Disney+,Rajamouli,Leonardo DiCaprio,88,11,1774.82,802.9043202895272,Flop
+3b169191-98d0-43db-9dab-8288f9f664b1,3 Idiots,Sci-Fi,2005,Tamil,India,132,43.47,1214.48,7.6,4198974,HBO Max,James Cameron,Tom Cruise,86,20,1171.01,2693.8348286174373,Average
+1f5bdd5a-522e-476c-8484-e052319fd8d6,Barbie,Action,2023,Hindi,USA,81,72.25,1811.31,7.9,4476414,HBO Max,Anurag Kashyap,Rajinikanth,31,2,1739.06,2407.0034602076125,Average
+bccbda5e-44cb-4d92-8bfc-7fea4b8bb997,Forrest Gump,Thriller,1989,Telugu,USA,150,25.6,1578.52,6.7,344583,Netflix,Rajamouli,Tom Cruise,31,36,1552.92,6066.09375,Average
+530c685c-ae55-4233-baf2-c43f249b1dce,Forrest Gump,Action,1982,Telugu,UK,180,270.4,1086.19,6.3,969835,Amazon Prime,Christopher Nolan,Prabhas,100,43,815.7900000000001,301.69748520710067,Average
+76c63431-3979-4140-abc9-b6ebc8cc71d1,The Batman,Thriller,1978,Tamil,India,161,130.03,2412.59,7.6,2082186,Hulu,Mani Ratnam,Tom Cruise,42,47,2282.56,1755.4102899330924,Average
+e7505642-b035-471c-8d4a-6561d2b55695,The Dark Knight,Adventure,2021,English,Canada,158,133.82,2139.69,5.7,2241388,Amazon Prime,Rajamouli,Shah Rukh Khan,10,4,2005.8700000000001,1498.9314003885818,Flop
+19fedc38-6dee-46fe-bcc5-c1cb3cb58d6e,Barbie,Romance,1984,Tamil,India,97,224.05,1942.6,5.3,2514652,Hulu,James Cameron,Rajinikanth,98,41,1718.55,767.0386074536933,Flop
+fc17b78b-7289-4702-a01d-8118bb254449,Forrest Gump,Action,2007,Hindi,India,152,39.03,2163.77,6.4,1738715,HBO Max,Anurag Kashyap,Shah Rukh Khan,65,18,2124.74,5443.8636945939015,Average
+23434fe9-4a6b-4a22-8d39-afb9fb7916a5,Avengers: Endgame,Fantasy,1980,Telugu,India,175,170.26,532.56,5.7,1091149,HBO Max,Mani Ratnam,Rajinikanth,50,45,362.29999999999995,212.79220016445436,Flop
+3ddaea0b-6515-45c8-8bb4-19c6b2858e92,The Shawshank Redemption,Romance,2007,Hindi,India,103,43.57,233.74,9.0,1137704,Amazon Prime,Anurag Kashyap,Yash,94,18,190.17000000000002,436.47004819830164,Hit
+e86aa24f-99db-45bf-9401-f8e04087c496,Avengers: Endgame,Drama,1973,Telugu,Canada,89,134.83,1879.62,7.3,4159504,Netflix,Christopher Nolan,Yash,67,52,1744.79,1294.0666023881925,Average
+2674049a-4d7c-41ec-a244-9889cae81231,Oppenheimer,Drama,2011,Telugu,India,156,181.74,787.53,7.2,3966975,Netflix,Mani Ratnam,Leonardo DiCaprio,80,14,605.79,333.3278309673159,Average
+1be044a6-651a-47a8-b762-86f3f8e87210,3 Idiots,Thriller,2013,Telugu,Canada,166,239.09,2277.62,9.5,625724,Netflix,James Cameron,Prabhas,12,12,2038.53,852.6203521686394,Hit
+85b69bf9-5978-476d-9e84-f36374ddad16,Forrest Gump,Thriller,1994,English,Canada,166,229.96,1192.96,7.4,1044254,Hulu,Anurag Kashyap,Yash,79,31,963.0,418.76848147503915,Average
+bedf8adf-66c7-4fe6-a4c0-451424329443,Barbie,Action,1999,Telugu,UK,139,91.95,2385.41,8.8,4059582,Netflix,James Cameron,Robert Downey Jr.,17,26,2293.46,2494.2468733007067,Hit
+3eff55dc-1dc3-40d4-a183-983df5ee34b0,Barbie,Comedy,2005,English,UK,140,215.37,1036.94,7.1,3221327,Hulu,James Cameron,Leonardo DiCaprio,83,20,821.57,381.4690996889075,Average
+a31d6bd6-bc83-4697-b547-fe829c25daca,Interstellar,Romance,2000,English,UK,187,271.77,1836.66,8.8,3575572,Hulu,Christopher Nolan,Robert Downey Jr.,64,25,1564.89,575.8141075173861,Hit
+37109404-d63c-4cbc-a96f-724cb913feda,The Shawshank Redemption,Comedy,1975,Telugu,USA,98,60.54,502.97,6.9,424187,Amazon Prime,James Cameron,Robert Downey Jr.,47,50,442.43,730.8060786257021,Average
+d421dbd3-254d-466a-af00-cacc6daacfe7,3 Idiots,Sci-Fi,1975,Tamil,UK,111,192.17,1236.43,7.9,2571020,Amazon Prime,Steven Spielberg,Tom Cruise,59,50,1044.26,543.4042774626632,Average
+05a42ced-48b8-48e2-9c4b-5e136f6804bc,Fight Club,Sci-Fi,1997,Tamil,Canada,90,2.66,1181.44,8.9,250221,HBO Max,Christopher Nolan,Prabhas,53,28,1178.78,44315.03759398496,Hit
+d24f6c03-59f4-471f-8be6-830c8ae1fc64,Joker,Sci-Fi,2016,English,USA,134,223.85,2247.1,6.2,1778069,Netflix,Rajamouli,Rajinikanth,71,9,2023.25,903.841858387313,Average
+3329af30-76b7-411e-a052-205e18cdd8a7,The Matrix,Comedy,1987,Telugu,USA,161,272.41,798.0,8.4,1378390,HBO Max,Anurag Kashyap,Shah Rukh Khan,84,38,525.5899999999999,192.94078778312098,Hit
+49ff325c-93d8-43b9-b1a5-5c75bb6911e9,Barbie,Fantasy,1980,Hindi,USA,110,52.85,322.35,5.3,4671397,HBO Max,Rajamouli,Rajinikanth,24,45,269.5,509.9337748344371,Flop
+0ef1124e-74ac-4802-b66a-ebad082d2132,The Lion King,Sci-Fi,1992,English,Canada,135,5.8,1766.43,5.3,719720,Netflix,Christopher Nolan,Tom Cruise,61,33,1760.63,30355.689655172417,Flop
+88059b76-0e06-41f2-9d29-ed81df696170,The Matrix,Drama,2010,Tamil,USA,187,52.89,1974.95,5.1,294095,Amazon Prime,Christopher Nolan,Prabhas,67,15,1922.06,3634.0707128001513,Flop
+d4df9672-502c-4ec1-bcb2-de9b0496e8eb,The Godfather,Romance,1995,Telugu,UK,83,111.77,2025.24,8.7,2007179,Disney+,Mani Ratnam,Prabhas,45,30,1913.47,1711.9710118994367,Hit
+4f2b0fec-81be-4098-8dc4-2b751d06af7b,The Shawshank Redemption,Sci-Fi,1979,Tamil,UK,87,63.41,2079.25,7.3,1494885,Hulu,James Cameron,Yash,65,46,2015.84,3179.0569310834253,Average
+83fbb6c9-95bc-4650-90d2-bf64872afdc4,Forrest Gump,Fantasy,2004,Hindi,USA,83,146.17,1120.79,6.1,959971,Hulu,Mani Ratnam,Tom Cruise,96,21,974.62,666.7715673530821,Average
+0d81fd3b-0474-4da1-9ff3-f48e806247f7,Baahubali: The Conclusion,Comedy,2001,Telugu,UK,88,246.39,1004.28,7.1,1654736,Amazon Prime,Steven Spielberg,Rajinikanth,19,24,757.89,307.5977109460611,Average
+139073f0-0e09-41cd-8315-39f2ff2fd54f,Dangal,Thriller,2015,English,USA,190,286.57,1783.13,8.2,197017,Hulu,James Cameron,Yash,59,10,1496.5600000000002,522.2319154133371,Hit
+edfb082c-5e62-4a94-8e12-7eb23c1fa60c,Dangal,Adventure,1984,Hindi,UK,115,68.33,672.16,5.5,1206120,Hulu,Christopher Nolan,Robert Downey Jr.,65,41,603.8299999999999,883.6967656958874,Flop
+ecdc28f2-2fdb-4044-a114-cb0907b874b4,Inception,Horror,1997,Hindi,USA,164,285.68,2403.78,5.0,2425193,Amazon Prime,Mani Ratnam,Rajinikanth,57,28,2118.1000000000004,741.4239708765053,Flop
+b6cc5826-a21e-4f6a-aa26-f42235a88345,Titanic,Adventure,2015,Tamil,Canada,81,110.28,2362.89,5.7,427012,Netflix,Anurag Kashyap,Shah Rukh Khan,41,10,2252.6099999999997,2042.6278563656144,Flop
+2f99e668-08ec-43a2-8d37-560f9dfd75b4,The Batman,Fantasy,1971,Hindi,USA,118,2.81,2276.34,9.4,4235116,HBO Max,Rajamouli,Shah Rukh Khan,55,54,2273.53,80908.54092526692,Hit
+43a225af-0997-4732-9aa5-0e2df0a2aec5,KGF Chapter 2,Action,2016,English,UK,189,249.37,1040.1,7.4,4486978,Disney+,Mani Ratnam,Tom Cruise,40,9,790.7299999999999,317.09106949512767,Average
+f09a04e4-47a8-4c85-b132-1e802ed619af,RRR,Horror,1982,English,Canada,88,159.1,2185.26,5.6,2917165,Disney+,Steven Spielberg,Robert Downey Jr.,55,43,2026.1600000000003,1273.5135135135138,Flop
+a94661d2-990b-44ab-a220-cf6a8e2db97b,Avatar,Adventure,2019,Telugu,India,182,235.69,2418.69,7.6,1418849,HBO Max,James Cameron,Rajinikanth,21,6,2183.0,926.2166405023547,Average
+78eeeaca-c702-4703-9587-96a8d06cc132,Pulp Fiction,Horror,2000,English,Canada,92,94.2,2189.91,7.0,2001977,Amazon Prime,Anurag Kashyap,Rajinikanth,19,25,2095.71,2224.745222929936,Average
+0f4f50af-85d4-418a-bd06-9a5919c2b9f8,Jurassic Park,Adventure,2009,Tamil,USA,169,133.11,339.24,8.4,4907574,Netflix,Mani Ratnam,Tom Cruise,28,16,206.13,154.85688528284876,Hit
+f17ba596-d5b6-49a7-b538-95e8bbd47b3d,Pulp Fiction,Comedy,2016,Hindi,India,146,26.68,1966.38,5.8,2180190,Netflix,Rajamouli,Robert Downey Jr.,37,9,1939.7,7270.239880059971,Flop
+0e779e0d-b6ca-4ad5-8fd6-825b68a17714,Pulp Fiction,Fantasy,2010,English,India,125,19.51,1617.49,6.9,646825,Disney+,Steven Spielberg,Yash,46,15,1597.98,8190.568939005638,Average
+7f3735e2-179d-4987-a1f7-f2ef7fa8823b,The Shawshank Redemption,Action,2003,Telugu,USA,170,133.91,2176.26,6.9,382172,Disney+,Christopher Nolan,Yash,100,22,2042.3500000000001,1525.1661563736839,Average
+d2cc433e-8094-450a-905e-005508920a37,Barbie,Adventure,1999,English,UK,81,61.4,17.82,6.5,4247256,HBO Max,Anurag Kashyap,Yash,90,26,-43.58,-70.9771986970684,Average
+417f18a7-fc9c-4565-a028-e8114a6c9403,Avatar,Romance,2006,English,USA,86,194.48,804.26,6.8,3698739,Disney+,Christopher Nolan,Tom Cruise,72,19,609.78,313.54380913204443,Average
+d6f605a9-6504-454c-a94e-77727de3d69e,The Batman,Sci-Fi,1979,Tamil,India,127,132.02,2304.44,7.1,3031680,Netflix,James Cameron,Leonardo DiCaprio,23,46,2172.42,1645.5234055446144,Average
+3e4a6654-2bf0-44f9-998a-b75b6f962777,The Godfather,Drama,1988,Telugu,India,116,171.29,1457.65,5.2,4209376,Amazon Prime,Steven Spielberg,Leonardo DiCaprio,68,37,1286.3600000000001,750.9837118337324,Flop
+4dde8c92-dd6f-493a-b476-66d127f5735d,Baahubali: The Conclusion,Fantasy,1998,English,USA,128,38.47,2045.22,9.8,641856,Hulu,Anurag Kashyap,Prabhas,56,27,2006.75,5216.4023914738755,Hit
+773144d9-a585-4e84-8592-cc4138d4cbc6,The Shawshank Redemption,Comedy,1984,English,USA,138,271.86,904.31,7.3,1410764,Hulu,Mani Ratnam,Tom Cruise,80,41,632.4499999999999,232.6381225630839,Average
+8c498783-186c-41d9-8bfc-4b6cf0e8e77e,Avengers: Endgame,Sci-Fi,2000,English,UK,92,232.49,1521.37,9.6,87437,Netflix,James Cameron,Prabhas,19,25,1288.8799999999999,554.3808335842401,Hit
+64d7f57c-3fe5-49b7-b307-cb896f2321ec,Avengers: Endgame,Thriller,1975,Telugu,India,125,148.49,2272.41,7.2,2011219,HBO Max,Christopher Nolan,Shah Rukh Khan,32,50,2123.92,1430.3454778099535,Average
+ef69784d-c913-4bd2-9519-1116cb5220e3,Fight Club,Fantasy,2014,Telugu,USA,118,24.8,317.57,8.0,25609,Hulu,Anurag Kashyap,Leonardo DiCaprio,82,11,292.77,1180.524193548387,Hit
+d55c14c5-a5c1-4995-aab6-c60e3194cd04,Fight Club,Horror,2022,Telugu,USA,157,296.61,1961.3,6.7,2056275,Netflix,James Cameron,Yash,64,3,1664.69,561.2386635649506,Average
+b8c5ab77-baa4-4fbd-a02e-d70e6725d6ed,Baahubali: The Conclusion,Sci-Fi,1978,Tamil,Canada,93,118.5,886.67,7.2,2964495,HBO Max,Christopher Nolan,Shah Rukh Khan,93,47,768.17,648.2447257383966,Average
+1a0e1b65-76a6-4461-85d8-f12753453783,Oppenheimer,Thriller,1999,English,Canada,182,22.72,2090.58,9.1,3005168,HBO Max,James Cameron,Rajinikanth,92,26,2067.86,9101.49647887324,Hit
+2f7f7fb3-7439-4d36-828c-6abe189f1afb,Inception,Romance,1997,Hindi,Canada,164,177.76,1264.56,5.6,990791,Hulu,Rajamouli,Yash,92,28,1086.8,611.3861386138614,Flop
+abd5f3c2-9a22-470c-88e6-ea2bf9ec933c,Interstellar,Thriller,2000,Hindi,Canada,163,7.96,2496.35,7.9,4276625,Netflix,Anurag Kashyap,Leonardo DiCaprio,84,25,2488.39,31261.18090452261,Average
+8746db3f-33d8-4af4-9059-93129a977c9a,Barbie,Sci-Fi,2000,English,UK,166,133.72,407.83,8.2,2920217,Netflix,Mani Ratnam,Tom Cruise,36,25,274.11,204.9880346993718,Hit
+312b0ee2-25ce-44eb-b4e0-ff3d2b47ef28,Interstellar,Horror,2014,Telugu,UK,120,245.29,1048.53,6.1,2276654,Amazon Prime,Mani Ratnam,Leonardo DiCaprio,92,11,803.24,327.465449060296,Average
+dc22e98a-a49a-4716-8397-6be8ef60df4b,Avengers: Endgame,Fantasy,1977,Telugu,Canada,141,75.68,125.09,5.1,3174995,Netflix,Rajamouli,Shah Rukh Khan,87,48,49.41,65.28805496828751,Flop
+79616741-4139-45f6-b289-a333775ef8e6,Fight Club,Romance,1991,Tamil,UK,164,169.3,427.57,7.9,3674292,Disney+,Christopher Nolan,Tom Cruise,94,34,258.27,152.55168340224452,Average
+90f1d338-91b4-4a23-9874-fa64707acaa9,Avatar,Sci-Fi,2013,Tamil,USA,80,216.95,435.04,9.6,1507060,Netflix,Anurag Kashyap,Rajinikanth,70,12,218.09000000000003,100.52546669739573,Hit
+b0e67299-a2f0-4de8-a219-f30f617e9c52,Baahubali: The Conclusion,Drama,1989,Tamil,USA,97,75.14,2032.09,8.1,564804,Netflix,Steven Spielberg,Leonardo DiCaprio,92,36,1956.9499999999998,2604.4051104604737,Hit
+e150ec98-9da3-416f-b380-dfb50f7f8d87,3 Idiots,Adventure,1993,English,USA,162,34.72,392.44,9.0,2040623,Disney+,Christopher Nolan,Leonardo DiCaprio,66,32,357.72,1030.299539170507,Hit
+4cf52e57-1a90-40bb-96bc-d4e038bc3387,Titanic,Drama,1993,Telugu,UK,104,47.06,678.5,5.8,3436737,Netflix,Mani Ratnam,Robert Downey Jr.,73,32,631.44,1341.7764555886104,Flop
+7fbc1875-0e16-43ef-8634-a6680e6fb933,Titanic,Thriller,1991,Hindi,USA,174,48.31,1689.62,5.0,4994617,Amazon Prime,Anurag Kashyap,Prabhas,36,34,1641.31,3397.453943282964,Flop
+dbcd99e3-799b-46f1-a6c3-45bd054f37a4,The Lion King,Fantasy,1996,English,India,150,7.72,1834.11,9.0,2554388,HBO Max,Mani Ratnam,Prabhas,73,29,1826.3899999999999,23657.901554404147,Hit
+400522c7-49b8-4573-a135-7650191da811,Avengers: Endgame,Horror,1980,Tamil,Canada,139,88.89,600.06,5.1,3065131,Disney+,James Cameron,Tom Cruise,17,45,511.16999999999996,575.0590617617279,Flop
+c3ca62b7-0d90-4af0-8154-a6ba575f37e5,The Batman,Horror,1970,Tamil,Canada,181,42.31,493.22,8.4,3980037,HBO Max,Christopher Nolan,Yash,75,55,450.91,1065.7291420467975,Hit
+e894a92a-faa5-43f0-8ef9-29372547f5ad,The Matrix,Comedy,1980,Hindi,India,153,225.12,698.53,7.4,1719125,Disney+,Christopher Nolan,Rajinikanth,67,45,473.40999999999997,210.2922885572139,Average
+eba8f1ca-6e81-4c3a-9ccb-5772d9d5cbf1,The Godfather,Thriller,1978,Telugu,USA,147,228.86,1488.78,8.6,128783,Amazon Prime,Christopher Nolan,Rajinikanth,19,47,1259.92,550.5199685397187,Hit
+d7f70964-ee1d-4575-b65c-de3db3268b6f,The Batman,Sci-Fi,2021,Telugu,Canada,174,256.66,539.33,5.2,52212,Netflix,James Cameron,Robert Downey Jr.,62,4,282.67,110.13402945531053,Flop
+556cad51-74d9-474c-969c-f185282b41e6,Titanic,Horror,1987,Tamil,India,97,86.47,2453.63,7.6,696288,Amazon Prime,Mani Ratnam,Prabhas,66,38,2367.1600000000003,2737.550595582283,Average
+bff775ec-ea45-43ae-a996-f209d80c3293,Dangal,Fantasy,1980,Tamil,UK,115,161.24,1164.84,7.7,4684013,Hulu,Steven Spielberg,Prabhas,56,45,1003.5999999999999,622.4261969734556,Average
+b2ed757b-b356-4120-a75b-fd352f98efe9,Avatar,Adventure,2006,Hindi,Canada,137,108.82,706.63,5.1,2631775,Hulu,Steven Spielberg,Rajinikanth,35,19,597.81,549.356735894137,Flop
+3a15ff94-e1de-4be0-ab84-a3bdcdf63f00,Oppenheimer,Horror,1999,Telugu,UK,168,140.88,733.17,5.8,676821,Netflix,Mani Ratnam,Prabhas,16,26,592.29,420.4216354344123,Flop
+3d85f579-0a3e-4d77-bc30-9847eb528b08,Forrest Gump,Romance,1999,Hindi,UK,111,243.05,935.45,7.1,4701385,Amazon Prime,James Cameron,Prabhas,75,26,692.4000000000001,284.8796543921004,Average
+11904736-da0e-4110-a03f-4bb22fab8e7a,The Lion King,Fantasy,1998,English,Canada,178,36.12,1994.58,6.3,4300533,Netflix,Anurag Kashyap,Prabhas,49,27,1958.46,5422.093023255815,Average
+e841e11d-a643-425e-9c44-ab53c35e33f6,Fight Club,Thriller,1995,Telugu,UK,189,284.36,793.93,7.8,3811811,Netflix,Anurag Kashyap,Prabhas,93,30,509.56999999999994,179.19890279926852,Average
+16edc1ac-d066-4773-804d-edfd58fe5fc7,Titanic,Action,2023,Tamil,USA,98,182.36,1038.85,5.6,2946690,Disney+,Rajamouli,Shah Rukh Khan,92,2,856.4899999999999,469.6698837464355,Flop
+7be64f06-9ca9-4270-be03-2291c335bee5,The Godfather,Drama,1991,Hindi,Canada,169,191.71,766.8,7.4,4077048,Disney+,Rajamouli,Rajinikanth,82,34,575.0899999999999,299.97913515205255,Average
+c78d37b7-eeaa-4751-9dc6-4faf5d2c0239,Interstellar,Horror,1971,Tamil,USA,122,17.12,993.43,6.0,1576974,Disney+,Anurag Kashyap,Prabhas,80,54,976.31,5702.745327102803,Average
+a5f5b182-20f4-4a01-ab02-312530a77ecf,Interstellar,Romance,1995,Hindi,India,128,99.56,1469.03,7.2,3995300,Hulu,James Cameron,Shah Rukh Khan,44,30,1369.47,1375.5222981116913,Average
+2943940f-e47e-4394-9130-d8583a9c7abd,Jurassic Park,Thriller,1991,Hindi,USA,143,278.79,1166.45,8.2,1768388,Disney+,Christopher Nolan,Prabhas,49,34,887.6600000000001,318.3973600200868,Hit
+3903ee76-b29a-42f8-b327-ba105ef0d30b,Avengers: Endgame,Horror,1985,Telugu,Canada,136,289.88,1515.55,6.9,1548070,HBO Max,Anurag Kashyap,Yash,67,40,1225.67,422.81978749827516,Average
+54b5a702-88b1-42cf-9233-e87fda7ff9d4,Forrest Gump,Horror,1991,Hindi,Canada,111,181.35,1095.67,6.6,677038,Amazon Prime,Christopher Nolan,Prabhas,96,34,914.32,504.1742486903778,Average
+21bb27b4-bc35-4c31-be0d-73f3fd2b41b3,The Godfather,Action,1983,Hindi,UK,126,115.11,667.17,6.7,4208792,HBO Max,James Cameron,Rajinikanth,75,42,552.06,479.5934323690383,Average
+82fd4150-ac21-480a-b3d2-e7558e81fbea,The Lion King,Thriller,2001,Hindi,India,130,266.9,98.69,7.1,4271730,HBO Max,Christopher Nolan,Shah Rukh Khan,84,24,-168.20999999999998,-63.02360434619707,Average
+5acaf7cc-5f18-4901-a0e3-6b3d773058b3,Dangal,Adventure,1972,Hindi,India,153,44.79,1509.66,6.3,1239509,HBO Max,Christopher Nolan,Leonardo DiCaprio,24,53,1464.8700000000001,3270.5291359678504,Average
+ac0e9ed0-c50e-45e4-ae67-08084b43a865,The Avengers,Thriller,2010,Tamil,UK,170,156.38,2401.12,6.4,2399538,HBO Max,Rajamouli,Robert Downey Jr.,90,15,2244.74,1435.4393144903438,Average
+679a16fa-fd39-4d71-8f70-34baa624421b,Oppenheimer,Adventure,2014,Tamil,UK,100,204.7,1330.5,9.0,1326266,Hulu,Anurag Kashyap,Yash,83,11,1125.8,549.9755740107474,Hit
+44497d6d-c989-4e88-a0cb-49b728750269,Oppenheimer,Comedy,2001,Hindi,Canada,132,250.38,2498.5,7.7,457286,HBO Max,Steven Spielberg,Prabhas,76,24,2248.12,897.8832175093856,Average
+8eaf8a38-685c-4e10-9cd2-7167b450cbbc,Dangal,Sci-Fi,1998,Tamil,India,189,97.62,2014.55,5.1,685522,Hulu,James Cameron,Shah Rukh Khan,62,27,1916.9299999999998,1963.6652325343164,Flop
+36f1d11f-512a-410e-871e-667a3721aeb8,Pulp Fiction,Thriller,1982,Hindi,India,161,92.17,1947.59,9.5,3822426,Hulu,James Cameron,Robert Downey Jr.,40,43,1855.4199999999998,2013.0411196701743,Hit
+fe93443d-9963-470f-8b97-ecdea01c8daf,Oppenheimer,Comedy,2016,Tamil,Canada,96,222.87,1810.52,6.3,2530261,Hulu,Steven Spielberg,Rajinikanth,41,9,1587.65,712.3659532462871,Average
+507a8e6a-b718-4b82-ab25-61aadbc9ee27,The Matrix,Horror,1979,Hindi,Canada,100,194.54,1362.2,7.6,2667324,Disney+,Mani Ratnam,Rajinikanth,19,46,1167.66,600.2158939035675,Average
+487ace55-b629-409b-9109-beb59a1f8ca2,Fight Club,Drama,2023,Tamil,UK,153,299.53,842.9,9.3,2175753,Amazon Prime,Christopher Nolan,Prabhas,20,2,543.37,181.40753847694725,Hit
+419cdf01-07ab-47f6-8b52-9986dfcbf937,Baahubali: The Conclusion,Romance,2021,Telugu,UK,154,9.03,2456.87,5.2,3357116,Disney+,Anurag Kashyap,Robert Downey Jr.,51,4,2447.8399999999997,27107.862679955702,Flop
+5cd9ad42-c59d-40c1-9d94-074f56ead509,Gladiator,Thriller,2020,Tamil,Canada,155,256.72,984.21,6.0,597513,HBO Max,Steven Spielberg,Robert Downey Jr.,33,5,727.49,283.37877843564974,Average
+13dad6a7-fa84-43c9-96a1-8dc168ccea9f,Joker,Romance,2011,Tamil,India,182,215.99,945.13,6.2,1552519,Amazon Prime,Rajamouli,Shah Rukh Khan,88,14,729.14,337.58044353905274,Average
+3ca1f72d-247f-44d5-b4e9-a77e5b116d7f,The Avengers,Thriller,2023,Hindi,Canada,97,137.35,202.44,7.4,1275535,Hulu,Rajamouli,Prabhas,12,2,65.09,47.38987986894795,Average
+c45df071-a1ff-4292-b5b2-c9c97c1003e6,The Matrix,Sci-Fi,1998,Telugu,India,102,214.33,1909.72,8.1,261582,Disney+,Anurag Kashyap,Yash,38,27,1695.39,791.0185228386133,Hit
+1f77a17f-e9f8-42b3-bd5b-a2e1662fb328,Baahubali: The Beginning,Action,2010,Tamil,UK,105,93.73,1630.28,8.8,2004965,Hulu,James Cameron,Prabhas,48,15,1536.55,1639.336391763576,Hit
+dca49af0-3ee1-45eb-b94f-23c5c6ce323b,The Avengers,Sci-Fi,2003,Telugu,Canada,80,287.38,1141.19,7.7,1557546,Amazon Prime,Rajamouli,Rajinikanth,60,22,853.8100000000001,297.10139884473523,Average
+b37475ed-a464-4bf0-8720-9f19bb534150,The Avengers,Thriller,1982,Telugu,India,172,72.17,1952.05,5.3,970688,Amazon Prime,Steven Spielberg,Tom Cruise,53,43,1879.8799999999999,2604.794235832063,Flop
+cb702c78-edd7-47b1-bdd2-523c938f433f,Baahubali: The Beginning,Fantasy,2012,Tamil,India,148,89.56,671.28,9.0,4210521,Netflix,Mani Ratnam,Prabhas,100,13,581.72,649.5310406431443,Hit
+605d6b7b-fb02-492a-9af0-8f5c1cf29c5e,RRR,Fantasy,1995,English,UK,120,1.7,641.69,7.2,1599873,Hulu,Rajamouli,Rajinikanth,89,30,639.99,37646.4705882353,Average
+92adb40c-8f2e-4323-b588-a249fcc429c5,Gladiator,Sci-Fi,1995,Telugu,UK,136,43.65,1739.43,7.8,3178530,Amazon Prime,Rajamouli,Shah Rukh Khan,22,30,1695.78,3884.9484536082477,Average
+3a1b2b60-d6b7-43b2-8b12-6a28ca4056f3,Barbie,Drama,2010,Telugu,India,178,165.99,97.77,5.1,376917,Amazon Prime,Anurag Kashyap,Leonardo DiCaprio,86,15,-68.22000000000001,-41.098861377191405,Flop
+0238d0e8-c914-44ed-984d-b213deb4997f,Oppenheimer,Sci-Fi,1970,Tamil,UK,149,37.25,1913.88,9.7,152983,Disney+,James Cameron,Leonardo DiCaprio,80,55,1876.63,5037.932885906041,Hit
+3a802251-add4-419d-8af7-13e5ad117739,Oppenheimer,Thriller,1973,Tamil,Canada,132,240.15,1187.32,7.5,3701749,Disney+,James Cameron,Shah Rukh Khan,20,52,947.17,394.4076618779929,Average
+abf92e8f-046d-41a9-88b5-9eaf08e1b22e,Baahubali: The Conclusion,Romance,1987,Hindi,India,138,24.3,333.48,7.7,2928048,HBO Max,James Cameron,Rajinikanth,12,38,309.18,1272.3456790123457,Average
+4d82520b-2b52-40a1-90ac-c18e27a8fc47,The Matrix,Drama,2006,Tamil,USA,87,20.19,978.48,6.9,1555238,Disney+,Christopher Nolan,Tom Cruise,38,19,958.29,4746.359583952451,Average
+5e1d70a5-2c1c-4986-9a1d-66f4b23cf4a7,KGF Chapter 2,Romance,1988,Tamil,USA,162,243.44,453.76,6.0,4218871,HBO Max,Christopher Nolan,Rajinikanth,26,37,210.32,86.39500492934604,Average
+278c70bf-c235-4bdd-813b-c6396be5e954,Gladiator,Sci-Fi,1996,Hindi,Canada,140,75.57,1347.38,5.3,1939612,Amazon Prime,Anurag Kashyap,Leonardo DiCaprio,77,29,1271.8100000000002,1682.9561995500865,Flop
+d19cd33f-f456-41a7-986c-dccf4395d0e4,Baahubali: The Conclusion,Adventure,2013,English,India,184,18.02,1985.55,7.9,2501229,HBO Max,Rajamouli,Robert Downey Jr.,45,12,1967.53,10918.590455049944,Average
+8c6b50ec-073a-4b59-8f53-f5b6425e757f,Barbie,Drama,1999,Tamil,USA,129,124.89,1980.46,8.4,1651379,Amazon Prime,Mani Ratnam,Rajinikanth,90,26,1855.57,1485.7634718552326,Hit
+52738aac-5ad9-44c5-af6b-f7e1a727fe88,Interstellar,Sci-Fi,1971,Hindi,USA,181,279.56,1327.69,9.3,2139727,Hulu,Steven Spielberg,Leonardo DiCaprio,78,54,1048.13,374.92130490771217,Hit
+980f2ddc-e911-4c58-99da-3c66d814d15a,The Matrix,Fantasy,1984,Telugu,Canada,96,154.32,68.76,9.2,1777371,Amazon Prime,Steven Spielberg,Rajinikanth,52,41,-85.55999999999999,-55.44323483670295,Hit
+700a5f64-0770-468d-bc0d-2d4713922d56,Pulp Fiction,Thriller,2015,Telugu,UK,91,189.18,1191.74,5.2,2083177,Hulu,Anurag Kashyap,Shah Rukh Khan,24,10,1002.56,529.950311872291,Flop
+40ce6053-f33b-43e2-abb6-a442ffae8668,The Shawshank Redemption,Sci-Fi,2017,Hindi,Canada,148,32.76,373.76,8.6,1715161,Disney+,Christopher Nolan,Yash,14,8,341.0,1040.903540903541,Hit
+021ef7db-b259-4908-891f-4d26ca8e0c7b,Fight Club,Fantasy,1999,English,Canada,184,30.04,646.0,8.6,2803359,Hulu,Christopher Nolan,Rajinikanth,32,26,615.96,2050.4660452729695,Hit
+1900d4ff-5df8-4eda-80c9-6c825f2f09e2,Pulp Fiction,Sci-Fi,1991,Telugu,Canada,96,199.42,2135.18,9.4,985273,Hulu,James Cameron,Tom Cruise,51,34,1935.7599999999998,970.6950155450807,Hit
+15fd6686-1097-47b5-ae9c-97fe3b0a0feb,Interstellar,Action,1972,Hindi,Canada,99,86.3,2307.68,9.5,500152,HBO Max,Anurag Kashyap,Robert Downey Jr.,85,53,2221.3799999999997,2574.0208574739277,Hit
+dd7ce55e-7c9b-43bb-afab-bc4f61df271f,Titanic,Romance,1994,Tamil,UK,106,31.59,1805.9,8.1,3154405,HBO Max,Rajamouli,Rajinikanth,34,31,1774.3100000000002,5616.682494460273,Hit
+700041b6-2b0b-464a-a77c-42aef352bdab,3 Idiots,Fantasy,1978,English,Canada,83,131.89,1839.67,6.3,3357139,Amazon Prime,James Cameron,Robert Downey Jr.,74,47,1707.7800000000002,1294.8517704147398,Average
+0e6cf8d5-96e4-43ee-8a7c-c680fbfcb613,Interstellar,Adventure,1982,Telugu,UK,112,65.68,1268.54,6.4,3132561,Disney+,Anurag Kashyap,Shah Rukh Khan,76,43,1202.86,1831.3946406820946,Average
+1166edf6-4595-4ecd-9d51-6c49cfe8352f,3 Idiots,Thriller,1980,Tamil,USA,174,204.94,1911.48,6.7,676856,Hulu,Christopher Nolan,Tom Cruise,27,45,1706.54,832.7022543183372,Average
+f6cb75c6-7a97-4f1f-abc3-de49d47417d1,The Godfather,Drama,2011,Telugu,Canada,103,40.63,751.81,8.4,1868814,Netflix,Steven Spielberg,Shah Rukh Khan,21,14,711.18,1750.381491508737,Hit
+988d41c3-36c6-4233-86bd-c1ae4b4df1f6,The Lion King,Action,2011,Telugu,USA,189,137.19,1371.34,9.2,1746763,Amazon Prime,Anurag Kashyap,Tom Cruise,27,14,1234.1499999999999,899.5918069830161,Hit
+a502c072-4682-4bb7-b509-e3904bfe7d99,Barbie,Comedy,1976,Tamil,USA,146,80.75,300.18,7.3,1272063,Netflix,Steven Spielberg,Rajinikanth,58,49,219.43,271.7399380804954,Average
+afc0e96b-299b-40f2-856d-68a109d221a0,Gladiator,Sci-Fi,1985,English,India,132,207.6,2315.72,9.7,1048238,Netflix,Christopher Nolan,Robert Downey Jr.,16,40,2108.12,1015.4720616570327,Hit
+61f60932-ad17-41d1-9378-c20a078daee6,Baahubali: The Conclusion,Drama,1987,Telugu,India,80,224.52,2323.91,7.9,553240,Netflix,Anurag Kashyap,Robert Downey Jr.,79,38,2099.39,935.057010511313,Average
+0427c2ce-db01-44f3-89b4-b46a510b4dbf,Interstellar,Adventure,2006,Tamil,India,99,92.52,1841.65,5.0,463314,Hulu,Steven Spielberg,Tom Cruise,36,19,1749.13,1890.5425853869435,Flop
+eaa310b2-474c-44ad-aaea-b70cd1546c40,Oppenheimer,Comedy,1992,Hindi,USA,149,196.97,1183.61,8.9,2060476,Hulu,Rajamouli,Rajinikanth,66,33,986.6399999999999,500.9087678326648,Hit
+a8f496f9-53ef-44ee-af97-077991deccde,The Godfather,Sci-Fi,1992,Hindi,USA,175,162.3,2484.86,5.3,688744,Netflix,James Cameron,Rajinikanth,52,33,2322.56,1431.0289587184225,Flop
+1cd29975-c91b-43e5-b0f4-9b3d020c4de0,The Dark Knight,Romance,1970,Tamil,Canada,99,70.05,34.66,6.9,157645,Amazon Prime,Christopher Nolan,Yash,100,55,-35.39,-50.521056388294085,Average
+637be635-a501-4602-94a6-e458fa85816c,Joker,Thriller,2000,Tamil,Canada,175,163.66,46.95,8.5,11749,Hulu,Mani Ratnam,Rajinikanth,14,25,-116.71,-71.31247708664303,Hit
+8f6064da-7d04-4c74-9a3b-7a983884ec3d,Pulp Fiction,Drama,2022,Telugu,UK,180,160.19,2264.09,5.3,2743887,HBO Max,James Cameron,Prabhas,64,3,2103.9,1313.3778637867533,Flop
+b475dc18-8a40-4ad0-a953-ce7fc441d125,Interstellar,Action,1991,Hindi,India,154,161.87,2352.61,9.3,4964452,Hulu,Steven Spielberg,Rajinikanth,34,34,2190.7400000000002,1353.3946994501762,Hit
+06c0ba0a-a58e-4745-a166-ae72c65d09ff,Interstellar,Romance,1993,Tamil,India,162,81.79,28.35,5.6,2489764,Netflix,Anurag Kashyap,Prabhas,34,32,-53.440000000000005,-65.33806088763907,Flop
+40b495f6-1c1a-4176-9e84-5c0edb8c6fb1,RRR,Drama,2003,Hindi,UK,88,13.24,2242.89,8.8,72476,HBO Max,Christopher Nolan,Robert Downey Jr.,76,22,2229.65,16840.25679758308,Hit
+7b250b66-cd4f-41b1-b890-be453a8310e6,KGF Chapter 2,Comedy,2017,Tamil,India,157,84.56,39.87,6.7,1299262,Netflix,Steven Spielberg,Tom Cruise,97,8,-44.690000000000005,-52.85004730368969,Average
+11efbe39-c3d4-4e6e-90d6-4a7c8ae9e136,Fight Club,Sci-Fi,1999,Hindi,USA,125,27.35,69.33,8.4,4063744,Amazon Prime,Christopher Nolan,Yash,14,26,41.98,153.49177330895793,Hit
+1010d434-4b1f-4fcc-9a8d-164dacaaf05f,The Batman,Fantasy,1996,English,India,122,188.32,1476.58,5.2,84267,Disney+,Mani Ratnam,Tom Cruise,17,29,1288.26,684.0802888700085,Flop
+47362cb3-1dae-465c-a00b-86d2d2a75d95,Titanic,Comedy,1997,Hindi,Canada,180,140.94,1722.16,6.6,921665,Hulu,Rajamouli,Shah Rukh Khan,52,28,1581.22,1121.9100326380021,Average
+64a1d218-c6b0-4e80-8d4a-534ed72a33dc,Barbie,Drama,2008,Hindi,Canada,159,283.42,246.36,8.1,4761945,HBO Max,James Cameron,Robert Downey Jr.,43,17,-37.06,-13.0760002822666,Hit
+ec161d28-1489-4243-bcd7-1e34513af16d,Interstellar,Drama,1989,Hindi,India,152,293.3,15.84,8.0,1397225,Netflix,Steven Spielberg,Leonardo DiCaprio,75,36,-277.46000000000004,-94.59938629389704,Hit
+4924807c-1c30-4fe9-a6b7-024db7914ca2,Pulp Fiction,Fantasy,2014,Telugu,UK,160,147.31,2336.43,6.0,3077037,HBO Max,Rajamouli,Yash,45,11,2189.12,1486.0634037064692,Average
+7b749608-6795-4f53-8811-182949a7747e,Oppenheimer,Drama,2019,Telugu,USA,176,104.84,1025.1,9.0,2827045,Disney+,Rajamouli,Rajinikanth,97,6,920.2599999999999,877.7756581457459,Hit
+a5c1c9ae-fc94-494a-8a53-db78df998a69,Titanic,Comedy,1976,Hindi,UK,115,274.92,1392.14,5.0,842695,HBO Max,Mani Ratnam,Yash,83,49,1117.22,406.3800378291867,Flop
+0a14871a-da3d-45e5-9c83-bab7dfcfedf9,Interstellar,Adventure,1999,Hindi,Canada,174,174.61,1674.35,7.3,4033646,Netflix,Christopher Nolan,Prabhas,36,26,1499.7399999999998,858.9084244888606,Average
+4fbc4e37-99b7-4e3f-b296-fdbea0c82e80,Avatar,Horror,2017,Telugu,India,145,220.07,2229.87,5.9,3440052,Disney+,James Cameron,Shah Rukh Khan,70,8,2009.8,913.254873449357,Flop
+106fa578-e307-4cb1-b7b2-364b6210baf2,The Avengers,Thriller,2000,Telugu,UK,106,291.07,991.59,8.3,2366594,Netflix,James Cameron,Leonardo DiCaprio,86,25,700.52,240.67062905830215,Hit
+29bc47c5-8609-4cc6-8d62-c6a39644eaee,Barbie,Action,1998,Tamil,Canada,127,197.08,1363.26,7.5,3854055,Hulu,Christopher Nolan,Yash,41,27,1166.18,591.7292470062919,Average
+d128fe34-e903-4829-94f1-d2be50f05967,Barbie,Sci-Fi,1994,Hindi,Canada,184,36.25,85.06,5.4,4384807,Disney+,Christopher Nolan,Leonardo DiCaprio,32,31,48.81,134.64827586206897,Flop
+b4927eaa-49d0-493c-8459-11ed47ca9143,Avengers: Endgame,Sci-Fi,1983,English,Canada,80,258.81,6.02,5.4,4482105,Netflix,Anurag Kashyap,Leonardo DiCaprio,48,42,-252.79,-97.6739693211236,Flop
+7b850e89-5b24-47a3-b537-5a2703b81d3c,The Avengers,Horror,1979,Hindi,UK,86,114.51,1797.16,5.8,3557067,Hulu,Christopher Nolan,Rajinikanth,43,46,1682.65,1469.4349838442058,Flop
+cd8b0b9b-7062-4b79-adda-0847e51fc5e6,The Lion King,Drama,1998,Hindi,India,118,183.94,2294.67,7.7,3752096,Disney+,James Cameron,Shah Rukh Khan,29,27,2110.73,1147.5100576274872,Average
+ba661d2a-9bcc-4d4e-890c-c5e1ad9d5376,Oppenheimer,Horror,1996,Hindi,Canada,130,177.84,1374.57,5.2,4737696,Hulu,Christopher Nolan,Tom Cruise,17,29,1196.73,672.9251012145749,Flop
+1bc30b00-928a-4c05-89f4-8803c3c140f9,Interstellar,Thriller,1976,Hindi,Canada,180,252.92,52.17,5.9,3259513,Amazon Prime,Anurag Kashyap,Robert Downey Jr.,66,49,-200.75,-79.3729242448205,Flop
+0000be7f-e284-4e2e-b53c-23a88dcddf90,Baahubali: The Conclusion,Fantasy,1981,Hindi,UK,169,92.99,1941.62,9.0,2633002,Netflix,James Cameron,Yash,48,44,1848.6299999999999,1987.9879556941607,Hit
+d952a34a-83d2-4f1f-b3db-4ced1b613fe4,Jurassic Park,Sci-Fi,2019,Tamil,USA,109,160.57,2450.62,6.4,2296351,Disney+,Steven Spielberg,Prabhas,97,6,2290.0499999999997,1426.2004110356852,Average
+1c24f873-20f5-4743-9efa-c15cb5edbf34,Fight Club,Action,2019,Tamil,USA,96,61.15,802.12,5.3,542516,Disney+,James Cameron,Shah Rukh Khan,53,6,740.97,1211.7252657399836,Flop
+92c3f5b2-eefe-4339-9ade-38a508be9d23,The Avengers,Comedy,1989,English,India,105,103.48,809.28,6.0,3780096,Disney+,Mani Ratnam,Tom Cruise,32,36,705.8,682.06416698879,Average
+13ee8575-8763-42d8-8980-72a0edb37337,Dangal,Romance,1986,Tamil,India,91,20.65,2079.71,7.8,2315770,HBO Max,James Cameron,Rajinikanth,50,39,2059.06,9971.234866828088,Average
+71f835cb-4645-455c-8952-634ec3138ef9,Avatar,Drama,1995,Hindi,India,129,229.28,76.8,8.2,4783389,HBO Max,Rajamouli,Prabhas,83,30,-152.48000000000002,-66.50383810188417,Hit
+5115cd5e-7f73-43e5-8608-7397ef23f558,The Avengers,Action,1989,English,UK,123,188.54,2242.31,7.8,1335988,Hulu,Anurag Kashyap,Prabhas,92,36,2053.77,1089.3020048796013,Average
+09a3ba90-d905-498b-8ed0-38618600931d,Baahubali: The Conclusion,Drama,1977,English,Canada,101,11.91,2206.26,7.6,2485074,Hulu,Mani Ratnam,Yash,11,48,2194.3500000000004,18424.43324937028,Average
+1c54f658-7bf9-4450-a63d-6ff5a9cdfd8c,RRR,Horror,2023,Hindi,UK,182,86.18,314.97,7.0,860205,Hulu,Mani Ratnam,Yash,42,2,228.79000000000002,265.47922951961016,Average
+468eb96e-44e1-4368-aa51-1893a86e4eef,KGF Chapter 2,Fantasy,1981,English,Canada,144,84.47,2338.66,6.7,4071293,Disney+,James Cameron,Prabhas,22,44,2254.19,2668.627915236179,Average
+2f952ec8-0cdf-4bdf-afb8-56b407aa6d38,The Dark Knight,Sci-Fi,1977,Telugu,Canada,171,167.64,576.43,6.2,2221210,Netflix,Christopher Nolan,Tom Cruise,90,48,408.78999999999996,243.84991648771174,Average
+a9e0a4bc-168b-4d8a-8ff2-efaf96f9dfc1,Baahubali: The Beginning,Horror,2015,English,Canada,174,296.55,335.47,9.1,3005535,Disney+,Anurag Kashyap,Yash,56,10,38.920000000000016,13.124262350362507,Hit
+9f38f34d-6273-4d27-974c-793d15215412,Gladiator,Sci-Fi,1970,Telugu,India,170,111.97,568.29,9.6,991060,Disney+,James Cameron,Rajinikanth,11,55,456.31999999999994,407.5377333214253,Hit
+0e87e1fa-ef64-4645-942d-a06077c4644e,Fight Club,Adventure,1975,Hindi,India,134,265.58,1128.93,7.3,3937486,Amazon Prime,Anurag Kashyap,Leonardo DiCaprio,90,50,863.3500000000001,325.08095489118165,Average
+b5d7a065-15bd-4bce-9298-6f278bea0c1e,Pulp Fiction,Thriller,1996,English,Canada,176,145.24,343.86,8.9,2925592,Netflix,Rajamouli,Shah Rukh Khan,48,29,198.62,136.75296061690995,Hit
+e9de4db4-9d43-4c90-8968-8a2e39ca55e9,Avengers: Endgame,Horror,2016,Telugu,Canada,185,75.23,2450.02,9.7,290030,Netflix,Mani Ratnam,Yash,15,9,2374.79,3156.706101289379,Hit
+e48c7afd-ff2b-45d9-bd88-6d838bee9c3c,The Dark Knight,Thriller,1974,Hindi,Canada,112,244.5,1029.65,9.5,2416922,HBO Max,Rajamouli,Prabhas,83,51,785.1500000000001,321.12474437627816,Hit
+8792790d-e541-472d-9269-4f7cbe0c46e7,Baahubali: The Conclusion,Fantasy,1973,Hindi,India,114,245.97,579.67,5.6,3502447,Netflix,James Cameron,Tom Cruise,63,52,333.69999999999993,135.66695125421796,Flop
+395a396e-bf86-4a01-8a2e-a63e38a65a4b,The Matrix,Adventure,2022,Telugu,USA,134,244.15,2392.58,6.9,3824349,Netflix,Anurag Kashyap,Shah Rukh Khan,91,3,2148.43,879.9631374155231,Average
+642a1445-c7a3-4a10-8387-cae51e12c114,Interstellar,Adventure,2015,Telugu,Canada,185,77.58,250.44,6.2,1245294,Hulu,Mani Ratnam,Prabhas,60,10,172.86,222.81515854601705,Average
+7efa9594-f011-4ecf-905a-e10efaee1a1f,Oppenheimer,Adventure,2006,Telugu,India,158,159.44,1316.72,9.1,3879160,Netflix,Christopher Nolan,Yash,43,19,1157.28,725.8404415454089,Hit
+1babe4ab-8dc1-4f32-aaca-22b28936eeaf,The Avengers,Romance,2018,Telugu,UK,177,35.07,1381.27,7.8,4265798,HBO Max,Anurag Kashyap,Tom Cruise,71,7,1346.2,3838.608497291132,Average
+70543c22-9394-4367-a6a1-00b47be12f03,The Dark Knight,Drama,2008,Telugu,India,99,106.71,1567.64,6.1,4317594,Netflix,Mani Ratnam,Shah Rukh Khan,69,17,1460.93,1369.0656920625997,Average
+ed5dff5f-5c61-4f2b-8bda-514cdd333f20,Forrest Gump,Horror,2016,English,USA,139,260.93,1096.84,6.9,859591,Disney+,Mani Ratnam,Prabhas,39,9,835.9099999999999,320.3579504081554,Average
+0a86feca-dc14-4326-b9a2-8e9b2890e5e1,Avatar,Adventure,1995,Tamil,UK,132,95.88,244.81,8.0,586647,Amazon Prime,Christopher Nolan,Rajinikanth,68,30,148.93,155.32957863996663,Hit
+0be4385c-5f6b-40e4-881a-3ee490aaf470,Pulp Fiction,Horror,1983,Tamil,UK,166,272.99,2164.46,5.0,2714684,Hulu,Rajamouli,Rajinikanth,10,42,1891.47,692.8715337558152,Flop
+89c95467-f3c3-4453-b16d-5287920c44b9,Forrest Gump,Horror,1973,Hindi,UK,121,267.98,551.14,9.4,3276688,Disney+,James Cameron,Tom Cruise,59,52,283.15999999999997,105.6646018359579,Hit
+ae4cb089-a592-4e5c-8373-7197f43716e9,Barbie,Adventure,2012,Telugu,USA,162,179.61,100.7,5.2,2938818,Hulu,Steven Spielberg,Leonardo DiCaprio,22,13,-78.91000000000001,-43.934079394243085,Flop
+6f9f9773-ccb5-4be4-93a6-64bf83ab8008,Oppenheimer,Sci-Fi,2003,Tamil,India,184,184.51,706.87,7.5,3896329,Netflix,Rajamouli,Tom Cruise,20,22,522.36,283.1066066879844,Average
+4ea373b1-de9c-422e-8d84-fe1e2d078538,Baahubali: The Conclusion,Romance,1978,Hindi,India,133,261.06,1056.78,7.4,4811493,HBO Max,Christopher Nolan,Shah Rukh Khan,32,47,795.72,304.8034934497817,Average
+665acaad-126a-42ec-8c6d-c6f669fbc2ff,The Avengers,Horror,2013,English,Canada,130,163.09,1023.83,9.6,223634,Netflix,Anurag Kashyap,Tom Cruise,12,12,860.74,527.7699429762707,Hit
+a12deb15-c74c-47ae-a3a1-19c107345201,The Batman,Horror,2023,Tamil,Canada,145,103.33,1684.94,6.9,3892122,Netflix,Anurag Kashyap,Prabhas,66,2,1581.6100000000001,1530.639698054776,Average
+2e89ee14-7793-4a91-95c0-b6e2aa1d263a,KGF Chapter 2,Thriller,1972,Tamil,India,146,250.87,749.43,9.8,3827142,Disney+,James Cameron,Rajinikanth,86,53,498.55999999999995,198.7324112089927,Hit
+e9f12fc6-e23b-434e-8f44-63c5e671fbd9,The Matrix,Adventure,2003,Telugu,India,147,228.07,389.02,8.3,3652903,Hulu,Anurag Kashyap,Robert Downey Jr.,47,22,160.95,70.57043890033762,Hit
+f2b50c8e-f258-4ab3-ae19-f33c0b921ddc,The Batman,Sci-Fi,2004,English,Canada,107,221.04,848.31,7.7,3713619,Amazon Prime,Steven Spielberg,Yash,15,21,627.27,283.7812160694897,Average
+f3251210-0349-47e4-8aec-69e9ccd013a9,Avengers: Endgame,Horror,2004,English,USA,112,182.29,1753.43,6.3,4352614,Disney+,Steven Spielberg,Leonardo DiCaprio,24,21,1571.14,861.8903944264634,Average
+2f8cb9f9-3e74-44b5-a7f6-921810e7e9d0,Jurassic Park,Fantasy,2021,Telugu,Canada,173,31.1,2156.1,9.5,4926043,Hulu,Mani Ratnam,Prabhas,69,4,2125.0,6832.797427652733,Hit
+92f56df0-079f-4a50-bf29-5051e1291998,The Godfather,Fantasy,1977,Tamil,India,117,187.35,662.61,6.1,1559365,Hulu,Steven Spielberg,Tom Cruise,84,48,475.26,253.67493995196156,Average
+98346b4b-fd27-4520-b175-9b0f2270815a,KGF Chapter 2,Fantasy,2004,Hindi,UK,103,34.86,2348.55,6.1,3574972,HBO Max,Anurag Kashyap,Tom Cruise,95,21,2313.69,6637.091222030982,Average
+07f62e69-9fc3-40fb-800a-910a80aac1b6,Forrest Gump,Action,2014,English,India,156,27.79,1760.17,5.3,4327648,Hulu,Anurag Kashyap,Leonardo DiCaprio,10,11,1732.38,6233.825116948543,Flop
+4bd5988c-c2b0-4800-b898-11a6a2e65a35,The Shawshank Redemption,Adventure,1974,Hindi,UK,102,102.74,285.08,9.0,1624733,HBO Max,Mani Ratnam,Prabhas,18,51,182.33999999999997,177.47712672766204,Hit
+95beda93-19a6-4fd5-b67d-ff497e38eca1,Fight Club,Romance,2023,Tamil,UK,121,8.77,2400.36,7.3,4646809,Disney+,James Cameron,Yash,65,2,2391.59,27270.125427594074,Average
+2141bedb-ce44-4be0-839d-e5fd496b631a,Inception,Action,1989,Telugu,India,107,51.65,1597.57,8.0,4706363,HBO Max,Christopher Nolan,Tom Cruise,47,36,1545.9199999999998,2993.0687318489836,Hit
+255b8268-d3e6-4fe3-8bee-5fe2fb5cec53,RRR,Action,2002,Telugu,India,83,287.67,1885.71,7.6,1413439,Disney+,James Cameron,Shah Rukh Khan,68,23,1598.04,555.5115236208155,Average
+6b7fe819-f0d0-4b0b-ba06-85337e93e576,Dangal,Comedy,1998,English,Canada,171,267.15,861.71,9.7,2998647,Amazon Prime,Steven Spielberg,Shah Rukh Khan,34,27,594.5600000000001,222.55661613325853,Hit
+bb2e025a-b098-46bf-a16a-a7d9ddc7dca2,Inception,Thriller,1972,Hindi,UK,175,10.2,1363.43,7.1,3410682,Netflix,James Cameron,Rajinikanth,91,53,1353.23,13266.960784313727,Average
+a8f4b782-ed56-4ea2-90d1-647c58817bf8,Avengers: Endgame,Comedy,1980,Tamil,India,184,144.63,281.76,5.1,4907892,Disney+,James Cameron,Yash,20,45,137.13,94.81435386849202,Flop
+43ad29fa-be6f-4c0a-babe-be1a56fe98e1,Titanic,Romance,2006,English,India,86,134.15,1632.08,5.9,4281329,Disney+,Rajamouli,Prabhas,58,19,1497.9299999999998,1116.6082743197912,Flop
+4c6dabb6-0601-4b84-ad63-71a1ed4ffe31,The Shawshank Redemption,Action,2008,English,Canada,183,161.48,629.57,6.6,2585165,HBO Max,Rajamouli,Yash,83,17,468.09000000000003,289.87490710923953,Average
+0c871ebb-db50-4570-827e-ebc3f65a1993,Avatar,Sci-Fi,1986,English,Canada,153,267.37,1558.86,8.2,2002819,Hulu,Anurag Kashyap,Robert Downey Jr.,57,39,1291.4899999999998,483.0347458577999,Hit
+9b980c08-f4dd-4b14-954b-927ed48bd1bf,The Batman,Drama,1990,Hindi,USA,167,103.48,1226.85,7.8,3107429,HBO Max,Rajamouli,Leonardo DiCaprio,41,35,1123.37,1085.5914186316195,Average
+7fa62632-35c7-41ff-9236-3758d600cfb3,The Lion King,Sci-Fi,1985,English,India,143,197.08,154.45,8.3,4395171,Hulu,Anurag Kashyap,Shah Rukh Khan,80,40,-42.630000000000024,-21.63080982342197,Hit
+81713416-7168-4cc4-ae53-e73e275761ec,Pulp Fiction,Romance,2006,Telugu,UK,100,129.2,1555.94,9.7,230055,Disney+,Christopher Nolan,Robert Downey Jr.,36,19,1426.74,1104.2879256965944,Hit
+b7f23918-689d-444d-ba4a-44ec40b7ffab,Fight Club,Romance,2022,Tamil,UK,102,261.89,895.73,7.7,1861810,HBO Max,Rajamouli,Rajinikanth,80,3,633.84,242.02527778838444,Average
+b708934c-5b5b-4a6c-95e8-0412c8f55c59,The Lion King,Comedy,1975,Telugu,UK,132,94.47,2462.59,8.5,2614931,Netflix,Christopher Nolan,Leonardo DiCaprio,65,50,2368.1200000000003,2506.742881337991,Hit
+d1cdf723-58c2-465d-815a-e6d14a02a6ac,Forrest Gump,Adventure,1971,Hindi,Canada,80,235.18,1038.58,9.2,4866911,Hulu,James Cameron,Tom Cruise,31,54,803.3999999999999,341.6106811803724,Hit
+d7739ba6-e727-49d7-acb5-784f8873c013,Fight Club,Sci-Fi,2005,Tamil,India,129,63.1,247.75,6.5,792097,Disney+,Anurag Kashyap,Prabhas,13,20,184.65,292.6307448494453,Average
+ff2c539c-00c4-4432-b80d-3f363313c7f8,Inception,Fantasy,2016,English,India,116,117.98,2137.91,7.6,3691804,Amazon Prime,Christopher Nolan,Yash,15,9,2019.9299999999998,1712.0952703848109,Average
+c0576e14-01ba-40e3-8f41-24c2b9717d0c,Inception,Romance,2012,Tamil,USA,187,63.3,1865.54,7.1,1624218,HBO Max,Mani Ratnam,Robert Downey Jr.,89,13,1802.24,2847.140600315956,Average
+4f64a8d9-9e4b-4960-b07b-6d7bcb22baac,The Avengers,Drama,1990,Hindi,UK,132,227.33,2165.57,8.3,1905260,Netflix,Mani Ratnam,Leonardo DiCaprio,63,35,1938.2400000000002,852.6107420929927,Hit
+f0a6a976-f895-42a4-8a4e-8ce4567139ce,The Shawshank Redemption,Sci-Fi,1976,Telugu,Canada,96,97.51,1385.35,8.7,3834563,Amazon Prime,Christopher Nolan,Robert Downey Jr.,19,49,1287.84,1320.726079376474,Hit
+b7bc5c1f-3d9d-4b72-bd59-872dd3358fde,Baahubali: The Conclusion,Romance,1995,English,Canada,108,114.5,560.13,7.8,785176,Netflix,Rajamouli,Shah Rukh Khan,25,30,445.63,389.1965065502184,Average
+2c34bf3f-cd59-4ca3-81dd-ddfb9711d93a,Interstellar,Horror,2021,English,Canada,189,205.14,2039.51,9.2,575051,Amazon Prime,Rajamouli,Robert Downey Jr.,89,4,1834.37,894.2039582723993,Hit
+552519c8-19c7-4400-ae9d-38516af08a13,Joker,Action,2010,Tamil,USA,122,141.31,2473.9,8.7,2851221,Amazon Prime,James Cameron,Shah Rukh Khan,80,15,2332.59,1650.6899724011041,Hit
+3f145412-2bc1-44b7-9ab0-1d9073bec07e,RRR,Sci-Fi,2006,Tamil,UK,135,116.8,2326.45,6.9,2217182,HBO Max,James Cameron,Leonardo DiCaprio,53,19,2209.6499999999996,1891.823630136986,Average
+85490ac9-e553-48ff-92a1-db425a9cc535,Titanic,Horror,2020,Hindi,Canada,178,62.57,1570.83,9.0,1767136,Disney+,Christopher Nolan,Prabhas,33,5,1508.26,2410.5162218315486,Hit
+72c3851d-f7d7-4ab0-b8a0-6888b7729db2,The Matrix,Fantasy,2001,English,India,188,68.5,1604.34,7.9,3458114,Hulu,Mani Ratnam,Leonardo DiCaprio,46,24,1535.84,2242.1021897810215,Average
+76ed13ad-d85b-40ac-a864-762229e97c8d,Joker,Fantasy,1976,English,Canada,156,234.82,1685.45,8.6,4191380,Disney+,Rajamouli,Yash,36,49,1450.63,617.7625415211653,Hit
+e39e7b8b-bcd4-49be-9025-87fb6b2a5f63,Barbie,Sci-Fi,1997,Tamil,India,143,239.09,1779.59,8.8,4961060,Amazon Prime,Rajamouli,Leonardo DiCaprio,16,28,1540.5,644.3180392320883,Hit
+340e7315-7d41-4d63-bb0a-e8be6ccbafd4,The Matrix,Drama,1975,English,India,98,112.37,1986.84,5.0,4377385,Hulu,Anurag Kashyap,Shah Rukh Khan,46,50,1874.4699999999998,1668.1231645456971,Flop
+6f2de58e-31dd-4f12-96fa-f28723878ba5,Jurassic Park,Comedy,1987,Hindi,Canada,188,16.2,1670.55,5.6,3956099,Netflix,Mani Ratnam,Robert Downey Jr.,33,38,1654.35,10212.037037037036,Flop
+078a900d-0cb0-4e35-8601-7d077bfe0464,The Godfather,Adventure,1993,Telugu,USA,144,285.72,2335.99,7.5,2744438,HBO Max,Christopher Nolan,Yash,56,32,2050.2699999999995,717.5801483970317,Average
+67de8885-8768-4104-8688-40b24bf568bc,Joker,Fantasy,2016,Tamil,India,137,244.36,2476.69,8.2,378417,Netflix,Mani Ratnam,Rajinikanth,39,9,2232.33,913.5414961532165,Hit
+55a43d45-7d71-4254-97a1-71661fa9ff18,Jurassic Park,Drama,2000,Telugu,India,123,203.01,212.01,9.2,1443857,Disney+,James Cameron,Yash,65,25,9.0,4.433279148810404,Hit
+90da77fe-ed3b-4f49-9d8f-5cfeb28514e0,Avatar,Fantasy,2005,English,Canada,136,263.82,259.67,8.6,3038770,Amazon Prime,Anurag Kashyap,Tom Cruise,96,20,-4.149999999999977,-1.5730422257599792,Hit
+925ec478-da91-4654-b45e-0d28e5898d03,The Batman,Adventure,2012,Tamil,Canada,137,241.64,1952.88,6.7,665385,Netflix,James Cameron,Tom Cruise,89,13,1711.2400000000002,708.1774540638969,Average
+aeb36723-c1d4-473c-834a-0d6005f47042,Barbie,Horror,1977,Telugu,Canada,127,168.87,481.23,5.3,4935019,HBO Max,Anurag Kashyap,Tom Cruise,13,48,312.36,184.97068751110322,Flop
+9927c291-d366-4f76-b921-2df42782b2a3,The Godfather,Comedy,1979,Telugu,Canada,159,78.66,169.68,7.9,2428776,HBO Max,Steven Spielberg,Shah Rukh Khan,40,46,91.02000000000001,115.71319603356218,Average
+2e8832f3-bfde-48fb-a317-ede37ea8e0ff,Oppenheimer,Action,2008,Telugu,UK,136,129.22,1200.29,8.0,830232,Hulu,Christopher Nolan,Shah Rukh Khan,78,17,1071.07,828.8732394366197,Hit
+0e0f6675-29ae-41cf-8266-8a746c6fb60e,KGF Chapter 2,Comedy,2016,English,USA,107,263.41,534.51,7.6,3083298,HBO Max,Steven Spielberg,Leonardo DiCaprio,49,9,271.09999999999997,102.91940321172315,Average
+182aa7ed-442f-453c-b42d-a0181eda2b29,Fight Club,Fantasy,2009,Telugu,Canada,175,124.3,950.07,5.6,2999106,HBO Max,James Cameron,Shah Rukh Khan,34,16,825.7700000000001,664.3362831858408,Flop
+5da75964-9e4f-4c03-a633-552a99b50531,The Batman,Horror,2010,Telugu,USA,160,218.28,577.18,5.2,4858486,Disney+,Rajamouli,Rajinikanth,51,15,358.9,164.42184350375663,Flop
+0557de7f-897f-4d5a-994c-dfcb389d03ce,Barbie,Romance,2020,Telugu,UK,94,32.09,312.18,6.0,646670,Hulu,Anurag Kashyap,Robert Downey Jr.,85,5,280.09000000000003,872.8264256777812,Average
+6aa0ae02-0264-4229-8efb-bda5b37f533b,Oppenheimer,Fantasy,1991,Telugu,UK,121,37.91,1614.92,8.6,3571119,Hulu,Christopher Nolan,Robert Downey Jr.,73,34,1577.01,4159.878659984173,Hit
+71f48ba6-e7bd-4e63-bf85-956e652f7955,Barbie,Sci-Fi,2000,Telugu,India,138,71.68,2450.64,7.9,1195469,HBO Max,Christopher Nolan,Robert Downey Jr.,98,25,2378.96,3318.861607142857,Average
+8a89f65c-a39b-431b-a74d-4b5560f90d1a,The Dark Knight,Thriller,1986,Telugu,USA,106,235.39,1964.13,6.7,3793374,Disney+,Mani Ratnam,Robert Downey Jr.,18,39,1728.7400000000002,734.4152257954885,Average
+c03a6661-08d3-4aa7-98b1-b2b8bd239405,Titanic,Sci-Fi,1987,Telugu,India,111,278.53,2201.44,7.3,587679,Amazon Prime,Christopher Nolan,Shah Rukh Khan,51,38,1922.91,690.3780562237462,Average
+9ad0c910-4b23-4380-89e6-608696a10f01,The Matrix,Drama,1994,English,UK,162,73.68,1098.1,5.1,354405,Disney+,Anurag Kashyap,Robert Downey Jr.,67,31,1024.4199999999998,1390.363735070575,Flop
+c6c8dd00-77bb-4339-a8e2-f7b38ea48cb2,Avatar,Romance,1993,Telugu,USA,109,101.89,1961.75,6.1,2601727,HBO Max,Rajamouli,Tom Cruise,66,32,1859.86,1825.3606830896065,Average
+660d900d-0796-44f2-a56b-3b952600e79e,RRR,Drama,1980,Tamil,India,95,79.23,1883.97,6.8,1808148,Hulu,Steven Spielberg,Prabhas,93,45,1804.74,2277.849299507762,Average
+1e590619-e0dd-4ae9-ae5a-4a92b06426e4,Avatar,Horror,1995,Telugu,USA,167,192.58,2298.16,6.4,139384,Disney+,Steven Spielberg,Tom Cruise,86,30,2105.58,1093.353411569218,Average
+9f7c94ec-6d0f-46fa-b438-c1be6e503e50,Gladiator,Thriller,2013,Hindi,Canada,125,79.06,186.02,9.3,4140147,Netflix,Rajamouli,Robert Downey Jr.,85,12,106.96000000000001,135.28965342777636,Hit
+6db004c5-ef2f-4b97-aa89-07a812854678,Forrest Gump,Fantasy,2004,Hindi,Canada,134,263.86,241.29,6.9,3732301,Netflix,James Cameron,Yash,18,21,-22.57000000000002,-8.553778518911551,Average
+a057a67a-c283-460e-a95f-31049e4aacac,Dangal,Adventure,2008,Telugu,Canada,91,207.2,2134.45,8.6,4210573,Amazon Prime,Christopher Nolan,Leonardo DiCaprio,91,17,1927.2499999999998,930.1399613899614,Hit
+d2c1cefa-5bce-4f7b-bc93-4712ccccd0ea,Avatar,Horror,1998,English,UK,167,262.56,2494.64,9.2,2007229,HBO Max,Rajamouli,Robert Downey Jr.,36,27,2232.08,850.1218769043267,Hit
+777c325b-8526-44eb-a17c-a803fcda0295,Avatar,Thriller,2000,Tamil,India,86,107.85,2410.31,8.2,3623336,Amazon Prime,Christopher Nolan,Tom Cruise,23,25,2302.46,2134.87250811312,Hit
+10008f0d-fae8-4f1e-98c5-411c913cf827,Baahubali: The Beginning,Drama,2013,English,Canada,134,82.95,2320.53,9.1,891354,Netflix,Rajamouli,Yash,91,12,2237.5800000000004,2697.5045207956605,Hit
+c05c81bd-5b01-400d-ae27-601225aebf33,The Lion King,Comedy,2013,English,USA,87,48.05,2233.69,7.3,2460647,Amazon Prime,James Cameron,Robert Downey Jr.,10,12,2185.64,4548.678459937565,Average
+31d18514-a3cd-42e6-9d9f-79090f30edef,3 Idiots,Adventure,1999,Tamil,India,165,221.65,126.0,8.7,4283419,Hulu,Steven Spielberg,Robert Downey Jr.,14,26,-95.65,-43.15362057297541,Hit
+fa82cba3-dbfe-48ba-be71-eaff117b09a2,Baahubali: The Beginning,Adventure,2021,Telugu,UK,90,244.69,958.95,5.7,3351677,HBO Max,Christopher Nolan,Rajinikanth,69,4,714.26,291.90404184887,Flop
+8a706297-f87f-460b-93c4-d7cee83bd90a,The Shawshank Redemption,Sci-Fi,1998,Hindi,USA,170,91.6,2268.54,8.2,1520390,Hulu,Steven Spielberg,Robert Downey Jr.,33,27,2176.94,2376.572052401747,Hit
+d01caafd-0be9-4bff-910b-2433017e44e1,Baahubali: The Conclusion,Sci-Fi,1982,Hindi,Canada,158,270.25,2361.61,7.7,2790186,Hulu,James Cameron,Tom Cruise,46,43,2091.36,773.8612395929695,Average
+57364551-7318-44c1-83ec-a45021741819,Barbie,Thriller,1989,English,UK,149,132.0,2132.31,7.7,3236609,Netflix,Steven Spielberg,Robert Downey Jr.,62,36,2000.31,1515.3863636363637,Average
+8daca0b0-0973-4591-9e4e-d287dbdb378e,Jurassic Park,Sci-Fi,2010,Telugu,UK,93,4.01,1303.37,5.9,931001,Amazon Prime,Christopher Nolan,Prabhas,49,15,1299.36,32402.992518703242,Flop
+516cf6a4-c4c9-41c1-9f4a-6d77aa399b2e,The Matrix,Horror,2008,Tamil,India,146,158.18,1391.76,5.2,3646213,Amazon Prime,Christopher Nolan,Tom Cruise,76,17,1233.58,779.858389176887,Flop
+6f7d321a-cb44-4950-81ed-65bf8c594cf1,Dangal,Comedy,1996,Hindi,UK,104,257.31,79.57,9.8,148862,Netflix,Anurag Kashyap,Leonardo DiCaprio,45,29,-177.74,-69.07621157358828,Hit
+4af0ead9-7ee9-4b1a-b921-f97c8ba45689,The Dark Knight,Adventure,2022,Hindi,UK,189,175.66,1825.55,6.8,4389859,HBO Max,Anurag Kashyap,Prabhas,20,3,1649.8899999999999,939.2519640214049,Average
+14d9acbd-a156-4afd-a323-42705ec31def,Inception,Comedy,2003,Telugu,India,186,137.43,670.5,5.3,1378023,Disney+,Anurag Kashyap,Tom Cruise,35,22,533.0699999999999,387.88474132285523,Flop
+519e9215-6f0a-4dbe-8463-12cc9e847ff1,3 Idiots,Action,2016,English,USA,167,293.64,867.18,6.8,2561210,Amazon Prime,James Cameron,Tom Cruise,17,9,573.54,195.3208009807928,Average
+763069a8-cd0b-4fc9-a488-174d2ec81665,The Dark Knight,Adventure,1982,Tamil,Canada,138,209.89,1280.33,9.0,3402178,HBO Max,Steven Spielberg,Yash,77,43,1070.44,510.0004764400401,Hit
+e7fc769b-0599-4239-a1ad-a41a018b3aac,Avengers: Endgame,Fantasy,2000,English,India,146,195.85,2074.65,6.5,2202865,HBO Max,Mani Ratnam,Prabhas,23,25,1878.8000000000002,959.305591013531,Average
+f015dc5e-b314-4631-b770-6db051f81685,Baahubali: The Beginning,Sci-Fi,1985,Tamil,USA,165,80.61,1127.62,7.2,2710753,HBO Max,Steven Spielberg,Prabhas,46,40,1047.01,1298.858702394244,Average
+cdd80545-3ec9-4c67-9caf-7a9633274dd9,The Shawshank Redemption,Romance,1996,Hindi,Canada,186,125.73,847.76,9.2,918100,Netflix,James Cameron,Leonardo DiCaprio,100,29,722.03,574.2702616718365,Hit
+476b5465-c6c8-42ed-bbf8-51d0bbdf9e56,The Lion King,Romance,2023,Tamil,India,118,134.18,2328.36,6.9,282080,Netflix,Anurag Kashyap,Rajinikanth,61,2,2194.1800000000003,1635.2511551647044,Average
+60818269-0d8c-45e2-abac-f71635e4158b,3 Idiots,Horror,1972,Tamil,India,165,92.99,1841.93,6.9,2320481,Disney+,Steven Spielberg,Prabhas,69,53,1748.94,1880.7828798795572,Average
+40446de8-97be-4a48-833d-310d102755ff,Baahubali: The Conclusion,Fantasy,2017,Telugu,UK,81,201.96,122.96,8.9,2041587,Hulu,Mani Ratnam,Yash,44,8,-79.00000000000001,-39.11665676371559,Hit
+bdc27eb3-280a-4c10-a7c2-10e7c2ee7525,Avengers: Endgame,Horror,2015,Hindi,USA,153,151.09,2071.21,9.1,2786682,Hulu,James Cameron,Tom Cruise,61,10,1920.1200000000001,1270.845191607651,Hit
+60ff492f-c8b0-4a64-aff5-2e90ff7ab793,RRR,Comedy,2006,Telugu,India,175,201.74,208.22,6.8,300262,HBO Max,James Cameron,Robert Downey Jr.,97,19,6.47999999999999,3.212055120452062,Average
+873327b3-a436-4023-b119-287fc3cb53d0,Pulp Fiction,Romance,1991,Hindi,USA,142,226.42,2406.33,7.6,1457355,Disney+,Rajamouli,Tom Cruise,58,34,2179.91,962.7727232576626,Average
+11b5975c-6847-46dd-b9de-bd407f2dc7e3,Joker,Action,2013,Tamil,USA,111,92.37,1263.29,5.9,2960685,Amazon Prime,Mani Ratnam,Tom Cruise,41,12,1170.92,1267.6410089856015,Flop
+af37ec30-ddfd-4f66-9ecc-d5efe5ab8264,The Matrix,Horror,1997,Telugu,Canada,85,4.61,623.46,8.0,1518586,Hulu,Anurag Kashyap,Yash,20,28,618.85,13424.07809110629,Hit
+5e9cd0fe-4ee7-467a-a96c-6ce4610251aa,Forrest Gump,Horror,2010,English,UK,125,132.87,172.66,7.2,2131767,Amazon Prime,Christopher Nolan,Yash,39,15,39.78999999999999,29.94656431098065,Average
+c6883514-925b-4df0-aa1a-fb9a967dcd4b,Interstellar,Sci-Fi,1998,Hindi,UK,128,263.92,617.5,6.3,1723859,HBO Max,Mani Ratnam,Shah Rukh Khan,20,27,353.58,133.97241588360106,Average
+d97850e6-b1f6-44a9-a1e4-aecebe5d6850,Gladiator,Drama,2001,Telugu,India,105,256.55,912.93,8.0,4574181,HBO Max,Mani Ratnam,Yash,75,24,656.3799999999999,255.8487624244786,Hit
+4342903f-d988-4aad-a793-4665ec911025,Baahubali: The Beginning,Horror,2013,Telugu,Canada,127,187.71,2146.67,6.4,2430742,HBO Max,Rajamouli,Prabhas,74,12,1958.96,1043.6098236641628,Average
+af793fa2-093c-4c0e-859b-9874933dff9e,Dangal,Action,1975,Telugu,USA,175,153.7,516.96,7.7,4280295,Hulu,Anurag Kashyap,Robert Downey Jr.,19,50,363.26000000000005,236.3435263500326,Average
+827ed86c-40bd-4289-b1f6-0536f1f9783e,The Dark Knight,Comedy,1984,English,UK,167,272.65,2448.18,6.1,4261635,Disney+,James Cameron,Rajinikanth,71,41,2175.5299999999997,797.9204107830552,Average
+9c9bba5f-9dc1-4914-a0d5-d74c85c6bab7,The Lion King,Sci-Fi,1993,Telugu,Canada,128,45.64,2095.24,6.7,3126088,Hulu,Steven Spielberg,Yash,75,32,2049.6,4490.79754601227,Average
+c323b99e-250f-44b1-ac9f-f3cf4fdd6d18,Forrest Gump,Comedy,1999,English,USA,168,225.85,1920.82,9.2,807904,Hulu,Anurag Kashyap,Yash,45,26,1694.97,750.4848350675228,Hit
+981edbc0-516d-4c60-8d30-c7c1cd115520,KGF Chapter 2,Comedy,1985,English,UK,149,38.26,1510.65,7.6,3790431,Amazon Prime,Rajamouli,Leonardo DiCaprio,57,40,1472.39,3848.3795086251966,Average
+dbbce78a-bdba-419d-81a7-1001d2f3a7e0,The Avengers,Drama,1990,Hindi,UK,88,155.79,864.46,6.6,885599,Disney+,Rajamouli,Tom Cruise,78,35,708.6700000000001,454.88799024327625,Average
+c3e7ec24-f223-4615-af58-dc479d409ffe,Titanic,Sci-Fi,1980,Tamil,India,108,253.53,2449.25,5.1,279175,HBO Max,Anurag Kashyap,Yash,34,45,2195.72,866.0592434820336,Flop
+a34a4688-f73c-4c71-840d-41b3db47dd88,3 Idiots,Drama,1972,Tamil,India,126,180.39,2001.67,5.7,4281076,HBO Max,Anurag Kashyap,Shah Rukh Khan,15,53,1821.2800000000002,1009.6346804146574,Flop
+5260e5f9-7fa5-4a3d-9e88-d9d8d4c45339,The Batman,Action,1983,English,USA,95,103.31,607.4,5.5,1190435,HBO Max,Mani Ratnam,Shah Rukh Khan,33,42,504.09,487.9392120801471,Flop
+dcdbb443-232d-43d6-b370-02bb878c6533,KGF Chapter 2,Drama,1990,Telugu,USA,158,202.05,1264.66,9.1,3605415,HBO Max,Christopher Nolan,Yash,31,35,1062.6100000000001,525.9143776292997,Hit
+8359db18-650a-4f81-b2b2-73139b5fd6f9,Avatar,Adventure,2000,Hindi,UK,189,148.52,1280.57,5.4,925369,Amazon Prime,Rajamouli,Tom Cruise,14,25,1132.05,762.220576353353,Flop
+72cb84a5-7d42-499b-9bd0-eadc02b839f5,Joker,Comedy,2002,Telugu,UK,113,192.09,1823.01,7.6,2569527,Netflix,James Cameron,Prabhas,57,23,1630.92,849.0395127284085,Average
+bfc88cd6-9cc9-4747-95ec-f394ee1f7e1c,Baahubali: The Conclusion,Comedy,2001,Tamil,UK,167,116.93,2094.36,7.3,2078737,Amazon Prime,Rajamouli,Prabhas,56,24,1977.43,1691.1228940391688,Average
+3a2bd84a-eca3-4154-aba0-a360fe578928,The Dark Knight,Fantasy,1992,English,USA,101,240.01,2394.99,6.3,372630,HBO Max,Christopher Nolan,Leonardo DiCaprio,52,33,2154.9799999999996,897.8709220449148,Average
+493c9c84-0664-422a-97be-3d02c5b19bbb,The Matrix,Sci-Fi,1990,Hindi,India,179,92.33,618.24,5.2,4047867,Netflix,Steven Spielberg,Yash,63,35,525.91,569.598180439727,Flop
+8b4c4667-7a23-4110-bc47-3355e3779aff,Inception,Horror,1972,English,India,164,34.7,1361.51,7.0,1360199,Hulu,Steven Spielberg,Shah Rukh Khan,66,53,1326.81,3823.659942363112,Average
+151d6c58-6532-4a9b-8c17-7105fabf74f9,Titanic,Adventure,1999,Tamil,UK,188,109.95,359.87,9.7,2982326,HBO Max,Christopher Nolan,Leonardo DiCaprio,77,26,249.92000000000002,227.30331969076855,Hit
+27d6de35-08df-4d30-ada6-43e648dde229,Avatar,Sci-Fi,2001,Telugu,India,145,164.09,388.02,5.6,470117,Disney+,James Cameron,Yash,58,24,223.92999999999998,136.46779206533,Flop
+e174226a-a5bc-40b0-93bf-1bf3c0addb0f,Jurassic Park,Action,2017,Hindi,Canada,122,170.28,1345.57,8.8,3380043,Hulu,Rajamouli,Leonardo DiCaprio,11,8,1175.29,690.2102419544279,Hit
+d95adea3-6c70-45a3-8551-bfb6e6f03ecb,Gladiator,Thriller,1981,Hindi,India,187,40.47,882.56,6.0,4022295,Hulu,Christopher Nolan,Robert Downey Jr.,76,44,842.0899999999999,2080.775883370398,Average
+81f2d5f7-82e8-484a-b416-48257bc469e4,Fight Club,Horror,1970,Tamil,USA,82,94.69,1090.65,8.2,3838030,Disney+,Anurag Kashyap,Prabhas,33,55,995.96,1051.811173302355,Hit
+10bca404-6cb1-44d4-abdd-cb9ec0366e23,Barbie,Action,2022,English,UK,93,299.77,2446.01,8.7,2828146,Amazon Prime,Mani Ratnam,Shah Rukh Khan,38,3,2146.2400000000002,715.9622377155821,Hit
+5cb824e4-3138-4d81-bd90-8d482c8f7aa6,KGF Chapter 2,Horror,2003,Hindi,Canada,94,148.19,1434.96,9.5,2948486,Netflix,Mani Ratnam,Yash,52,22,1286.77,868.3244483433431,Hit
+5f9463d5-9761-4a94-828c-3fb086da6b5d,Inception,Adventure,1983,English,Canada,129,67.65,1828.73,9.3,1085972,Netflix,Mani Ratnam,Prabhas,81,42,1761.08,2603.2224685883216,Hit
+f9840cd9-4f33-4a3a-b8c7-6b4462e54b35,Interstellar,Horror,1975,Telugu,India,110,258.51,1940.14,9.6,4063822,Netflix,Rajamouli,Tom Cruise,89,50,1681.63,650.5086843835829,Hit
+bd6d2baa-5372-4c5b-abcd-8777798cbee4,The Godfather,Horror,2020,Telugu,UK,159,126.35,1183.38,8.6,4757657,HBO Max,Anurag Kashyap,Rajinikanth,11,5,1057.0300000000002,836.5888405223589,Hit
+f1960813-2453-41f9-ad47-40f405d88e54,Titanic,Sci-Fi,1995,Hindi,Canada,149,93.73,2401.27,9.3,801228,Amazon Prime,Mani Ratnam,Rajinikanth,95,30,2307.54,2461.901205590526,Hit
+2c7ea0d9-b205-490f-9eea-56e6ebddb208,Pulp Fiction,Comedy,1995,English,UK,190,37.45,1560.08,8.6,2483480,HBO Max,Steven Spielberg,Leonardo DiCaprio,26,30,1522.6299999999999,4065.7676902536705,Hit
+803851e3-9961-4f96-9860-89a685ff5f36,Forrest Gump,Action,1979,Hindi,Canada,174,143.11,1939.83,7.1,198608,HBO Max,Rajamouli,Tom Cruise,60,46,1796.7199999999998,1255.4817972189223,Average
+ed018b3c-a3ea-4677-9331-e483aa10285d,RRR,Comedy,1983,Hindi,USA,174,272.28,181.71,7.1,793383,Disney+,Mani Ratnam,Tom Cruise,71,42,-90.56999999999996,-33.26355222565006,Average
+0ff3b5d6-b9e9-4567-8cbd-349b5ffdb1f6,Interstellar,Sci-Fi,2006,Telugu,Canada,90,125.62,1902.96,5.2,818311,Netflix,Mani Ratnam,Tom Cruise,94,19,1777.3400000000001,1414.854322560102,Flop
+a2cd589d-dacb-40c8-97c8-75cc3dc0df4a,The Lion King,Adventure,1974,Hindi,USA,132,72.37,280.59,6.4,4937332,HBO Max,James Cameron,Yash,85,51,208.21999999999997,287.715904380268,Average
+0a1f9b56-8ef8-4d39-88b9-7e5d40470583,The Godfather,Action,2010,Tamil,India,85,21.31,926.3,8.0,4535682,Netflix,Mani Ratnam,Leonardo DiCaprio,49,15,904.99,4246.785546691694,Hit
+54a79c37-daf6-44f7-b46a-6853ac1b4880,Forrest Gump,Adventure,1990,Hindi,USA,100,129.88,1415.85,5.5,1755955,Disney+,Steven Spielberg,Rajinikanth,88,35,1285.9699999999998,990.1216507545425,Flop
+a0b1b9a7-f428-4dad-9a02-ed0be0024642,Joker,Horror,2007,Telugu,USA,102,138.68,343.62,7.8,4275389,Disney+,Anurag Kashyap,Tom Cruise,56,18,204.94,147.7790597057975,Average
+4e601334-d901-4f47-aca4-19a78818f4a3,3 Idiots,Drama,1977,Tamil,India,139,96.52,405.4,8.0,4963563,Hulu,Rajamouli,Robert Downey Jr.,73,48,308.88,320.01657687525903,Hit
+4f2e7e07-749b-42b0-8ac8-544ed5fa883b,The Godfather,Thriller,1978,Tamil,Canada,150,58.18,1146.46,5.9,1027183,Hulu,Anurag Kashyap,Leonardo DiCaprio,67,47,1088.28,1870.5397043657613,Flop
+576b0c8b-96f3-4d5b-b62e-0609242a6640,Interstellar,Romance,1993,Telugu,India,185,95.08,438.74,9.6,4647393,Disney+,Anurag Kashyap,Leonardo DiCaprio,38,32,343.66,361.4429953723181,Hit
+a8916de5-0db6-408c-b990-4ddc7240e8c5,Gladiator,Thriller,1975,English,Canada,187,274.22,479.62,7.9,2656535,Hulu,Rajamouli,Tom Cruise,98,50,205.39999999999998,74.9033622638757,Average
+ef68018d-f349-4169-a4d6-38502ff57836,Joker,Adventure,1982,Hindi,Canada,136,22.39,702.02,5.9,3214353,HBO Max,Steven Spielberg,Leonardo DiCaprio,84,43,679.63,3035.417597141581,Flop
+7ae479ee-a636-4a2b-bcba-60edfdfbcba3,Joker,Sci-Fi,1971,Telugu,India,166,185.56,1966.83,7.8,4530816,HBO Max,Steven Spielberg,Yash,73,54,1781.27,959.9428756197457,Average
+cccd8a96-afea-4bd5-a360-8558df1b754a,The Dark Knight,Action,1983,Hindi,USA,159,127.72,2149.45,6.4,2885185,Netflix,James Cameron,Tom Cruise,78,42,2021.7299999999998,1582.9392420920763,Average
+f87406c9-d64a-4502-9518-a1e44e3e4aa3,The Batman,Horror,2013,Tamil,USA,123,115.01,1013.39,5.0,643371,HBO Max,Christopher Nolan,Robert Downey Jr.,52,12,898.38,781.132075471698,Flop
+f71257cc-37dd-4345-a020-3e5ce2f5410f,3 Idiots,Thriller,1983,Telugu,India,106,156.32,450.9,6.8,3876582,Hulu,Steven Spielberg,Leonardo DiCaprio,57,42,294.58,188.4467758444217,Average
+ec5bf673-f936-4c70-8897-9d75f5962d9d,Pulp Fiction,Sci-Fi,1998,Telugu,USA,155,184.69,2480.56,9.1,3167105,Amazon Prime,Rajamouli,Robert Downey Jr.,28,27,2295.87,1243.0938329091991,Hit
+d57c8024-3984-463c-a34f-3bcd039e857d,Gladiator,Drama,2010,Hindi,India,123,267.09,726.7,8.1,462758,Amazon Prime,Rajamouli,Robert Downey Jr.,57,15,459.61000000000007,172.0805720918043,Hit
+141a9f6e-029c-4477-ac38-e77aaca88b7a,The Batman,Drama,1993,English,India,88,188.78,1181.35,5.7,722518,Amazon Prime,Christopher Nolan,Tom Cruise,65,32,992.5699999999999,525.7813327683017,Flop
+e5220016-2eb4-4f0a-9545-16a3b37c9151,Avatar,Sci-Fi,1979,Telugu,Canada,114,153.59,317.26,6.0,4589255,Hulu,Rajamouli,Shah Rukh Khan,21,46,163.67,106.56292727391106,Average
+9598dbaf-37b4-4dbc-8169-b5a9a8f4aa0f,Oppenheimer,Fantasy,1996,Hindi,Canada,131,124.32,794.51,7.4,1426591,Hulu,Anurag Kashyap,Tom Cruise,25,29,670.19,539.0846203346204,Average
+33735ea9-60d0-4d74-88dc-dcce6cceb998,The Matrix,Fantasy,2001,Telugu,UK,109,141.81,2490.74,5.0,2010886,Hulu,James Cameron,Leonardo DiCaprio,87,24,2348.93,1656.3923559692544,Flop
+1d2de2aa-1fdb-4193-9bd9-00ac0c6489c7,Avatar,Romance,1989,Hindi,Canada,107,90.54,1511.02,9.8,1084035,HBO Max,James Cameron,Yash,40,36,1420.48,1568.8977247625357,Hit
+69ffa25f-280f-4cc6-81b8-e4fc4935fdec,Pulp Fiction,Comedy,1977,Hindi,India,184,272.63,2354.49,7.3,4449045,HBO Max,Mani Ratnam,Robert Downey Jr.,84,48,2081.8599999999997,763.62102483219,Average
+b0d7b145-15d9-4775-8391-b825badd9ce8,Joker,Fantasy,1999,Telugu,India,164,131.63,1986.95,7.1,452058,Netflix,Anurag Kashyap,Shah Rukh Khan,78,26,1855.3200000000002,1409.4963154296136,Average
+68d4d5e8-b433-448e-9ee2-4c4f2bbb471e,Avengers: Endgame,Horror,1984,Tamil,Canada,99,209.67,131.79,5.7,1438348,Amazon Prime,Christopher Nolan,Robert Downey Jr.,21,41,-77.88,-37.14408355987981,Flop
+ba0aa8bf-4511-4bc5-b42a-0c6e34cee6a5,Avengers: Endgame,Fantasy,1986,Telugu,Canada,102,157.59,2142.36,6.1,115111,Netflix,James Cameron,Rajinikanth,38,39,1984.7700000000002,1259.4517418617934,Average
+f641bfa8-11ba-4f33-a223-7824f99e99d2,The Dark Knight,Fantasy,2013,English,UK,141,146.7,857.73,9.4,723021,Amazon Prime,Steven Spielberg,Prabhas,74,12,711.03,484.6830265848671,Hit
+ffb4461e-94f2-4fca-8599-7b9f17bad696,The Avengers,Action,1999,English,USA,89,107.63,2295.43,7.0,3903102,Disney+,James Cameron,Yash,98,26,2187.7999999999997,2032.7046362538326,Average
+266e24c1-aba3-4421-aa7c-f8d35483b4b7,The Godfather,Fantasy,1975,Hindi,India,178,196.97,97.06,9.0,4156123,Netflix,Anurag Kashyap,Robert Downey Jr.,100,50,-99.91,-50.7234604254455,Hit
+60a0eb29-19d7-4f56-8579-d900880cf8d9,The Matrix,Fantasy,1992,Hindi,Canada,174,285.76,1360.7,9.2,1344116,Disney+,Mani Ratnam,Robert Downey Jr.,77,33,1074.94,376.16881298992166,Hit
+36b480de-5c5f-43a6-9640-afb47ea5c058,KGF Chapter 2,Thriller,2007,English,India,182,240.66,2120.76,6.9,3695888,Amazon Prime,Anurag Kashyap,Leonardo DiCaprio,98,18,1880.1000000000001,781.226626776365,Average
+0d5a6f13-f273-47b0-894e-4ddc4d0bbf7e,3 Idiots,Adventure,2000,Telugu,UK,93,136.13,640.42,9.2,4642874,Disney+,Mani Ratnam,Yash,70,25,504.28999999999996,370.44736648791593,Hit
+510d5117-2426-40ee-abbd-1c6039b51e16,Titanic,Sci-Fi,1994,Telugu,India,158,47.49,1184.24,8.1,2303290,HBO Max,James Cameron,Leonardo DiCaprio,64,31,1136.75,2393.661823541798,Hit
+082bd129-364a-414e-984d-4a698e8b881c,Baahubali: The Beginning,Comedy,2021,Telugu,USA,159,91.78,2006.83,5.3,911444,Amazon Prime,Steven Spielberg,Leonardo DiCaprio,25,4,1915.05,2086.565700588363,Flop
+99b89b85-2a63-40fe-af14-32751ae92849,Baahubali: The Beginning,Thriller,2003,Hindi,USA,166,251.02,1934.98,6.7,3867296,HBO Max,Anurag Kashyap,Leonardo DiCaprio,74,22,1683.96,670.8469444665764,Average
+1a447fd8-970a-485a-8527-91a6fa1f65ea,Baahubali: The Beginning,Romance,2022,Telugu,UK,118,25.62,795.41,9.7,2231865,Amazon Prime,Christopher Nolan,Prabhas,34,3,769.79,3004.644808743169,Hit
+a78a02ea-d6b1-418a-8497-470d05efa9f3,Avengers: Endgame,Drama,2001,Telugu,USA,93,136.88,596.16,8.7,656843,Disney+,Anurag Kashyap,Leonardo DiCaprio,91,24,459.28,335.53477498538865,Hit
+b7e6ef10-610c-44f7-b6d9-79b3b09f1a95,The Batman,Drama,1985,Tamil,Canada,116,106.95,1168.17,9.5,4062496,Netflix,Christopher Nolan,Yash,40,40,1061.22,992.258064516129,Hit
+99b06821-c07d-4ef2-b8ca-e01cb48aef0f,Forrest Gump,Romance,1973,Telugu,USA,175,163.95,2075.27,5.4,1708985,HBO Max,Christopher Nolan,Leonardo DiCaprio,61,52,1911.32,1165.794449527295,Flop
+cf0ee11c-1420-47ed-a95c-d480acd46358,Forrest Gump,Adventure,1989,Hindi,USA,176,111.98,728.07,6.6,810916,Hulu,Christopher Nolan,Shah Rukh Khan,46,36,616.09,550.1786033220218,Average
+21b44ea4-9446-43bb-8e02-65bfa441aa6f,Oppenheimer,Sci-Fi,1982,Telugu,USA,97,91.18,798.97,5.7,2665034,HBO Max,Christopher Nolan,Robert Downey Jr.,51,43,707.79,776.2557578416319,Flop
+0d7f78b0-6a08-472e-abec-f31e1ca0008c,Oppenheimer,Drama,2008,Tamil,UK,149,258.15,1794.89,6.7,3817462,Amazon Prime,Steven Spielberg,Yash,63,17,1536.7400000000002,595.2895603331398,Average
+e4dac687-44be-45b7-88cf-c5e2dc287a1d,The Dark Knight,Fantasy,1991,Telugu,UK,177,8.54,570.56,7.5,3262962,Amazon Prime,Rajamouli,Prabhas,28,34,562.02,6581.030444964871,Average
+79283cd3-1057-494d-9913-bd7eacb52c35,The Matrix,Fantasy,1997,Tamil,UK,94,95.98,151.08,5.7,2999255,Hulu,Steven Spielberg,Robert Downey Jr.,31,28,55.10000000000001,57.40779329026881,Flop
+4c107264-b9b8-433d-9004-665b6fc7593f,Pulp Fiction,Adventure,1984,Telugu,India,186,29.77,921.3,7.0,1305957,Amazon Prime,Mani Ratnam,Prabhas,86,41,891.53,2994.726234464226,Average
+baa0a8a0-c7f5-419f-8a15-15a21353a7af,Fight Club,Adventure,1971,Telugu,UK,113,223.56,1038.91,8.9,4700852,Amazon Prime,James Cameron,Yash,23,54,815.3500000000001,364.7119341563787,Hit
+2a45511c-4058-4ef6-98ea-dc341e4d7183,The Avengers,Comedy,1980,Telugu,USA,157,21.72,2146.3,7.0,3385045,Netflix,Steven Spielberg,Yash,71,45,2124.5800000000004,9781.6758747698,Average
+76793376-1c0a-466b-af3c-da143d269e6c,Interstellar,Adventure,2024,Hindi,Canada,133,127.79,278.34,8.7,1682020,Hulu,Steven Spielberg,Yash,98,1,150.54999999999995,117.81047030284056,Hit
+cb796b69-e0b9-44dd-b09d-4e3c1df69436,The Matrix,Horror,2015,Hindi,Canada,136,148.75,1901.26,6.1,1697633,Amazon Prime,Steven Spielberg,Prabhas,19,10,1752.51,1178.1579831932772,Average
+1a3dc79b-af5b-4eb3-b258-54966308daf3,Pulp Fiction,Adventure,1992,Telugu,India,169,190.28,1635.44,5.6,3274234,Netflix,Mani Ratnam,Yash,15,33,1445.16,759.4912760142947,Flop
+d22dd9f8-864d-4fb0-a242-8ff4a8fdd9a8,Fight Club,Action,2023,English,UK,149,23.62,1383.3,7.1,4100238,Amazon Prime,Mani Ratnam,Rajinikanth,87,2,1359.68,5756.477561388654,Average
+91bca780-e5d5-4571-a04e-4750c6ab87b3,Oppenheimer,Romance,1980,Hindi,India,93,202.11,1541.92,5.3,1534467,Hulu,Anurag Kashyap,Shah Rukh Khan,12,45,1339.81,662.9112859334025,Flop
+aa65e27f-aa43-4a7e-a011-35926e05531b,The Godfather,Romance,2005,Telugu,India,160,117.06,1361.07,6.9,4165493,Hulu,James Cameron,Tom Cruise,17,20,1244.01,1062.7114300358792,Average
+515386f0-1609-40d5-a8b2-7969c64891ec,KGF Chapter 2,Sci-Fi,1975,English,USA,105,136.85,199.85,5.8,3680942,HBO Max,Mani Ratnam,Prabhas,43,50,63.0,46.03580562659847,Flop
+04190a0e-9191-4585-b6e6-16abe6ac652a,Avatar,Sci-Fi,1970,Tamil,India,190,36.71,1156.5,6.8,4971778,Hulu,Rajamouli,Leonardo DiCaprio,61,55,1119.79,3050.3677472078452,Average
+161e9432-1f68-45bb-87e6-ade161d8a8cd,The Dark Knight,Comedy,2019,English,USA,97,71.7,2294.05,8.8,4798853,Netflix,Mani Ratnam,Tom Cruise,19,6,2222.3500000000004,3099.511854951186,Hit
+db525eea-55c1-4879-801a-63f4248929cb,Interstellar,Horror,1993,Hindi,India,176,35.04,981.65,7.8,2737489,HBO Max,Mani Ratnam,Leonardo DiCaprio,92,32,946.61,2701.5125570776254,Average
+f2378599-8a81-41d8-aa66-fe7ce1b72d4f,Barbie,Adventure,1975,Tamil,USA,173,130.11,2298.28,9.5,654091,Hulu,James Cameron,Shah Rukh Khan,74,50,2168.17,1666.4130351241256,Hit
+88de1605-1469-4873-8a45-44a70d7bdd3d,Jurassic Park,Sci-Fi,2000,Hindi,Canada,84,299.17,1057.36,5.9,1970227,Disney+,James Cameron,Leonardo DiCaprio,70,25,758.1899999999998,253.4311595413978,Flop
+319e6bb6-0f75-4f60-add4-0258fee75c13,Gladiator,Sci-Fi,1994,Telugu,USA,86,24.77,512.6,8.5,616180,Disney+,Mani Ratnam,Yash,29,31,487.83000000000004,1969.4388373031895,Hit
+db6327a2-6698-4c14-b1c1-e926e57d49be,Dangal,Horror,2000,Hindi,USA,142,245.41,1483.48,8.7,1982529,Disney+,Anurag Kashyap,Tom Cruise,29,25,1238.07,504.49044456216126,Hit
+147b15f3-56bb-47e4-aadb-8b5dabc427e5,RRR,Drama,1978,Telugu,Canada,179,211.97,232.25,7.0,4329370,Amazon Prime,Mani Ratnam,Prabhas,63,47,20.28,9.567391612020568,Average
+4fde345a-20f0-402c-abd1-d4f7f4dace4d,Avengers: Endgame,Action,1975,English,Canada,100,155.71,644.9,8.2,690769,Amazon Prime,Anurag Kashyap,Robert Downey Jr.,37,50,489.18999999999994,314.1673624044698,Hit
+c7fed698-ea58-4543-b263-a4cf47a18ce4,The Avengers,Fantasy,1988,English,UK,158,267.6,246.34,9.6,2504120,HBO Max,James Cameron,Tom Cruise,18,37,-21.26000000000002,-7.94469357249627,Hit
+c02d23a1-9b5f-45ef-9db3-b3aeaf5dde4c,The Avengers,Romance,2021,Hindi,UK,157,199.1,1281.51,5.8,3634574,Netflix,Anurag Kashyap,Shah Rukh Khan,27,4,1082.41,543.6514314414867,Flop
+5375a8b0-abce-49c1-9eba-fdc74be96c67,The Godfather,Romance,2015,Tamil,India,100,51.8,750.22,6.7,1129306,Hulu,Anurag Kashyap,Robert Downey Jr.,95,10,698.4200000000001,1348.3011583011585,Average
+56ba28af-6510-423d-8e59-a7b8396a258d,The Godfather,Horror,2024,Telugu,UK,130,189.52,1262.82,5.5,3390223,HBO Max,Rajamouli,Tom Cruise,16,1,1073.3,566.3254537779653,Flop
+ac989e33-7151-4ada-9ae5-eaa8dda8e5be,Gladiator,Action,1992,Tamil,USA,129,217.46,1859.16,5.8,804004,Disney+,Christopher Nolan,Shah Rukh Khan,52,33,1641.7,754.943437873632,Flop
+8ac4db41-ae5c-4a0f-8411-c0accf1a42d5,The Avengers,Horror,1978,Telugu,USA,150,120.5,1837.48,5.4,1001154,HBO Max,Anurag Kashyap,Shah Rukh Khan,79,47,1716.98,1424.8796680497926,Flop
+351f041c-b784-4847-b6fc-00b92ac2f8fa,Avengers: Endgame,Romance,1981,Hindi,USA,170,212.96,937.12,5.8,3636789,Hulu,Mani Ratnam,Shah Rukh Khan,38,44,724.16,340.04507888805404,Flop
+3395fe4f-4f95-4b85-8200-2f563a3739d5,The Batman,Sci-Fi,1975,English,Canada,127,211.24,301.14,6.9,554729,Hulu,Rajamouli,Rajinikanth,20,50,89.89999999999998,42.558227608407485,Average
+13ed3da8-bc8a-4926-af03-fad380a753ba,Titanic,Drama,2007,Hindi,UK,120,26.12,985.08,9.4,3613751,Disney+,James Cameron,Tom Cruise,79,18,958.96,3671.362940275651,Hit
+74b9a0e9-b945-4123-a4bc-983e81e425ba,RRR,Horror,2003,English,India,84,55.44,77.22,9.4,364208,Netflix,Mani Ratnam,Tom Cruise,93,22,21.78,39.28571428571429,Hit
+e0d2a4f3-0cb3-442b-a9c0-00e3cc7e95a6,Dangal,Drama,2022,Telugu,USA,139,100.22,676.49,6.2,1719147,Netflix,Mani Ratnam,Tom Cruise,38,3,576.27,575.0049890241469,Average
+e2f61fe8-be68-4d72-94ee-6ff836120ef8,Fight Club,Adventure,1993,Telugu,USA,126,89.11,2453.74,9.3,1527594,Amazon Prime,Christopher Nolan,Shah Rukh Khan,82,32,2364.6299999999997,2653.6079003478844,Hit
+a0d40b9a-4c9d-4df5-9613-704d28b41ba3,Fight Club,Romance,2008,Telugu,Canada,179,275.21,2352.65,8.7,3736374,Amazon Prime,Christopher Nolan,Yash,53,17,2077.44,754.8562915591731,Hit
+3fe71ca3-da0a-4340-ba3d-864b288ce7f9,Barbie,Thriller,1999,Hindi,UK,81,11.19,649.96,9.0,3638549,Hulu,Christopher Nolan,Tom Cruise,96,26,638.77,5708.40035746202,Hit
+e771ed8d-56c1-41de-8a71-976abc75dca6,The Lion King,Sci-Fi,2009,Tamil,UK,88,222.64,2120.64,8.3,106122,Hulu,Mani Ratnam,Leonardo DiCaprio,68,16,1898.0,852.4973050664752,Hit
+57146a51-b7f8-415f-b66e-c90da6909edc,RRR,Horror,2013,Hindi,UK,82,231.22,1374.84,9.7,3077575,Netflix,Mani Ratnam,Leonardo DiCaprio,33,12,1143.62,494.6025430326096,Hit
+2d608b80-1b1d-493f-ba93-02467084cb0d,The Lion King,Romance,1980,Telugu,Canada,120,236.12,1245.14,5.1,4830979,Disney+,Christopher Nolan,Robert Downey Jr.,17,45,1009.0200000000001,427.3335592071828,Flop
+b2c27ce4-9f28-4b5f-9dcd-983777577a69,The Lion King,Fantasy,2006,English,UK,81,161.16,602.97,9.4,4496003,Hulu,James Cameron,Yash,58,19,441.81000000000006,274.14370811615794,Hit
+fd7c37e2-e166-499f-99f5-b5588930ae67,Jurassic Park,Adventure,1974,Telugu,Canada,89,71.02,1923.21,8.8,2409696,Disney+,Rajamouli,Leonardo DiCaprio,98,51,1852.19,2607.9836665727967,Hit
+fadfdfda-4a9f-4539-b703-46d05cedfb17,Gladiator,Action,2004,English,India,186,182.24,1362.34,6.4,997497,Disney+,Mani Ratnam,Robert Downey Jr.,69,21,1180.1,647.5526777875328,Average
+940ccb72-740d-4180-bc6f-12ee171c1402,Oppenheimer,Adventure,1990,Tamil,UK,138,232.43,1690.88,7.8,806157,Amazon Prime,Christopher Nolan,Shah Rukh Khan,36,35,1458.45,627.4792410618251,Average
+815b3521-3d14-4619-ab34-43c5a7526144,Forrest Gump,Sci-Fi,2009,Tamil,India,186,254.23,1263.3,9.2,3222386,Amazon Prime,Steven Spielberg,Robert Downey Jr.,97,16,1009.0699999999999,396.9122448176848,Hit
+f27c25b4-b586-46f8-b829-e5c0e9ebdcb7,The Lion King,Drama,2012,English,Canada,183,95.64,1344.94,5.7,1963223,Amazon Prime,Mani Ratnam,Leonardo DiCaprio,13,13,1249.3,1306.2526139690506,Flop
+9060c7a0-24af-4fba-80f6-533b0b54ca6d,Forrest Gump,Romance,1970,English,Canada,81,6.03,135.63,8.8,1347202,Hulu,Anurag Kashyap,Yash,47,55,129.6,2149.2537313432836,Hit
+4ab46ee2-b242-4c03-b56b-faeff4d66133,3 Idiots,Fantasy,1983,Hindi,India,166,275.33,1121.59,7.9,1126646,Netflix,James Cameron,Shah Rukh Khan,53,42,846.26,307.3620746013874,Average
+561936f6-2fb8-466a-96b8-8a234f7b6a52,Avengers: Endgame,Drama,1995,English,UK,166,25.95,2479.24,5.6,3190908,Amazon Prime,Mani Ratnam,Prabhas,21,30,2453.29,9453.911368015415,Flop
+e8932937-f930-43f3-8a02-4b746254808b,Pulp Fiction,Drama,1982,English,UK,173,122.6,2322.08,5.1,4111943,Hulu,Christopher Nolan,Leonardo DiCaprio,31,43,2199.48,1794.0293637846657,Flop
+0185da1b-9b40-4d5c-8140-757c88ad7fd1,Pulp Fiction,Romance,1982,Tamil,India,154,128.53,2328.09,9.4,1672032,Hulu,Christopher Nolan,Tom Cruise,96,43,2199.56,1711.3203143235041,Hit
+52ca8973-fb4a-458c-9b92-bcf5c478ed54,The Shawshank Redemption,Thriller,2001,Tamil,USA,187,16.64,1919.54,8.8,2188751,Netflix,Anurag Kashyap,Yash,16,24,1902.8999999999999,11435.697115384615,Hit
+ddc55790-6d96-42ed-b7e4-bc6a67ef9009,Baahubali: The Conclusion,Romance,2021,Hindi,USA,138,21.71,1918.3,8.3,2681291,Hulu,Christopher Nolan,Tom Cruise,79,4,1896.59,8736.020267157992,Hit
+e13b72b3-e057-441f-955e-ccb9d45bd2aa,The Dark Knight,Horror,2004,Tamil,USA,106,281.27,1443.86,5.1,2742347,Amazon Prime,James Cameron,Robert Downey Jr.,64,21,1162.59,413.33594055533825,Flop
+4eb0fc90-4b34-47f8-a4ac-3504b24f224b,The Matrix,Thriller,2013,English,USA,88,224.44,744.86,7.9,3810128,HBO Max,Steven Spielberg,Leonardo DiCaprio,13,12,520.4200000000001,231.87488861165573,Average
+8a674558-87e7-4661-89ae-cc30439eb4d5,Jurassic Park,Drama,1995,Telugu,Canada,184,241.49,965.0,8.7,4974055,HBO Max,James Cameron,Shah Rukh Khan,91,30,723.51,299.60246801109776,Hit
+27fa7c68-85d0-4188-bdd4-ce3a3afae9e6,3 Idiots,Romance,2007,Tamil,India,92,288.33,463.46,8.4,1345812,Disney+,Christopher Nolan,Tom Cruise,90,18,175.13,60.73943051364756,Hit
+fc7a8d21-b8c3-42eb-9bcd-74ec47dc575e,Dangal,Drama,2017,Hindi,India,114,21.53,691.69,9.3,119736,Disney+,Rajamouli,Tom Cruise,84,8,670.1600000000001,3112.6799814212727,Hit
+f19f0815-3ca6-4599-a2f7-f155ad1c3709,Oppenheimer,Romance,2000,Hindi,UK,84,260.2,1941.21,8.1,4797931,Hulu,Steven Spielberg,Robert Downey Jr.,91,25,1681.01,646.0453497309761,Hit
+6ea6572e-d6de-4d74-98c7-d3bfa43c42c3,Avatar,Thriller,1986,Hindi,India,141,17.93,1514.66,5.9,1717021,Amazon Prime,Steven Spielberg,Prabhas,24,39,1496.73,8347.629670942553,Flop
+2ef8eb26-8ea4-4cd9-85d4-7eb730f6b144,The Matrix,Fantasy,2019,Hindi,Canada,146,226.4,1561.54,7.7,1053600,Netflix,Anurag Kashyap,Yash,93,6,1335.1399999999999,589.7261484098939,Average
+0d9a720c-a9a6-4ee2-9767-3f820dce778e,Baahubali: The Conclusion,Romance,1979,Hindi,USA,90,174.13,448.59,8.8,4122230,Netflix,Anurag Kashyap,Rajinikanth,88,46,274.46,157.61787170504795,Hit
+315396e3-6f8a-4770-a7bb-151b029ffb18,Baahubali: The Beginning,Adventure,2010,Tamil,UK,135,8.65,997.45,5.9,1692863,HBO Max,Steven Spielberg,Prabhas,92,15,988.8000000000001,11431.21387283237,Flop
+162ba59e-6219-493d-a44b-cf0259f9c051,Avatar,Comedy,2020,English,UK,160,122.0,1359.01,9.2,3092810,Netflix,Anurag Kashyap,Shah Rukh Khan,56,5,1237.01,1013.9426229508196,Hit
+c9ee327e-5d38-4a30-aa8d-6b2028809251,The Lion King,Adventure,1972,Hindi,USA,91,149.97,997.61,7.9,4576817,HBO Max,James Cameron,Yash,83,53,847.64,565.2063746082549,Average
+d13318f9-4cb3-42ae-bf53-32141742391b,Dangal,Action,1999,Hindi,USA,89,2.8,2069.88,7.2,3458136,HBO Max,James Cameron,Robert Downey Jr.,95,26,2067.08,73824.28571428571,Average
+4a1bdf23-2fca-46ef-ae3b-a04d1e8e48ea,KGF Chapter 2,Drama,2000,Telugu,Canada,119,112.86,1189.11,5.7,4913937,Disney+,Christopher Nolan,Robert Downey Jr.,28,25,1076.25,953.6150983519403,Flop
+4f467ba5-a58d-4359-b921-b863a719c9c4,Forrest Gump,Comedy,1971,Tamil,UK,113,291.21,2169.36,9.7,457809,Netflix,James Cameron,Robert Downey Jr.,30,54,1878.15,644.9469455032452,Hit
+027f98ce-dc31-4ee5-904c-c780b1e45902,Barbie,Action,2001,Tamil,UK,116,59.47,654.31,5.6,4847774,Netflix,James Cameron,Yash,22,24,594.8399999999999,1000.235412813183,Flop
+89558226-264b-452a-a4fd-ccdf4a615085,The Godfather,Adventure,2000,Tamil,USA,86,74.0,1400.88,5.4,1376100,Netflix,James Cameron,Tom Cruise,86,25,1326.88,1793.0810810810813,Flop
+936c82f9-b5e8-4b4b-b248-d71a25f7d9ea,The Godfather,Fantasy,1993,Tamil,India,159,34.4,954.22,8.4,4901704,Netflix,Mani Ratnam,Robert Downey Jr.,21,32,919.82,2673.89534883721,Hit
+19bbcd5a-2096-423b-928c-6b71598bbb31,Avatar,Sci-Fi,2024,English,Canada,154,124.2,2484.06,8.0,4762247,Disney+,Anurag Kashyap,Rajinikanth,61,1,2359.86,1900.0483091787441,Hit
+81f89184-b4e2-497d-850a-fcb82988b603,Avengers: Endgame,Thriller,1997,Telugu,UK,155,14.14,921.02,5.7,3737252,HBO Max,Rajamouli,Leonardo DiCaprio,38,28,906.88,6413.578500707213,Flop
+866cce46-0526-48c4-9913-8284ec17d3a0,Forrest Gump,Sci-Fi,1978,Hindi,UK,163,256.62,690.58,8.0,834023,Netflix,Rajamouli,Shah Rukh Khan,46,47,433.96000000000004,169.10607123373083,Hit
+8b14bd77-5cc5-46de-a9a4-0bcac42ed5f2,Interstellar,Romance,2022,Hindi,USA,90,226.31,2152.68,7.3,429958,Netflix,Rajamouli,Robert Downey Jr.,16,3,1926.37,851.2085192877028,Average
+49fe69a6-3d50-41bb-a4d6-d75f69868689,The Godfather,Romance,2013,Hindi,India,181,107.03,1932.73,7.1,1324465,Disney+,Steven Spielberg,Rajinikanth,37,12,1825.7,1705.7834252078856,Average
+ab81aa42-d2d5-4689-a3f4-4ba00299eac6,The Dark Knight,Fantasy,1985,English,UK,134,257.91,320.36,7.3,3865935,Hulu,Rajamouli,Prabhas,38,40,62.44999999999999,24.21387305649257,Average
+7f360259-15c5-468b-9045-8ce3612c2529,Baahubali: The Conclusion,Sci-Fi,1979,Tamil,UK,168,42.37,814.74,7.8,4390278,Disney+,Rajamouli,Yash,31,46,772.37,1822.917158366769,Average
+82437c8f-2321-44ad-af3a-7aa95e7ab131,3 Idiots,Adventure,2019,Hindi,Canada,158,51.9,2122.1,8.9,1998664,HBO Max,Mani Ratnam,Rajinikanth,100,6,2070.2,3988.8246628131023,Hit
+9d75eb9d-3cbe-4032-bcbe-f3187e39c40d,Titanic,Fantasy,1998,Tamil,India,120,274.63,2258.94,7.2,569584,Amazon Prime,Rajamouli,Leonardo DiCaprio,99,27,1984.31,722.539416669701,Average
+ae922c11-f91a-4efa-b630-6e3babf06ff1,Baahubali: The Beginning,Romance,2017,Hindi,Canada,187,80.61,1382.65,8.9,2099671,HBO Max,Anurag Kashyap,Tom Cruise,54,8,1302.0400000000002,1615.2338419550927,Hit
+9c0561fe-89e0-4ff0-8a92-fddbc7c231f9,The Avengers,Fantasy,1992,Tamil,UK,122,172.03,1465.93,6.0,4263684,Amazon Prime,Christopher Nolan,Robert Downey Jr.,31,33,1293.9,752.1362553043074,Average
+3ac6958f-a12a-4260-a5c2-2af780f3bc6f,Gladiator,Horror,1992,Telugu,USA,175,116.7,1740.85,7.7,4651571,HBO Max,Christopher Nolan,Shah Rukh Khan,98,33,1624.1499999999999,1391.7309340188517,Average
+890077ec-5b94-439b-a706-366c4f751648,Barbie,Adventure,2021,Hindi,USA,163,262.34,310.19,9.4,3906121,Netflix,Anurag Kashyap,Tom Cruise,94,4,47.85000000000002,18.239688953266764,Hit
+3cb2706b-452b-486e-89d2-1aa12ba40601,Baahubali: The Beginning,Adventure,1999,Hindi,India,129,296.43,232.08,8.7,1539283,Netflix,Anurag Kashyap,Shah Rukh Khan,45,26,-64.35,-21.708329116486183,Hit
+967a9c0f-ab33-45ab-b365-5db849b3e551,Forrest Gump,Thriller,1980,English,India,134,14.69,2220.25,9.7,2935969,Netflix,Rajamouli,Shah Rukh Khan,91,45,2205.56,15014.023144996596,Hit
+9d282f31-8620-447b-bf61-7e10f6b392c4,The Batman,Drama,1995,English,India,95,212.75,2076.28,9.2,2938919,HBO Max,Rajamouli,Yash,35,30,1863.5300000000002,875.924794359577,Hit
+84c2e20a-2d39-4488-96de-6f58295d2bc3,Baahubali: The Beginning,Comedy,1974,English,USA,184,46.64,478.29,8.1,1962969,Disney+,Christopher Nolan,Yash,69,51,431.65000000000003,925.4931389365352,Hit
+5cb8a231-a6b4-4456-9680-2311b42b8485,Avengers: Endgame,Sci-Fi,1985,English,UK,106,235.02,448.04,5.1,1721981,Hulu,Mani Ratnam,Prabhas,33,40,213.02,90.6390945451451,Flop
+cffe6432-10c7-4cd1-b48e-aaa81fb84801,The Batman,Romance,1983,Telugu,Canada,180,202.45,2218.26,5.2,2895862,Disney+,Anurag Kashyap,Tom Cruise,58,42,2015.8100000000002,995.7075821190418,Flop
+59a66802-67d9-42cd-922e-36e790bede80,Inception,Drama,2017,Telugu,USA,123,26.21,1512.05,5.4,1367245,Disney+,James Cameron,Rajinikanth,34,8,1485.84,5668.981304845478,Flop
+5107ba0b-235b-4806-91cd-7c4b9c740a76,The Dark Knight,Romance,1985,Tamil,India,81,116.01,1903.47,6.9,545519,Netflix,Christopher Nolan,Robert Downey Jr.,29,40,1787.46,1540.7809671580037,Average
+c9d15f92-9135-41bc-a98e-585d6e0bb69d,Oppenheimer,Horror,1970,English,India,152,228.78,1159.43,8.1,3700,Netflix,Steven Spielberg,Shah Rukh Khan,79,55,930.6500000000001,406.78818078503366,Hit
+ec1e9fac-1f00-49ea-bbd7-483c365898dc,Fight Club,Horror,1990,Tamil,India,156,91.14,1871.35,7.6,3240571,Hulu,Steven Spielberg,Leonardo DiCaprio,48,35,1780.2099999999998,1953.2696949747638,Average
+ea0ec23a-e7ed-4f7b-b70e-c687d98c6690,Gladiator,Horror,1999,English,USA,108,224.33,547.33,7.0,4498676,Disney+,Mani Ratnam,Tom Cruise,50,26,323.0,143.98430883074042,Average
+66fb3856-b221-40a1-90ec-67c558ab5800,The Godfather,Romance,2006,Tamil,USA,87,136.51,175.57,6.7,657804,Netflix,Anurag Kashyap,Leonardo DiCaprio,54,19,39.06,28.613288403779947,Average
+fe1edf49-d14f-4fb7-9b45-7b6a8d4dc042,Gladiator,Adventure,2016,Telugu,Canada,178,187.13,2260.88,5.1,323961,Amazon Prime,Anurag Kashyap,Rajinikanth,35,9,2073.75,1108.1868219954042,Flop
+c6bf6401-7f3d-41d4-9131-3ed67c700f8a,Inception,Horror,1974,Hindi,USA,101,157.13,1373.65,9.6,1550416,Hulu,James Cameron,Shah Rukh Khan,87,51,1216.52,774.2124355629097,Hit
+6d262d0e-c132-4f1e-b2cf-417752ad2dfd,The Batman,Action,2000,Tamil,Canada,145,169.55,2396.85,5.9,4759487,Hulu,Steven Spielberg,Robert Downey Jr.,63,25,2227.2999999999997,1313.653789442642,Flop
+2f06f869-97ee-4974-b5c6-9e52dd60e652,The Shawshank Redemption,Sci-Fi,1990,Hindi,UK,111,9.51,91.77,9.8,3224163,Hulu,Mani Ratnam,Yash,88,35,82.25999999999999,864.9842271293375,Hit
+ff7a835f-f9a0-47e2-b09d-07e14a80719d,3 Idiots,Action,1980,English,India,88,204.29,828.33,5.1,3912489,Hulu,Anurag Kashyap,Rajinikanth,50,45,624.0400000000001,305.4677174604729,Flop
+9516f666-d0cb-46c4-af03-cf27cc66c73f,The Lion King,Sci-Fi,2007,Hindi,USA,163,49.65,1686.15,6.7,4347584,Netflix,Rajamouli,Yash,83,18,1636.5,3296.07250755287,Average
+73983aa1-f3fd-4fe6-8ee9-aef4e9dc8735,Pulp Fiction,Horror,1977,Tamil,USA,89,80.49,324.85,6.3,4224009,Hulu,Anurag Kashyap,Tom Cruise,46,48,244.36,303.59050813765685,Average
+43a85a5f-eb49-4b24-89b9-217c225d3d4e,Joker,Adventure,1975,English,India,99,260.73,366.67,7.8,305014,Hulu,Steven Spielberg,Tom Cruise,46,50,105.94,40.63207149158132,Average
+43a3d9c0-e12d-48aa-bf00-e0e33d075c23,Dangal,Fantasy,2004,Hindi,USA,83,159.39,1966.1,7.5,3810485,Amazon Prime,Rajamouli,Robert Downey Jr.,95,21,1806.71,1133.515276993538,Average
+bdaeeac8-2078-447f-809c-2d089565a3c7,Barbie,Romance,2004,Telugu,USA,107,37.4,1207.65,9.6,622051,Amazon Prime,Steven Spielberg,Shah Rukh Khan,50,21,1170.25,3129.010695187166,Hit
+538e2e15-406d-4489-a513-7632e047f3b4,Barbie,Fantasy,1999,English,India,165,70.86,2365.09,5.1,536029,Netflix,James Cameron,Robert Downey Jr.,72,26,2294.23,3237.6940445949763,Flop
+bb6351b7-2216-4dbb-9529-3a7f579142e9,Baahubali: The Conclusion,Romance,1984,Tamil,Canada,132,124.55,483.73,9.4,3313675,Amazon Prime,James Cameron,Tom Cruise,46,41,359.18,288.38217583299877,Hit
+e19f1b39-4b69-4606-8d3f-fa02def04b22,The Lion King,Romance,2015,Telugu,USA,188,142.14,1554.21,6.9,4069733,Amazon Prime,Rajamouli,Tom Cruise,25,10,1412.0700000000002,993.4360489658086,Average
+6bdeb182-ad92-4bbf-bab9-e8b6b155e190,The Lion King,Sci-Fi,1993,Telugu,India,165,254.35,1929.5,7.4,3956318,Amazon Prime,Mani Ratnam,Tom Cruise,83,32,1675.15,658.6003538431296,Average
+f09f8df7-60d8-4f8c-9995-1a2adad51408,Interstellar,Thriller,1970,Tamil,Canada,185,140.93,1623.31,5.9,912827,Hulu,James Cameron,Prabhas,88,55,1482.3799999999999,1051.8555311147377,Flop
+dce5bf4c-5a25-4135-9ae8-1e2229b7be19,The Lion King,Romance,2021,Hindi,India,97,27.16,1455.12,9.1,1250838,HBO Max,Steven Spielberg,Leonardo DiCaprio,49,4,1427.9599999999998,5257.584683357879,Hit
+bb448255-f622-4aa3-827c-a31ed414f5d4,The Avengers,Fantasy,1986,English,India,149,276.62,1251.32,9.4,2802283,Amazon Prime,Steven Spielberg,Rajinikanth,96,39,974.6999999999999,352.36063914395197,Hit
+a229b939-225a-4d9e-8bbb-cd77676887c6,Jurassic Park,Thriller,1971,Tamil,UK,182,113.21,1309.55,6.3,4786070,Disney+,Steven Spielberg,Tom Cruise,88,54,1196.34,1056.7441038777495,Average
+86955426-8feb-4835-a0ea-b406fd812a66,RRR,Horror,1976,Hindi,USA,178,217.21,2080.07,6.4,1309422,Netflix,Anurag Kashyap,Rajinikanth,75,49,1862.8600000000001,857.6308641406933,Average
+b0b77a37-61b8-4084-8efb-e1d190140d41,The Matrix,Sci-Fi,1981,Telugu,USA,117,173.22,1404.17,7.8,3647613,Disney+,James Cameron,Leonardo DiCaprio,44,44,1230.95,710.6281029904168,Average
+d6e16878-181e-4487-a276-239248f104ea,The Matrix,Romance,1986,Tamil,Canada,158,146.31,450.33,9.7,1986966,Hulu,Steven Spielberg,Robert Downey Jr.,31,39,304.02,207.79167521017018,Hit
+fa60d9b6-5225-4a06-a31f-c35d46a83fa5,Oppenheimer,Romance,2024,English,India,157,64.23,741.6,5.5,2203821,Amazon Prime,James Cameron,Robert Downey Jr.,89,1,677.37,1054.6006539000466,Flop
+dd2cfaaf-3939-4582-9bb8-8e31d75625bd,The Shawshank Redemption,Horror,1979,English,Canada,125,212.75,831.34,5.8,3046363,Netflix,Anurag Kashyap,Yash,56,46,618.59,290.75910693302,Flop
+5746b444-2162-4224-b9ca-6bac3c5d72b5,The Shawshank Redemption,Adventure,2016,Telugu,Canada,178,194.6,1745.77,6.8,2905815,Amazon Prime,Steven Spielberg,Shah Rukh Khan,62,9,1551.17,797.1068859198356,Average
+6c169191-3e64-4eb5-90e9-e4d6c52737a0,Avengers: Endgame,Thriller,2004,Telugu,USA,128,171.25,1156.97,8.6,4229077,HBO Max,Mani Ratnam,Prabhas,16,21,985.72,575.6029197080293,Hit
+415e5bc7-99b0-44d4-a118-a62b79dcb5d6,Pulp Fiction,Action,1981,English,India,94,28.87,1070.74,5.5,2163192,Amazon Prime,Anurag Kashyap,Yash,53,44,1041.8700000000001,3608.8326983027364,Flop
+73c5fbdb-9347-4df2-b657-3c3cf718af96,The Dark Knight,Comedy,1986,English,Canada,170,165.43,1926.96,7.6,2947210,Amazon Prime,James Cameron,Leonardo DiCaprio,90,39,1761.53,1064.8189566584053,Average
+c925d65e-3fc9-4a10-8f00-14c84197ea09,The Batman,Thriller,2023,Telugu,UK,103,107.39,1038.04,8.7,4853836,Amazon Prime,Anurag Kashyap,Rajinikanth,58,2,930.65,866.6076915913958,Hit
+400c783c-dd71-4351-82d2-9cd07f345acd,RRR,Sci-Fi,2018,English,Canada,140,63.02,914.34,8.0,4318486,Hulu,Anurag Kashyap,Rajinikanth,99,7,851.32,1350.8727388130753,Hit
+d116c50e-0e92-4470-8635-d307991cbf29,The Godfather,Thriller,2007,Tamil,UK,130,176.03,1809.11,6.0,1469284,HBO Max,Rajamouli,Shah Rukh Khan,10,18,1633.08,927.7282281429301,Average
+b4f137d3-ec51-407a-a88f-e822a7833d76,Titanic,Fantasy,1992,Telugu,USA,178,162.52,282.79,5.4,1216165,HBO Max,Christopher Nolan,Rajinikanth,66,33,120.27000000000001,74.00319960620232,Flop
+03e9854b-6c21-4929-b51b-228ce8c57796,Titanic,Comedy,1984,Hindi,USA,109,6.26,1527.95,8.6,327519,Disney+,Rajamouli,Robert Downey Jr.,58,41,1521.69,24308.14696485623,Hit
+b4a3dddd-aa7f-491e-a401-1adc8e454480,Inception,Thriller,1994,Hindi,Canada,113,156.32,2217.9,8.3,3230949,Netflix,Mani Ratnam,Rajinikanth,34,31,2061.58,1318.8203684749233,Hit
+d8a4f15f-b46e-441c-8cae-89ea1caaa25f,The Lion King,Adventure,1979,Tamil,UK,104,226.97,471.45,8.5,781471,Disney+,Rajamouli,Rajinikanth,40,46,244.48,107.71467594836321,Hit
+792831e1-5b01-46d0-9ab2-03a0fd1e3e40,Inception,Comedy,2000,Tamil,USA,143,1.29,1570.08,7.8,3089051,Amazon Prime,Mani Ratnam,Tom Cruise,87,25,1568.79,121611.62790697675,Average
+65e49a86-a9bb-4367-a138-3fde2b7699cc,Interstellar,Action,2006,English,USA,124,229.84,680.12,7.3,2519284,Hulu,James Cameron,Yash,36,19,450.28,195.91019839888617,Average
+9b4285b0-9a47-4546-9d95-d885f97afc5d,Baahubali: The Conclusion,Action,1982,Telugu,India,94,153.14,497.08,5.2,827686,HBO Max,Rajamouli,Rajinikanth,48,43,343.94,224.59187671411783,Flop
+c5aeb972-b2e1-43dc-a88a-2c2727b52c12,Fight Club,Action,2024,Hindi,Canada,148,182.35,246.85,9.4,4088366,Disney+,Anurag Kashyap,Shah Rukh Khan,17,1,64.5,35.37153825061694,Hit
+b1b7eb8d-5c2c-4f83-bcef-e54d2b0da161,Gladiator,Fantasy,2008,Tamil,USA,157,281.95,2485.61,9.3,4557299,Netflix,Rajamouli,Shah Rukh Khan,52,17,2203.6600000000003,781.5782940237632,Hit
+607e7c5f-9023-4c02-a5a5-ef4f01f539ca,Inception,Action,1976,Tamil,UK,160,206.64,2043.11,8.6,690140,Netflix,Mani Ratnam,Leonardo DiCaprio,65,49,1836.4699999999998,888.7291908633372,Hit
+4428ce0e-91f7-4d5c-af0e-2ee84cb13ac2,Avatar,Fantasy,1981,Tamil,UK,136,158.35,104.34,8.2,1592161,Amazon Prime,Mani Ratnam,Leonardo DiCaprio,17,44,-54.00999999999999,-34.107988632775495,Hit
+b5226b4b-c63a-4b0d-8f73-6be150eef5a8,Forrest Gump,Fantasy,2021,Tamil,USA,90,38.62,597.62,7.1,2372014,Netflix,Rajamouli,Shah Rukh Khan,55,4,559.0,1447.4365613671673,Average
+97463abf-eacb-4f37-b253-5c0da77b220b,Fight Club,Romance,1979,Hindi,UK,123,68.31,248.68,6.3,398066,Amazon Prime,Anurag Kashyap,Shah Rukh Khan,79,46,180.37,264.04625969843363,Average
+edb9b87c-9f05-42b5-a7d6-0915a073629d,Inception,Thriller,2024,Telugu,UK,163,43.39,1127.63,5.2,4298286,HBO Max,Christopher Nolan,Rajinikanth,95,1,1084.24,2498.8246139663515,Flop
+e1cdc705-d79e-4f87-b52c-8e416a713055,Avengers: Endgame,Action,1981,Tamil,UK,117,46.04,625.38,9.1,3904277,Amazon Prime,Christopher Nolan,Yash,56,44,579.34,1258.3405734144224,Hit
+5766bdb5-997c-491b-8c1e-d0a070fb3396,The Batman,Comedy,1972,Telugu,India,132,31.52,1552.4,7.9,3255333,Hulu,Christopher Nolan,Yash,48,53,1520.88,4825.1269035533,Average
+629654bd-49f5-41f5-8c94-05859c1cd2e4,The Godfather,Thriller,2002,English,UK,183,279.52,589.62,6.0,1585341,Netflix,James Cameron,Prabhas,20,23,310.1,110.94018317115055,Average
+ae5adce3-c9f7-4b63-b5b6-53305e35bbe6,The Matrix,Drama,2010,English,UK,158,192.85,2043.7,5.5,3668054,Netflix,Rajamouli,Rajinikanth,61,15,1850.8500000000001,959.7355457609542,Flop
+bf1f2f2d-4171-4934-92de-7858f986dfdc,The Avengers,Adventure,2019,Hindi,India,100,155.52,1073.18,6.6,2674581,Netflix,Rajamouli,Leonardo DiCaprio,17,6,917.6600000000001,590.0591563786008,Average
+66549c81-8a6c-404d-842d-c39962eb9d95,Baahubali: The Beginning,Adventure,2019,English,Canada,158,143.56,818.63,7.1,2680830,Hulu,James Cameron,Rajinikanth,88,6,675.0699999999999,470.2354416271942,Average
+25bee23e-6bd8-4436-97d1-be3e8f5129a8,Forrest Gump,Thriller,2021,Tamil,Canada,131,101.89,1269.55,5.9,103191,Hulu,James Cameron,Prabhas,13,4,1167.6599999999999,1146.0005888703502,Flop
+e44750df-1368-4eb7-b6c9-f177e18eea71,Forrest Gump,Comedy,2022,Telugu,India,165,142.0,850.09,9.2,1961907,Disney+,Christopher Nolan,Shah Rukh Khan,94,3,708.09,498.6549295774648,Hit
+ef97e224-4b38-4649-af43-8dae40140cfe,Forrest Gump,Adventure,1993,Tamil,India,175,89.5,1769.79,8.1,1912465,Amazon Prime,Mani Ratnam,Rajinikanth,40,32,1680.29,1877.418994413408,Hit
+e568dfe5-8a1a-4b72-8c2e-f4b8d57fedd3,Gladiator,Sci-Fi,1988,Telugu,USA,158,261.94,2380.81,9.6,2385871,Disney+,Rajamouli,Leonardo DiCaprio,75,37,2118.87,808.9142551729404,Hit
+a3b40653-f7aa-4aeb-bcde-4b39841e2ccc,Fight Club,Drama,2016,Telugu,Canada,126,99.91,2020.34,9.5,3435872,Netflix,James Cameron,Prabhas,64,9,1920.4299999999998,1922.1599439495544,Hit
+4a341b74-fd2a-47e0-99ed-a99207ec9ec8,Joker,Action,2002,Hindi,India,160,244.01,648.7,6.3,1111665,Hulu,Mani Ratnam,Leonardo DiCaprio,12,23,404.69000000000005,165.84976025572726,Average
+8682026d-b69b-4cf6-af56-b568f55a8a95,The Dark Knight,Adventure,1985,Telugu,India,82,298.45,2386.02,5.3,769235,Netflix,Anurag Kashyap,Robert Downey Jr.,61,40,2087.57,699.4705980901324,Flop
+7e274e61-25f5-4a84-a552-664b63e92e7d,3 Idiots,Drama,2002,English,India,155,110.61,1584.05,8.7,3943494,Hulu,Steven Spielberg,Shah Rukh Khan,76,23,1473.44,1332.10378808426,Hit
+0918c5c5-4d72-4651-b280-6ea4adfb221c,Forrest Gump,Sci-Fi,1990,English,UK,80,111.72,356.44,5.0,854636,Amazon Prime,Christopher Nolan,Prabhas,45,35,244.72,219.04761904761907,Flop
+def6da23-648e-4f90-827c-8f777a6838fb,Avengers: Endgame,Horror,1979,Tamil,India,108,262.89,925.87,6.0,2300020,HBO Max,James Cameron,Robert Downey Jr.,41,46,662.98,252.18912853284644,Average
+12352ed1-e2fa-435a-bc85-1ac4acb014cb,The Matrix,Horror,2004,Hindi,USA,97,132.14,1743.73,6.4,3127367,HBO Max,Anurag Kashyap,Rajinikanth,78,21,1611.5900000000001,1219.6079915241412,Average
+c53d72ae-b5a4-4f5c-98a8-36eca5d98831,Interstellar,Horror,1997,Hindi,UK,185,232.27,913.55,6.1,2742062,HBO Max,Steven Spielberg,Shah Rukh Khan,11,28,681.28,293.31381581779823,Average
+b10eb14e-4a6e-46df-910b-a07c6fd8a1a4,Dangal,Fantasy,1971,English,India,135,46.37,422.18,6.4,3985308,Hulu,Rajamouli,Prabhas,10,54,375.81,810.4593487168428,Average
+78553bdf-933f-4322-9a2b-912485e458e4,The Shawshank Redemption,Thriller,2019,Telugu,UK,174,32.43,372.47,5.9,1530362,Netflix,Anurag Kashyap,Tom Cruise,37,6,340.04,1048.5353068146778,Flop
+8d7c0e3a-4472-4dca-a249-ead8ec7f1546,The Batman,Sci-Fi,1977,Tamil,UK,95,96.05,169.55,9.8,3044219,Amazon Prime,Rajamouli,Leonardo DiCaprio,29,48,73.50000000000001,76.52264445601251,Hit
+0a97f7e0-a333-492a-876b-b3eb46e3d0fc,3 Idiots,Drama,2018,Hindi,UK,141,111.39,1895.09,9.1,4024843,Netflix,Steven Spielberg,Leonardo DiCaprio,90,7,1783.6999999999998,1601.3107101176047,Hit
+44397cca-09a7-49ad-8856-67c7daaacf96,Interstellar,Sci-Fi,1976,Hindi,USA,179,293.97,2490.37,7.6,3267588,HBO Max,Anurag Kashyap,Prabhas,68,49,2196.3999999999996,747.151069837058,Average
+05dccd46-a1d0-46c8-8936-8dd589b1b6ea,The Matrix,Action,2015,Hindi,Canada,175,206.12,1996.7,5.3,1511770,HBO Max,Rajamouli,Tom Cruise,82,10,1790.58,868.707549000582,Flop
+8db9c837-109b-41e1-b2b2-ca1a6a5a9c8a,3 Idiots,Romance,1989,English,Canada,158,185.65,951.79,8.4,3608854,Disney+,Christopher Nolan,Prabhas,92,36,766.14,412.6797737678427,Hit
+fc6eaae5-40a4-4e07-a4ba-9b3208cd70a9,Baahubali: The Conclusion,Horror,1998,English,UK,108,127.59,1296.94,7.2,2744175,Amazon Prime,Rajamouli,Robert Downey Jr.,51,27,1169.3500000000001,916.4903205580375,Average
+266f8b46-2951-4dc7-8d87-ddbdf64098f9,3 Idiots,Sci-Fi,1986,English,UK,80,20.25,1801.96,8.6,3376156,Disney+,Rajamouli,Shah Rukh Khan,82,39,1781.71,8798.567901234568,Hit
+d7c1ff05-5d3d-4966-9124-70b0c49559ad,Barbie,Action,2020,Hindi,USA,91,269.32,13.26,9.6,3407552,Netflix,James Cameron,Tom Cruise,53,5,-256.06,-95.07648893509581,Hit
+7fe7d951-cc8e-4334-947e-9f47a77295ee,Baahubali: The Beginning,Comedy,2003,English,USA,113,255.07,1541.63,6.6,4500301,Disney+,Mani Ratnam,Tom Cruise,86,22,1286.5600000000002,504.39487199592276,Average
+b98097ba-d003-4ef7-9b2c-0fd6b9dd5b4e,Baahubali: The Beginning,Adventure,2019,Hindi,UK,93,175.98,2055.67,7.6,4820440,Amazon Prime,Christopher Nolan,Shah Rukh Khan,14,6,1879.69,1068.1270598931699,Average
+29b7f69e-9510-48b1-a797-b7ddb3e69cd6,Baahubali: The Beginning,Thriller,2018,Tamil,Canada,153,65.87,1436.62,6.7,3563914,Netflix,Christopher Nolan,Rajinikanth,21,7,1370.75,2080.992864733566,Average
+92318463-f9f1-4ce7-8dbd-aa5371247efc,Baahubali: The Conclusion,Horror,2006,Tamil,UK,165,209.96,2427.37,9.6,419429,Hulu,Christopher Nolan,Leonardo DiCaprio,32,19,2217.41,1056.1106877500474,Hit
+7848d88c-3c5d-4f3a-beff-9ede05792a00,The Dark Knight,Horror,1985,English,UK,142,79.62,551.22,8.2,3616820,Netflix,Anurag Kashyap,Shah Rukh Khan,69,40,471.6,592.3134890730972,Hit
+e77099a9-237b-41d6-a5f8-4f396c3cca3c,The Avengers,Action,1992,Tamil,India,104,135.75,505.22,7.0,3339777,Netflix,Rajamouli,Robert Downey Jr.,36,33,369.47,272.1694290976059,Average
+1727f1a1-e0d9-4eda-a95d-b086737c17c5,Barbie,Drama,2003,Telugu,UK,172,57.87,1368.55,9.7,2336538,Hulu,Christopher Nolan,Tom Cruise,78,22,1310.68,2264.8695351650254,Hit
+0ad37554-8282-46a8-972d-1a9422a513f1,Gladiator,Comedy,2008,Hindi,UK,135,69.08,707.0,6.1,2230493,Netflix,James Cameron,Prabhas,17,17,637.92,923.4510712217718,Average
+85e4dcc4-8a2b-4046-a509-96d9adff155b,The Matrix,Thriller,1978,Hindi,India,93,64.81,1760.97,8.6,315476,Hulu,Christopher Nolan,Robert Downey Jr.,21,47,1696.16,2617.1269865761456,Hit
+c47cdbc3-efd3-4b13-9d10-7728c78010a8,The Avengers,Romance,2004,English,UK,148,89.83,1041.68,6.4,2143100,Netflix,Mani Ratnam,Prabhas,53,21,951.85,1059.6126015807638,Average
+cb1fd62a-f4a1-441d-bc78-d2963dfa96c6,Pulp Fiction,Horror,2017,English,USA,90,64.82,1534.96,5.6,2804654,Hulu,Rajamouli,Shah Rukh Khan,59,8,1470.14,2268.0345572354217,Flop
+015ccef1-6053-4dc0-aa7b-b6e09f2ab06f,Baahubali: The Conclusion,Adventure,1981,Hindi,India,110,267.23,779.1,9.1,4009225,HBO Max,Mani Ratnam,Shah Rukh Khan,75,44,511.87,191.54660779104142,Hit
+68988089-00f6-4902-8c31-1d63558b17c2,Baahubali: The Beginning,Comedy,2011,Telugu,Canada,84,280.36,641.83,6.9,2371983,Disney+,Mani Ratnam,Prabhas,96,14,361.47,128.93066057925523,Average
+e8086781-e4ff-466e-a46e-8e99b9663a09,3 Idiots,Drama,2018,English,UK,112,155.75,2431.98,6.3,1484282,Netflix,Rajamouli,Shah Rukh Khan,54,7,2276.23,1461.4638844301767,Average
+3b559f83-6883-449b-a91a-7449d7cf12f5,The Shawshank Redemption,Fantasy,1970,English,Canada,152,28.99,610.54,9.3,3212062,Hulu,Steven Spielberg,Yash,64,55,581.55,2006.0365643325283,Hit
+f66ba072-2154-4533-86ed-3be2c38c61b8,The Shawshank Redemption,Thriller,2017,Telugu,Canada,82,125.15,975.28,8.2,4539431,Netflix,Mani Ratnam,Rajinikanth,25,8,850.13,679.2888533759489,Hit
+5c20418b-867c-4339-8a6d-3b29f4136fd3,Jurassic Park,Action,1999,Telugu,UK,179,112.71,556.92,9.0,4254715,Disney+,Steven Spielberg,Leonardo DiCaprio,96,26,444.21,394.11764705882354,Hit
+282ec3e7-db11-4362-94ff-24f14d855fc4,Avatar,Fantasy,1989,Tamil,USA,128,208.12,317.76,7.2,3334868,Disney+,Mani Ratnam,Rajinikanth,27,36,109.63999999999999,52.681145492984804,Average
+70c467d9-f8b8-4e3b-8d7e-cc97d307beb6,Baahubali: The Conclusion,Sci-Fi,1986,Tamil,USA,89,45.48,383.22,8.3,1415439,Netflix,Rajamouli,Leonardo DiCaprio,85,39,337.74,742.6121372031663,Hit
+2c662160-82ad-4369-ac5a-02a199fcc738,Forrest Gump,Sci-Fi,1977,Tamil,Canada,120,4.47,2269.12,8.5,3801207,Hulu,Rajamouli,Robert Downey Jr.,49,48,2264.65,50663.31096196869,Hit
+06a0d19e-aa48-4f94-a14c-ac5e037746df,Baahubali: The Conclusion,Horror,1976,Hindi,USA,170,285.02,401.42,7.9,2753648,HBO Max,Mani Ratnam,Robert Downey Jr.,31,49,116.40000000000003,40.839239351624464,Average
+25329744-c3d9-4afe-aa90-06ded8e95063,The Matrix,Sci-Fi,1989,Tamil,UK,86,22.86,573.54,6.7,1135996,Amazon Prime,Mani Ratnam,Tom Cruise,26,36,550.68,2408.9238845144355,Average
+a69d92b8-194e-456f-8085-50f0b81a1551,Avengers: Endgame,Romance,2020,Telugu,Canada,142,161.27,120.46,7.6,2264133,Disney+,James Cameron,Yash,78,5,-40.81000000000002,-25.305388478948355,Average
+09c6dea2-a53d-4d56-8f7f-6fa5b80f637a,Inception,Horror,2008,Tamil,India,109,51.57,1904.53,7.8,4610634,Hulu,James Cameron,Yash,23,17,1852.96,3593.0967616831495,Average
+009f7ea5-12b8-48e6-8d00-8aed4d14249d,Baahubali: The Conclusion,Thriller,1977,Telugu,India,107,98.47,638.16,9.1,1792190,HBO Max,James Cameron,Yash,100,48,539.6899999999999,548.0755560069056,Hit
+9d1f58d0-2163-44e6-ad10-fd38f8c0d7af,The Shawshank Redemption,Adventure,1980,Tamil,USA,126,225.45,440.18,7.5,3582019,Amazon Prime,Anurag Kashyap,Leonardo DiCaprio,37,45,214.73000000000002,95.24506542470615,Average
+17e54964-f391-4c43-8d47-adb46fed2699,The Avengers,Fantasy,2020,Hindi,UK,161,252.55,1969.76,6.3,4801045,Netflix,Steven Spielberg,Yash,22,5,1717.21,679.9485250445456,Average
+ecb3556a-758d-4a79-81dd-3fd5a53cdfa3,The Batman,Sci-Fi,1974,Tamil,India,111,263.87,1220.1,6.4,136790,Netflix,Rajamouli,Yash,84,51,956.2299999999999,362.3867813696138,Average
+2559838c-5a46-4a1a-bf72-3dec2690526a,Titanic,Action,1992,Tamil,USA,159,81.96,2088.41,9.8,1492499,Netflix,Anurag Kashyap,Leonardo DiCaprio,81,33,2006.4499999999998,2448.084431429966,Hit
+c640ae13-8d43-467c-8705-b8de6ba7884d,Inception,Romance,2023,English,USA,105,108.91,1424.88,5.2,4776953,Netflix,Christopher Nolan,Leonardo DiCaprio,91,2,1315.97,1208.309613442292,Flop
+7289aa04-9eb1-419a-9a2b-86c0c21de2b1,The Dark Knight,Adventure,1972,Telugu,UK,113,190.84,132.13,7.0,3358544,Netflix,Anurag Kashyap,Yash,45,53,-58.71000000000001,-30.763990777614758,Average
+cc117f84-b67e-4584-bf51-a0f3849c7611,Joker,Horror,2016,Hindi,India,98,198.26,487.03,9.5,2091751,Amazon Prime,Rajamouli,Robert Downey Jr.,73,9,288.77,145.65217391304347,Hit
+99ceaab1-6296-443d-b9b6-5e660d9e4ba4,The Lion King,Thriller,1998,Telugu,USA,131,38.71,1481.59,6.6,46770,Amazon Prime,Christopher Nolan,Yash,47,27,1442.8799999999999,3727.4089382588472,Average
+b2650105-3720-47f4-b3a6-91ea07425889,Gladiator,Comedy,2024,Tamil,India,110,201.23,244.63,6.4,2411385,Disney+,Steven Spielberg,Robert Downey Jr.,77,1,43.400000000000006,21.56736073150127,Average
+beffeeff-f9bf-414c-8b45-34af19da5cb7,Forrest Gump,Adventure,2012,Telugu,Canada,147,53.45,456.1,6.9,2955141,Amazon Prime,Anurag Kashyap,Tom Cruise,46,13,402.65000000000003,753.3208606173995,Average
+9320c43f-63fe-405b-a94e-8c12d561fe84,Joker,Adventure,1977,English,USA,145,74.57,1739.85,8.7,1022840,HBO Max,Steven Spielberg,Shah Rukh Khan,47,48,1665.28,2233.176880783157,Hit
+cb769202-fa07-4edb-a8e5-fab3fecd6122,Titanic,Comedy,1981,Tamil,USA,142,74.28,502.59,5.1,4525996,Netflix,James Cameron,Rajinikanth,72,44,428.30999999999995,576.6155088852987,Flop
+a4da4a36-34b5-4287-ae54-c4f5ab919f87,Interstellar,Sci-Fi,1970,Telugu,USA,140,12.14,283.94,7.7,2697195,Hulu,Steven Spielberg,Tom Cruise,69,55,271.8,2238.8797364085667,Average
+4279fd01-81fa-4054-a0a0-940b1964ad59,The Avengers,Adventure,1992,Tamil,India,87,121.21,2359.12,5.6,3658769,Hulu,Christopher Nolan,Leonardo DiCaprio,76,33,2237.91,1846.3080603910569,Flop
+33ac4330-9e8f-40bf-afaf-51e4ebd784e6,Gladiator,Romance,1982,Telugu,Canada,129,3.57,225.4,9.3,1941823,HBO Max,Mani Ratnam,Yash,88,43,221.83,6213.725490196079,Hit
+d3a20071-ba9d-44e7-849c-9a89ffffc8e2,Joker,Comedy,2008,Tamil,USA,98,130.36,1146.14,7.6,4141409,Disney+,Mani Ratnam,Rajinikanth,88,17,1015.7800000000001,779.2114145443388,Average
+859005f0-4ddc-4512-8fbc-6d8132c6f2a0,Avatar,Fantasy,1987,Telugu,USA,175,40.52,1762.19,7.9,3108829,HBO Max,Anurag Kashyap,Rajinikanth,11,38,1721.67,4248.938795656466,Average
+00bdfc8f-6917-4f76-b72b-4ebd569625c6,3 Idiots,Horror,1992,English,Canada,171,194.65,782.96,8.3,4575649,Amazon Prime,Mani Ratnam,Yash,52,33,588.3100000000001,302.23991780118166,Hit
+4b614d1d-4228-49ca-b7be-c3e5bd769242,The Avengers,Romance,2020,Telugu,India,127,105.69,1174.9,8.4,3545127,Disney+,Rajamouli,Shah Rukh Khan,78,5,1069.21,1011.6472703188571,Hit
+91c4278c-19b4-4005-ac0a-19a8c108db8b,The Batman,Sci-Fi,2005,Telugu,Canada,85,73.38,1758.61,8.7,1888461,Hulu,Anurag Kashyap,Shah Rukh Khan,58,20,1685.23,2296.579449441265,Hit
+ad78f042-c15e-45a8-a0e7-187f9afb7079,Avengers: Endgame,Drama,1980,Tamil,USA,148,101.28,1993.54,6.7,3311640,Disney+,Christopher Nolan,Prabhas,56,45,1892.26,1868.3451816745655,Average
+43f750c0-f426-4452-889f-0e8f3aa3dda4,Avatar,Action,1995,Hindi,USA,116,211.2,1224.11,7.5,4155307,HBO Max,Christopher Nolan,Robert Downey Jr.,34,30,1012.9099999999999,479.5975378787879,Average
+53d037e1-6fd8-4bf8-b123-ee8eafc16bd1,The Shawshank Redemption,Fantasy,1973,Hindi,UK,163,293.0,2355.93,5.7,1594005,Disney+,Steven Spielberg,Leonardo DiCaprio,82,52,2062.93,704.0716723549488,Flop
+c898eadf-1253-4453-90ca-906f459e6a3b,3 Idiots,Comedy,1977,Tamil,India,179,140.99,1016.14,7.8,1282859,Netflix,James Cameron,Robert Downey Jr.,37,48,875.15,620.7177814029363,Average
+1a42c0df-6799-4a7b-9b10-4f9325d31ac2,The Lion King,Romance,1972,Tamil,India,116,167.26,2329.84,9.7,2041826,Amazon Prime,Rajamouli,Robert Downey Jr.,81,53,2162.58,1292.9451153892144,Hit
+a55d2849-a639-467e-bede-e3727031a675,The Matrix,Romance,1998,Tamil,USA,103,80.45,1313.62,5.8,2698806,Disney+,Mani Ratnam,Prabhas,65,27,1233.1699999999998,1532.8402734617773,Flop
+14fbe5ee-3a67-4f63-ad85-4604585b99ec,KGF Chapter 2,Adventure,2003,Hindi,UK,109,292.41,1133.43,5.2,3207103,Hulu,Steven Spielberg,Prabhas,77,22,841.02,287.6167025751513,Flop
+56fc6140-77d2-4ca5-944a-ac3d3eb693fa,Avengers: Endgame,Comedy,1975,Hindi,Canada,142,60.55,1984.8,6.6,439733,Amazon Prime,Anurag Kashyap,Shah Rukh Khan,20,50,1924.25,3177.9521056977705,Average
+2cd5a61f-baf7-4046-a391-e9bc0ab565ea,3 Idiots,Adventure,1972,Hindi,India,142,34.83,1404.4,9.5,2693779,HBO Max,Anurag Kashyap,Leonardo DiCaprio,19,53,1369.5700000000002,3932.1561871949475,Hit
+bf777a14-2982-48c9-a7b5-5c718a5c224a,Inception,Sci-Fi,1971,English,UK,143,94.6,984.01,7.1,3814572,Netflix,Anurag Kashyap,Shah Rukh Khan,24,54,889.41,940.1797040169134,Average
+f891cf6b-a5d1-4cb2-91f5-6e78f0b923bb,The Shawshank Redemption,Romance,2020,Hindi,UK,153,198.61,2139.04,5.6,2034056,Amazon Prime,Steven Spielberg,Tom Cruise,35,5,1940.4299999999998,977.0051860429987,Flop
+08cbca4d-482e-4291-a18e-07ff2d6e71f0,Dangal,Action,2004,English,Canada,142,9.13,1921.15,8.6,4442817,Amazon Prime,Rajamouli,Tom Cruise,34,21,1912.02,20942.168674698794,Hit
+84017606-9ab6-4a11-b432-03cbfd6810e9,Forrest Gump,Romance,2023,English,Canada,129,190.58,1688.08,8.5,1595003,Amazon Prime,Anurag Kashyap,Yash,55,2,1497.5,785.7592612026446,Hit
+b78832c0-b932-4481-aec3-0f856e9aaed4,The Lion King,Fantasy,2007,English,USA,129,259.09,2025.37,6.3,1328671,Amazon Prime,Christopher Nolan,Leonardo DiCaprio,16,18,1766.28,681.7244972789379,Average
+341189ad-356d-4d51-9dad-b7a71eaa51a3,Avengers: Endgame,Adventure,1973,English,USA,154,26.45,1183.62,5.4,4081580,Netflix,Christopher Nolan,Robert Downey Jr.,20,52,1157.1699999999998,4374.933837429111,Flop
+c80874b5-d53f-4491-9737-8e25ac783933,The Dark Knight,Adventure,1974,Hindi,USA,166,97.09,1043.87,9.2,549883,Disney+,Steven Spielberg,Leonardo DiCaprio,63,51,946.7799999999999,975.1570707590894,Hit
+e62035b5-d613-4482-8501-d6057688e305,The Godfather,Sci-Fi,1991,Hindi,Canada,124,212.91,1001.63,6.5,1176981,Disney+,Christopher Nolan,Prabhas,19,34,788.72,370.44760697008127,Average
+a9196060-e0a0-4d0f-8066-51a83d1d954d,KGF Chapter 2,Adventure,1979,Hindi,USA,176,33.01,906.56,9.2,3306223,Netflix,Anurag Kashyap,Prabhas,67,46,873.55,2646.319297182672,Hit
+a62946e5-c7f5-4261-829b-d6e411e518dd,Baahubali: The Beginning,Comedy,1991,Telugu,Canada,164,8.28,20.14,7.1,4577331,Hulu,Christopher Nolan,Prabhas,25,34,11.860000000000001,143.23671497584544,Average
+720735bb-f42f-4aed-84c8-d492d5e48fed,The Matrix,Romance,1986,Hindi,India,98,222.87,1645.72,5.8,1095532,Hulu,Steven Spielberg,Yash,15,39,1422.85,638.4215013236416,Flop
+b30f1421-3f56-4f0c-a73a-e60a71c96179,Avengers: Endgame,Romance,1993,English,India,103,191.79,1697.28,5.9,316655,Netflix,Mani Ratnam,Robert Downey Jr.,93,32,1505.49,784.9679336774598,Flop
+32f0f8fe-7cd3-48b4-96aa-5036a151ac69,The Batman,Romance,2023,Hindi,India,167,132.03,1866.43,7.9,4245065,HBO Max,Mani Ratnam,Tom Cruise,45,2,1734.4,1313.6408392032115,Average
+4565b5c7-ab9b-4246-9b9b-841f9f520ec5,Interstellar,Sci-Fi,2013,Tamil,UK,131,10.25,922.42,9.5,347913,Amazon Prime,Anurag Kashyap,Shah Rukh Khan,54,12,912.17,8899.21951219512,Hit
+9a1091ca-dd2c-4bf4-8fdc-efb57823ad76,Fight Club,Sci-Fi,1979,English,USA,101,104.94,1349.78,5.2,3170952,Netflix,Christopher Nolan,Shah Rukh Khan,53,46,1244.84,1186.2397560510767,Flop
+92c10b12-9113-44ef-9d1f-c415311ef6a3,Baahubali: The Conclusion,Horror,1992,English,Canada,165,192.07,986.39,7.9,3691593,Disney+,Anurag Kashyap,Rajinikanth,92,33,794.3199999999999,413.55755714062576,Average
+ca3c2bb0-f2e3-4010-a5e7-32491c124a6f,Gladiator,Drama,2023,Tamil,Canada,129,261.75,828.3,5.3,2236374,Hulu,Mani Ratnam,Leonardo DiCaprio,49,2,566.55,216.4469914040114,Flop
+068a28e3-414c-4307-bd34-d0785520ee1e,The Lion King,Adventure,2013,Tamil,India,190,219.11,2278.34,8.5,4710921,HBO Max,Anurag Kashyap,Robert Downey Jr.,39,12,2059.23,939.8156177262562,Hit
+9f8a5354-6e6c-419f-9245-c68a0255d127,Dangal,Thriller,1996,Telugu,Canada,128,295.69,462.17,9.0,468099,Disney+,Anurag Kashyap,Prabhas,44,29,166.48000000000002,56.30220839392608,Hit
+99c2ea46-bd82-498d-b0e9-01cb42318b1d,RRR,Sci-Fi,1979,English,UK,181,45.02,2188.03,7.2,2678147,Amazon Prime,Anurag Kashyap,Tom Cruise,78,46,2143.01,4760.128831630386,Average
+ccf031e4-7e83-45c2-8e08-9b79096fe209,The Batman,Thriller,2015,Hindi,UK,182,244.94,2355.25,7.4,4666791,Disney+,Christopher Nolan,Prabhas,91,10,2110.31,861.5620151873928,Average
+0d6f45df-f8d8-4332-9bd1-aaab9c1a9806,Gladiator,Fantasy,1980,English,UK,97,19.88,1921.78,8.4,4187284,Netflix,James Cameron,Leonardo DiCaprio,62,45,1901.8999999999999,9566.901408450703,Hit
+786b7bd9-a639-405b-a81c-6c4ab696042b,Avengers: Endgame,Romance,2018,English,India,153,186.42,926.63,7.8,2929740,Disney+,Christopher Nolan,Prabhas,56,7,740.21,397.0657654758074,Average
+151e8cdf-7a2b-477e-a5db-317b37f4c2d0,The Batman,Drama,2010,Tamil,India,162,1.36,1857.17,5.6,1002294,Netflix,James Cameron,Robert Downey Jr.,29,15,1855.8100000000002,136456.61764705883,Flop
+c2b8650a-8fed-42d8-b34f-523728fc7192,Avengers: Endgame,Thriller,1984,Hindi,USA,84,64.08,824.19,7.2,2709,HBO Max,Steven Spielberg,Prabhas,12,41,760.11,1186.189138576779,Average
+9af0c5d7-7e94-4ca7-b496-7b7595405b76,RRR,Drama,2023,English,Canada,180,238.38,306.9,5.1,3229588,HBO Max,Christopher Nolan,Tom Cruise,29,2,68.51999999999998,28.74402214950918,Flop
+b186ef9d-2ce7-46ff-ac9b-f2f72bb17f5f,The Lion King,Romance,2016,English,Canada,154,109.96,499.38,5.2,1242087,Hulu,Anurag Kashyap,Yash,36,9,389.42,354.1469625318298,Flop
+51eba545-2c1d-49f9-9c49-17103558d4fc,Titanic,Adventure,2024,Tamil,UK,145,208.37,1842.01,8.6,4865562,Netflix,Steven Spielberg,Tom Cruise,70,1,1633.6399999999999,784.0092143782693,Hit
+031131a8-1af9-4c64-89cb-7e0cf64081f4,Oppenheimer,Horror,1994,Telugu,India,93,127.46,260.43,7.5,4449409,Amazon Prime,Anurag Kashyap,Tom Cruise,66,31,132.97000000000003,104.32292483916525,Average
+3bccbb6a-a1e9-489d-9caa-b78bf284f559,Joker,Action,1979,Telugu,USA,175,98.56,684.44,5.5,4088875,Hulu,Steven Spielberg,Shah Rukh Khan,54,46,585.8800000000001,594.4399350649352,Flop
+e82d9fc2-e05c-4716-b0a4-7c550b1371d1,Oppenheimer,Sci-Fi,1979,English,India,174,279.36,1225.71,6.9,3033655,Amazon Prime,Christopher Nolan,Robert Downey Jr.,41,46,946.35,338.75644329896903,Average
+3f55d49c-cbec-4510-ade6-c1ea19e59228,The Godfather,Action,2017,Hindi,Canada,176,225.53,221.82,8.5,2103235,Disney+,Anurag Kashyap,Prabhas,26,8,-3.710000000000008,-1.6450139670997244,Hit
+78f10156-713e-4550-a814-2e60f6e82988,Forrest Gump,Sci-Fi,1978,Hindi,UK,126,159.53,2340.59,6.6,2930451,Hulu,Rajamouli,Tom Cruise,26,47,2181.06,1367.178587099605,Average
+c0b5c004-d429-4b3a-b1e1-de0d56b80879,Avengers: Endgame,Romance,2018,English,UK,144,41.16,2263.91,6.6,3630682,Netflix,Mani Ratnam,Rajinikanth,53,7,2222.75,5400.267249757046,Average
+d2dd67e5-4dd4-40c5-927b-292b0138f32f,Dangal,Romance,1992,Tamil,USA,142,87.02,2081.01,9.7,2319072,Amazon Prime,Mani Ratnam,Tom Cruise,94,33,1993.9900000000002,2291.4157664904624,Hit
+37936cd1-7b43-4e60-a8fd-8594d19405c9,The Shawshank Redemption,Thriller,1974,Hindi,UK,117,41.31,2116.33,6.6,424912,Disney+,Christopher Nolan,Tom Cruise,56,51,2075.02,5023.0452674897115,Average
+e4211cb7-4db1-420b-86d8-4ec7815dfd6a,Titanic,Comedy,1979,English,USA,186,276.52,1764.81,6.8,1760999,Netflix,Mani Ratnam,Shah Rukh Khan,12,46,1488.29,538.221466801678,Average
+53e39d4b-0593-421d-b2ae-5ee786295bee,The Shawshank Redemption,Thriller,2017,Hindi,Canada,149,252.8,417.22,5.1,3606971,Amazon Prime,Steven Spielberg,Yash,47,8,164.42000000000002,65.03955696202533,Flop
+53fcb818-e8bd-4932-bbd9-c028da7c5b25,Inception,Sci-Fi,1985,Tamil,Canada,133,269.89,1524.01,7.0,1245817,Disney+,Anurag Kashyap,Robert Downey Jr.,63,40,1254.12,464.6782022305383,Average
+4f0120ee-8a03-4701-b06d-490ea0b27608,KGF Chapter 2,Horror,2019,English,Canada,89,228.0,857.57,7.2,4339536,Hulu,Christopher Nolan,Rajinikanth,17,6,629.57,276.12719298245617,Average
+c96d1f19-9bf9-4695-998f-aa59f2738906,Joker,Drama,2023,Hindi,UK,139,206.83,301.7,8.9,4367464,Amazon Prime,Mani Ratnam,Robert Downey Jr.,53,2,94.86999999999998,45.86858772905283,Hit
+b23a93a2-774e-42f7-882f-a48fffd990de,Forrest Gump,Adventure,1997,Tamil,USA,133,104.03,79.51,5.9,4713479,Amazon Prime,Steven Spielberg,Prabhas,21,28,-24.519999999999996,-23.57012400269153,Flop
+a2912f6d-1171-4a5b-b1d2-97274ac6edb2,KGF Chapter 2,Adventure,1997,Hindi,India,126,277.08,1883.79,8.5,1250666,Hulu,Steven Spielberg,Robert Downey Jr.,40,28,1606.71,579.8722390645302,Hit
+d92037d4-139f-4807-aa6c-ac4e58a8f827,Fight Club,Comedy,2007,Hindi,India,87,3.16,889.07,7.2,3997109,Amazon Prime,James Cameron,Robert Downey Jr.,26,18,885.9100000000001,28035.12658227848,Average
+69c4d339-62ae-42d2-9727-af593103d938,Baahubali: The Conclusion,Thriller,1997,Hindi,USA,175,134.98,1788.36,8.3,3340969,HBO Max,Christopher Nolan,Yash,84,28,1653.3799999999999,1224.9073936879538,Hit
+e4d6a285-d3f0-4325-a73c-7141325d4895,Joker,Thriller,2020,Telugu,India,184,125.08,1011.39,9.1,27448,Amazon Prime,Steven Spielberg,Leonardo DiCaprio,61,5,886.31,708.594499520307,Hit
+667af8c6-64d0-41eb-91bf-639f59d2aa8b,The Matrix,Drama,1989,Tamil,USA,147,230.56,2166.35,7.7,3722650,Hulu,Steven Spielberg,Rajinikanth,71,36,1935.79,839.603573907009,Average
+a51596d4-c4db-4988-9647-44ccb9c00937,Oppenheimer,Horror,1990,English,UK,136,283.82,418.32,7.5,543928,HBO Max,Christopher Nolan,Yash,55,35,134.5,47.3891903319005,Average
+ac1d2bf2-8c83-4338-a853-592963c44cca,Avatar,Comedy,1989,Telugu,India,189,12.76,84.74,9.4,4629357,Amazon Prime,Mani Ratnam,Prabhas,50,36,71.97999999999999,564.1065830721002,Hit
+616e5547-0ab5-45ab-b310-7eb6b51ebab6,The Shawshank Redemption,Sci-Fi,1997,Telugu,Canada,164,73.43,2320.58,6.5,3227874,Netflix,Steven Spielberg,Rajinikanth,95,28,2247.15,3060.2614735121883,Average
+6dd5c808-8af4-488c-bf9f-1e860785a1a9,Avatar,Comedy,1979,Hindi,Canada,148,101.64,8.85,8.2,1618634,Netflix,James Cameron,Robert Downey Jr.,57,46,-92.79,-91.29279811097993,Hit
+debcc52f-d6a5-45a6-9642-2a719b2e95b1,The Godfather,Horror,2000,English,Canada,165,98.71,2414.94,8.2,4501485,Hulu,Mani Ratnam,Yash,18,25,2316.23,2346.4998480397126,Hit
+f21529b2-8788-45f1-88b1-28952d224e2a,The Lion King,Adventure,1975,Telugu,India,154,44.24,2430.8,8.2,2481986,HBO Max,Mani Ratnam,Robert Downey Jr.,10,50,2386.5600000000004,5394.575045207957,Hit
+40fc5252-0a23-4c5a-ac21-6475923c67a2,Gladiator,Thriller,2008,English,UK,120,135.3,2445.64,7.0,4223296,Amazon Prime,James Cameron,Yash,49,17,2310.3399999999997,1707.5683665927563,Average
+2f78e67d-72e8-4408-a665-0d83b0707940,Pulp Fiction,Drama,2016,English,UK,115,103.94,1624.68,7.9,3035797,Hulu,Christopher Nolan,Leonardo DiCaprio,89,9,1520.74,1463.094092745815,Average
+af4b4649-b7c3-42f3-93c1-7f9512274ba5,KGF Chapter 2,Horror,2012,Tamil,USA,92,17.54,6.86,5.4,4115640,Disney+,James Cameron,Robert Downey Jr.,34,13,-10.68,-60.889395667046756,Flop
+87a748cd-3f5f-440b-bb08-21f64b10b3fc,3 Idiots,Sci-Fi,1984,Tamil,UK,103,67.06,2320.72,8.3,3950802,Amazon Prime,Rajamouli,Leonardo DiCaprio,61,41,2253.66,3360.6620936474797,Hit
+5f956c06-2a7b-42f7-a616-814d6f5aef3d,Avatar,Fantasy,1978,Telugu,USA,138,238.69,2000.64,9.3,2597937,Hulu,James Cameron,Robert Downey Jr.,45,47,1761.95,738.1750387531946,Hit
+d8e6e756-fb5b-444e-93cc-3b8dfda0c4d1,Pulp Fiction,Drama,2002,Tamil,Canada,157,210.37,1424.87,7.6,4701141,Netflix,Rajamouli,Robert Downey Jr.,57,23,1214.5,577.3161572467557,Average
+aa1b83fb-1599-4bb3-8080-82fa884983f8,Gladiator,Fantasy,1973,Hindi,Canada,134,286.86,1671.93,5.9,2687051,Amazon Prime,James Cameron,Prabhas,23,52,1385.0700000000002,482.83831834344284,Flop
+b5316169-43b7-4934-94a7-c86706672871,Interstellar,Adventure,1978,Tamil,India,84,132.53,2076.13,8.7,3563670,Netflix,Rajamouli,Leonardo DiCaprio,40,47,1943.6000000000001,1466.5358786689808,Hit
+8fb51524-e9f8-494c-bffb-836994f4f0c2,The Batman,Thriller,1971,English,Canada,83,152.45,259.59,6.6,4054526,Hulu,Steven Spielberg,Tom Cruise,32,54,107.13999999999999,70.27877992784519,Average
+5f5f9aaa-1bd8-4c06-8edd-9209feda71b8,RRR,Drama,2004,Telugu,India,108,208.29,159.37,5.1,4417411,Disney+,Christopher Nolan,Rajinikanth,46,21,-48.91999999999999,-23.48648518891929,Flop
+8e361bef-75ef-4f64-a510-f660c5b2c762,Titanic,Comedy,1973,Hindi,UK,88,37.03,2226.03,6.8,3085654,Netflix,James Cameron,Shah Rukh Khan,18,52,2189.0,5911.423170402377,Average
+75c17e2b-be73-4422-8689-96abf9a4f118,Interstellar,Romance,2000,Telugu,USA,88,3.07,642.29,5.9,2768233,HBO Max,Mani Ratnam,Yash,22,25,639.2199999999999,20821.498371335503,Flop
+f562b0d8-b15b-42d0-ac3c-109cbcd395f8,The Matrix,Fantasy,2023,Telugu,USA,162,122.49,1569.85,8.4,1426319,Disney+,James Cameron,Rajinikanth,52,2,1447.36,1181.6148257000573,Hit
+48babc3c-ea2d-4ec1-bfbe-aa5170f23315,The Dark Knight,Drama,1977,Hindi,India,171,252.36,133.01,6.2,552946,Disney+,Steven Spielberg,Tom Cruise,28,48,-119.35000000000002,-47.293548898399116,Average
+fbf2ca88-0694-4106-b006-4b31e507e5b5,Interstellar,Fantasy,2009,Tamil,Canada,92,275.29,2084.4,8.7,2761593,HBO Max,Anurag Kashyap,Tom Cruise,76,16,1809.1100000000001,657.1651712739293,Hit
+840c1a25-7504-443f-a105-495e274fc6f9,Baahubali: The Beginning,Comedy,2019,English,USA,183,94.35,1812.33,5.5,4227455,HBO Max,James Cameron,Tom Cruise,74,6,1717.98,1820.858505564388,Flop
+536cb6a2-eabc-4b20-a712-c85298640a1c,Pulp Fiction,Horror,2001,English,India,139,5.99,668.81,5.1,2424158,Netflix,James Cameron,Tom Cruise,26,24,662.8199999999999,11065.442404006675,Flop
+8b7962f5-de1b-4866-b312-32348df35b51,Forrest Gump,Action,1992,Hindi,USA,93,136.49,2211.5,8.9,4055385,Disney+,Anurag Kashyap,Yash,17,33,2075.01,1520.2652208953036,Hit
+510c59e5-f180-4f09-92ff-7e194272b9dc,The Batman,Fantasy,1974,Telugu,India,105,95.54,2233.65,5.6,3007349,HBO Max,Steven Spielberg,Rajinikanth,49,51,2138.11,2237.921289512246,Flop
+c7a8f8b1-bbd0-45d1-8402-35306c0d8800,The Lion King,Comedy,2005,Tamil,UK,94,211.8,102.78,5.8,1071999,Amazon Prime,Steven Spielberg,Yash,88,20,-109.02000000000001,-51.47308781869688,Flop
+88f55ad9-d846-4e07-8534-810bcd309525,Avengers: Endgame,Horror,1997,English,Canada,82,205.06,1816.1,7.5,952693,Netflix,Steven Spielberg,Rajinikanth,55,28,1611.04,785.6432263727689,Average
+19254728-52c7-4ea0-b6e4-a24c0944c8de,Pulp Fiction,Sci-Fi,1972,Telugu,Canada,108,182.45,1089.43,6.9,1415677,Disney+,Christopher Nolan,Robert Downey Jr.,34,53,906.98,497.11153740750893,Average
+88742286-de65-4f55-8ebe-7f4613de5402,KGF Chapter 2,Thriller,1999,Tamil,India,142,192.2,2077.53,7.8,3730861,Disney+,Mani Ratnam,Robert Downey Jr.,67,26,1885.3300000000002,980.9209157127993,Average
+ec702ba8-1e48-4511-b3bc-14d08b5e06b2,3 Idiots,Adventure,2013,English,India,93,218.19,1665.18,9.0,2208920,Netflix,Steven Spielberg,Tom Cruise,95,12,1446.99,663.1788807919703,Hit
+8fc2072e-c532-4473-99e0-17807e177cde,The Avengers,Action,2002,Telugu,USA,105,239.88,1928.95,6.5,368910,Netflix,Steven Spielberg,Leonardo DiCaprio,68,23,1689.0700000000002,704.1312322828081,Average
+30394200-eb39-4e9a-a660-cd5c9f3e7a3d,Avengers: Endgame,Comedy,2023,Telugu,India,113,4.48,398.64,8.1,2136719,Hulu,Rajamouli,Robert Downey Jr.,25,2,394.15999999999997,8798.214285714284,Hit
+012db41c-f89d-4be8-bc83-39ab9b69542a,The Matrix,Horror,2012,Tamil,USA,83,206.05,1481.23,6.9,1736684,HBO Max,James Cameron,Yash,88,13,1275.18,618.8692065032759,Average
+fbbe1167-c8ef-4994-8931-aa81c283abcd,Dangal,Sci-Fi,1998,Tamil,UK,115,168.15,1818.39,7.8,237820,Amazon Prime,James Cameron,Tom Cruise,90,27,1650.24,981.4094558429973,Average
+e40aaf83-6e17-4e55-ad81-c2b9c9e181fe,Inception,Thriller,1976,Telugu,UK,86,213.07,1685.03,8.3,1204154,Amazon Prime,Rajamouli,Tom Cruise,90,49,1471.96,690.8339982165486,Hit
+17a14c41-9438-44d4-9a53-5c43e1621236,The Batman,Drama,2011,Hindi,Canada,144,12.47,48.36,8.5,933618,Hulu,Christopher Nolan,Leonardo DiCaprio,87,14,35.89,287.81074578989575,Hit
+e3aaaab3-36af-4116-8853-10510ae8896f,Baahubali: The Conclusion,Thriller,2010,Hindi,USA,97,290.48,2328.77,7.4,2044358,HBO Max,James Cameron,Rajinikanth,77,15,2038.29,701.6971908565133,Average
+8551429a-54c5-4e00-a2ba-818b56523366,The Avengers,Sci-Fi,1991,English,India,156,123.92,2484.07,8.2,4545745,Amazon Prime,Christopher Nolan,Prabhas,10,34,2360.15,1904.5755326016786,Hit
+e63b21b5-44e9-4489-8f9b-1c553ee4eeba,RRR,Comedy,1989,Hindi,UK,183,204.44,43.81,5.6,1964111,Netflix,Christopher Nolan,Tom Cruise,18,36,-160.63,-78.57072979847388,Flop
+affc0f2c-6760-4312-93cb-2d41373848c6,KGF Chapter 2,Romance,1983,Tamil,UK,104,136.37,463.25,7.3,4504682,Netflix,Christopher Nolan,Shah Rukh Khan,29,42,326.88,239.7008139620151,Average
+f8a1d35d-6a9a-4027-8b79-e16a498af8f2,Jurassic Park,Drama,1978,Telugu,USA,190,131.59,659.45,6.2,981318,Hulu,Rajamouli,Leonardo DiCaprio,96,47,527.86,401.13990424804314,Average
+b1d7f9dc-6aa0-40c7-b7a4-4570314e1311,Avengers: Endgame,Thriller,2000,Tamil,USA,109,117.0,1397.04,9.6,152475,Amazon Prime,Christopher Nolan,Leonardo DiCaprio,99,25,1280.04,1094.051282051282,Hit
+54cf7e59-f4d2-41c6-b5eb-ae7934fc523f,3 Idiots,Sci-Fi,2013,Tamil,UK,158,260.74,2259.34,8.7,1292028,Amazon Prime,Christopher Nolan,Leonardo DiCaprio,89,12,1998.6000000000001,766.5107003144896,Hit
+ae1ec76a-23a0-4999-b8e4-1154571e5b54,The Shawshank Redemption,Thriller,1970,Tamil,USA,177,30.21,409.2,5.4,2323464,HBO Max,Anurag Kashyap,Tom Cruise,74,55,378.99,1254.5183714001987,Flop
