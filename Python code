@@ -1,0 +1,66 @@
+import pandas as pd
+
+file_path = r"C:\Users\kdhac\OneDrive\Desktop\sales_project\project_moivesales.csv"
+df = pd.read_csv(file_path)
+
+print(df.head())
+
+print(df.columns)
+
+print(df.isnull().sum())
+
+df['Release_Year'] = df['Release_Year'].astype(int)
+
+df['Budget_Million'] = df['Budget_Million'].astype(float)
+
+print(df.describe())
+
+df['Movie_Age'] = 2025 - df['Release_Year']
+
+df['Profit_Million'] = df['BoxOffice_Million'] - df['Budget_Million']
+
+df['Profit_Percentage'] = (df['Profit_Million'] / df['Budget_Million']) * 100
+
+def success_category(rating):
+    if rating >= 8:
+        return "Hit"
+    elif rating >= 6:
+        return "Average"
+    else:
+        return "Flop"
+
+df['Success_Category'] = df['IMDb_Rating'].apply(success_category)
+
+print(df.columns)
+
+df.to_csv("movie_dataset_Cleaned.csv", index=False)
+print("CSV file saved successfully!")
+
+
+
+import mysql.connector
+
+connection = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="0512",
+    database="movie_project"
+)
+
+cursor = connection.cursor()
+print("MySQL Connected Successfully!")
+
+for i, row in df.iterrows():
+    cursor.execute("""
+        INSERT INTO movie_dataset (
+            Movie_ID, Title, Genre, Release_Year, Language, Country, Runtime_Min,
+            Budget_Million, BoxOffice_Million, IMDb_Rating, Votes, Streaming_Platform,
+            Director, Actor, RottenTomatoes_Score, Movie_Age, Profit_Million,
+            Profit_Percentage, Success_Category
+        ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    """, tuple(row))
+
+connection.commit()
+print("Data inserted successfully!")
+connection.close()
+
