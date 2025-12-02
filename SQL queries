@@ -1,0 +1,77 @@
+create database movie_project;
+use movie_project;
+
+CREATE TABLE movie_dataset (
+    Movie_ID VARCHAR(50),
+    Title VARCHAR(255),
+    Genre VARCHAR(100),
+    Release_Year INT,
+    Language VARCHAR(100),
+    Country VARCHAR(100),
+    Runtime_Min INT,
+    Budget_Million DECIMAL(10,2),
+    BoxOffice_Million DECIMAL(10,2),
+    IMDb_Rating DECIMAL(3,1),
+    Votes INT,
+    Streaming_Platform VARCHAR(100),
+    Director VARCHAR(255),
+    Actor VARCHAR(255),
+    RottenTomatoes_Score INT,
+    Movie_Age INT,
+    Profit_Million DECIMAL(10,2),
+    Profit_Percentage DECIMAL(10,2),
+    Success_Category VARCHAR(50)
+);
+
+select * from movie_dataset;
+
+
+select title, boxoffice_million
+from movie_dataset
+order by boxoffice_million desc
+limit 10;
+
+select genre, count(*) as genre_count
+from movie_dataset
+group by genre
+order by genre_count desc;
+
+select release_year, count(*) as movies_released
+from movie_dataset
+group by release_year
+order by release_year;
+
+select title, budget_million
+from movie_dataset
+where budget_million > 100
+order by budget_million desc;
+
+select title, profit_million
+from movie_dataset
+order by profit_million desc
+limit 10;
+
+select title, imdb_rating
+from movie_dataset
+where imdb_rating >= 8
+order by imdb_rating desc;
+
+select title, votes
+from movie_dataset
+order by votes desc
+limit 10;
+
+select country, sum(budget_million) as total_budget
+from movie_dataset
+group by country
+order by total_budget desc;
+
+select title, profit_percentage
+from movie_dataset
+where profit_percentage > 50
+order by profit_percentage desc;
+
+select streaming_platform, count(*) as total_movies
+from movie_dataset
+group by streaming_platform
+order by total_movies desc;
